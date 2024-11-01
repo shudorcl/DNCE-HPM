@@ -170,7 +170,7 @@ DONT_HAVE_THE_PROVINCE_MODIFIER;没有省份修正;;;;;;;;;;;;x
 HAS_NO_NATIONAL_MINORITY;有 少数民族;;;;;;;;;;;;x
 HAS_NOT_NATIONAL_MINORITY;有 少数民族;;;;;;;;;;;;x
 HAS_NATIONAL_MINORITY;有 少数民族;;;;;;;;;;;;x
-beifaren;北方汉人;;;;;;;;;;;;x
+beifaren;神州汉人;;;;;;;;;;;;x
 nanfaren;南方汉人;;;;;;;;;;;;x
 control_1;过时的活塞式蒸汽机;;;;;;;;;;;;x
 control_1_desc;过时是指某种事物，服务或做法不再被需要，即使它仍然处于良好的工作状态。事实上，活塞式蒸汽机已经变得相当过时并失去了一些优势。;;;;;;;;;;;;x
@@ -795,7 +795,7 @@ kaiganese;北海岸人;;;;;;;;;;;;x
 korean;朝鲜人;;;;;;;;;;;;x
 ainu;阿伊努人;;;;;;;;;;;;x
 chinese;中华民族;;;;;;;;;;;;x
-beifaren;北方汉人;;;;;;;;;;;;x
+beifaren;神州汉人;;;;;;;;;;;;x
 hui;回人;;;;;;;;;;;;x
 nanfaren;南方汉人;;;;;;;;;;;;x
 yi;彝人;;;;;;;;;;;;x
