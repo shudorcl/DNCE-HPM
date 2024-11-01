@@ -1,5 +1,5 @@
-owner = JAP
-controller = JAP
+owner = KKN
+controller = KKN
 add_core = KKN
 colonial = 2
 terrain = new_world_arctic
