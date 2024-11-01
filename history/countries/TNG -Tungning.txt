@@ -1,6 +1,5 @@
 capital = 1485
 primary_culture = beifaren
-culture = beifaren
 culture = min
 religion = mahayana
 government = prussian_constitutionalism

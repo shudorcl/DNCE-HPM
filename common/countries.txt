@@ -70,9 +70,7 @@ ADR = "countries/Andhra.txt"
 KKN = "countries/Kita Kaigan.txt"
 
 AIN = "countries/Ainu.txt"
-MIG = "countries/Ming.txt" #Regency of Nanjing
 TNG = "countries/Tungning.txt"
-TAI = "countries/Taiping.txt"
 MDR = "countries/Madurai.txt"
 VIJ = "countries/Vijayanagar.txt"
 NRI = "countries/Nri.txt"
@@ -90,8 +88,6 @@ DAR = "countries/Darfour.txt"
 AJU = "countries/Ajuuraan.txt"
 ARY = "countries/Aryanam.txt" #Iranshahr
 MCH = "countries/Manchuria.txt"
-DAX = "countries/Daxi.txt"
-SHU = "countries/Shun.txt"
 LFG = "countries/Lanfang.txt" #Lanfang
 MKS = "countries/Makassar.txt"
 TON = "countries/Tondo.txt" #Sugbu
@@ -617,7 +613,6 @@ MCK = "countries/Manchukuo.txt"
 GXI = "countries/Guangxi Clique.txt"
 SXI = "countries/Shanxi.txt"
 YNN = "countries/Yunnan.txt"
-XBI = "countries/Xibei San Ma.txt"
 XIN = "countries/Xinjiang.txt"
 
 # North America
@@ -673,6 +668,38 @@ U01 = "countries/Assimilation Manager.txt"
 
 ##DNCE
 CHQ = "countries/Qiguo.txt"
+QIN = "countries/QinGuo.txt"
+HAX = "countries/JinGuo.txt"
+CHU = "countries/ChuGuo.txt"
+CXU = "countries/XuGuo.txt"
+CSN = "countries/SongGuo.txt"
+CLU = "countries/LuGuo.txt"
+CHW = "countries/WeyGuo.txt"
+CZN = "countries/WeiGuo.txt"
+CBI = "countries/BaiGuo.txt"
+CDI = "countries/DaiGuo.txt"
+CQI = "countries/QingGuo.txt"
+CEN = "countries/ChenGuo.txt"
+CHA = "countries/HuangGuo.txt"
+CGN = "countries/GanGuo.txt"
+CQN = "countries/DianGuo.txt"
+CGU = "countries/GuiGuo.txt"
+CJA = "countries/JiangGuo.txt"
+CYN = "countries/KuiGuo.txt"
+CTN = "countries/TangGuo.txt"
+CWU = "countries/WuGuo.txt"
+CYU = "countries/YueGuo.txt"
+CMI = "countries/FuGuo.txt"
+CSU = "countries/ShuGuo.txt"
+CQO = "countries/QiongGuo.txt"
+CPN = "countries/NingGuo.txt"
+CLO = "countries/LiaoGuo.txt"
+DAX = "countries/ShuGuo.txt"
+SHU = "countries/YanGuo.txt"
+TAI = "countries/ZhouGuo.txt"
+XBI = "countries/SuGuo.txt"
+MIG = "countries/MingGuo.txt"
+
 
 ##HoD Dominions
 dynamic_tags = yes # any tags after this is considered dynamic dominions

@@ -1,6 +1,7 @@
-owner = MCK
-controller = MCK
 add_core = SHU
 add_core = CHI
 trade_goods = tea
 life_rating = 32
+owner = CSN
+controller = CSN
+add_core = CSN

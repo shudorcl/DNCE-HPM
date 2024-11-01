@@ -19,3 +19,10 @@ GAN_socialist_1;社会党;;;;;;;;;;;x
 GAN_socialist_2;激进派;;;;;;;;;;;x
 GAN_communist;共产党;;;;;;;;;;;x
 GAN_fascist;大洋党;;;;;;;;;;;x
+HUA_conservative;儒家;;;;;;;;;;x
+HUA_liberal;道家;;;;;;;;;;x
+HUA_reactionary;法家;;;;;;;;;;x
+HUA_anarcho_liberal;名家;;;;;;;;;;x
+HUA_socialist;农家;;;;;;;;;;x
+HUA_communist;墨家;;;;;;;;;;x
+HUA_fascist;兵家;;;;;;;;;;x

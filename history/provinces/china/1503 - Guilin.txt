@@ -1,6 +1,6 @@
-owner = TAI
-controller = TAI
-add_core = TAI
+owner = CGU
+controller = CGU
 add_core = CHI
 trade_goods = cotton
 life_rating = 32
+add_core = CGU

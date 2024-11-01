@@ -1,6 +1,6 @@
-owner = TAI
-controller = TAI
-add_core = TAI
+owner = CHU
+controller = CHU
 add_core = CHI
 trade_goods = silk
 life_rating = 32
+add_core = CHU

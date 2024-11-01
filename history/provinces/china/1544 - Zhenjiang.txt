@@ -1,5 +1,5 @@
 owner = MIG
-controller = MIG   
+controller = MIG
 add_core = TNG
 add_core = MIG
 add_core = CHI

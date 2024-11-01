@@ -1,0 +1,179 @@
+color = {210 83 17}
+graphical_culture = ChineseGC
+
+party = {
+	name = "HUA_conservative"
+	start_date = 1830.1.1
+	end_date = 2012.12.21
+
+	ideology = conservative
+    social_policy = no_position_set
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "HUA_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+    social_policy = no_position_set
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "HUA_reactionary"
+	start_date = 1830.1.1
+	end_date = 2012.12.21
+
+	ideology = reactionary
+    social_policy = no_position_set
+	
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "HUA_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2012.12.21
+
+	ideology = anarcho_liberal
+    social_policy = no_position_set
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "HUA_socialist"
+	start_date = 1848.1.1
+	end_date = 2012.12.21
+
+	ideology = socialist
+    social_policy = no_position_set
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "HUA_communist"
+	start_date = 1848.1.1
+	end_date = 2012.12.21
+
+	ideology = communist
+    social_policy = no_position_set
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = feigong
+}
+
+party = {
+	name = "HUA_fascist"
+	start_date = 1905.1.1
+	end_date = 2012.12.21
+
+	ideology = fascist
+    social_policy = no_position_set
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+
+unit_names = {
+	dreadnought = {
+		"建元" "元光" "元朔" "元狩" "元鼎" "元封" "太初" "天汉" "太始" "征和" "后元" 
+		"建武" "中元" "黄初" "章武" "黄武" "泰始" "元熙" "建兴" "太和" "永兴" "元玺" 
+		"永康" "建明" "皇始" "正始" "神鼎" "永和" "龙昇" "永初" "天坚" "永定" "登国" 
+		"天保" "武成" "开皇" "大业" "武德" "贞观" "永徽" "嗣圣" "文明" "光宅" "开元" 
+		"天宝" "至德" "广德" "建中" "永贞" "元和" "长庆" "宝历" "会昌" "大中" "咸通" 
+		"乾符" "龙纪" "天佑" "开平" "同光" "天福" "广顺" "建隆" "太平兴国" "咸平" "天圣" 
+		"治平" "熙宁" "元祐" "建中靖国" "建炎" "隆兴" "绍熙" "庆元" "宝庆" "咸淳" "德祐" 
+		"景炎" "神册" "收国" "明道" "中统" "洪武" "永乐" "洪熙" "宣德" "正统" "景泰" 
+		"成化" "弘治" "正德" "嘉靖" "万历" "泰昌" "天启" "崇祯" 
+		"威靖" "福靖" "扬武" 
+		"宣武" "定波" "伏波" "建威" "建安" "无畏" "无当" "龙威" "虎威" "靖远" "威远" 
+		"潮宏"  	
+	}
+	ironclad = {
+		"宣武" "靖远" "平海" "伏波" "威远" "宁海" "文俊" "正熙" "讨虏" "征东" "征南" 
+		"建威" "靖海" "奋起" "荣光" "英杰" "永翔" "统驰" "震澜" "自强" "共和" "寰宇" 
+		"国泰" "复兴" "文明" "破浪" "沧海" "长风" "雷霆" "智勇" "忠信" "仁德" "治平"
+                "盘古" "神农" "轩辕" "伏羲" "女娲" "有巢" "颛顼" "蚩尤" "祝融" "共工" "唐尧" 
+		"虞舜" "夏禹" "商汤" "武丁" "周文" "周武" "始皇" "高帝" "项羽" "冒顿" "孝文" 
+		"孝景" "孝武" "光武" "魏武" "昭烈" "仲谋" "晋武" "晋元" "武悼" "宋武" "齐高" 
+		"梁武" "陈武" "隋文" "隋炀" "唐祖" "唐宗" "明皇" "宋祖"
+		"震澜" "安澜" "建康" "建翼" "平远" "扬威" "振威" "海宁" "海靖" "自强" "共和" 
+		"中正" "威凤" "舞凤" "自由" 
+	}
+	manowar = {
+		"阳城" "安邑" "帝丘" "朝歌" "安阳" "镐京" "洛阳" "咸阳" "邯郸" "临淄" "蓟都" "大梁" 
+		"寿春" "新郑" "长安" "汴京" "金陵" "会宁" "邺都" "平城" "临潢" "兴庆" "长沙" "颖川" 
+		"濮阳" "平原" "江陵" "汉中" "庐江" "北海" "姑苏" "建宁" "交趾" "天水" "柴桑" "江夏" 
+		"许昌" "陈留" "襄阳"
+		"文俊号" "正熙号" "憧憬号" "威远号" "奋斗号" "讨虏号" "光明号" "征东号" "征南号" "海琛号" "英伟号" 
+		"飞鸿号" "憧憬号" "南新号" "宜昌号" "飞鸿号" "宁海号" "平海号" 
+	}
+	cruiser = {
+		"妇好" "太公" "孙武" "子胥" "吴起" "孙膑" "昌国" "廉颇" "马服" "李牧" "武安" "王翦" 
+    "蒙恬" "章邯" "子房" "韩信" "周勃" "亚夫" "李广" "卫青" "去病" "充国" "马援" "定远" 
+		"虞翊" "孔明" "云长" "公瑾" "奉先" "仲达" "伯言" "伯约" "杜预" "祖逖" "谢玄" "孝宽" 
+    "庆之" "长恭" "长孙晟" "高颍" "杨素" "李靖" "秦琼" "敬德" "仁贵" "光弼" "子仪" "李朔" 
+    "李绩" "仁轨" "行俭" "仙芝" "克用" "存孝" "彦章" "曹彬" "延昭" "狄青" "岳飞" "世忠" 
+    "徐达" "遇春" "于谦" "阳明" "继光" "大猷" "如松" "成功" "自成" 
+	}
+	frigate = {
+		"南京" "上海" "武汉" "重庆" "天津" "沈阳" "哈尔滨" "乌鲁木齐" "郑州" "南昌" "广州" 
+		"南宁" "海口" "台北" "合肥" "北平" "长春" "库伦" "伊犁" "归绥" "迪化" "福州" "拉萨"
+		"西宁" "昆明" "贵阳" "济南" "太原" "西安" "成都" "杭州" "银川" "兰州" "青岛" "大连" 
+		"旅顺" "威海" "高雄" "株洲" "厦门" "泉州" "松江" "徐州" "承德" "岳阳" "赣州" "南通" 
+		"扬州" "苏州" "桂林" "大理" "柳州" "湛江" "潮州" "九江" "安庆" "大同" "常德" "淮安" 
+                "海参威" "衡阳" "锦州" "马鞍山" 
+	}
+	monitor = {
+		"青龙" "白虎" "朱雀" "玄武" "鸾凤" "麒麟" "梼杌" "獬豸" "白泽" "鬼车" "凿齿" 
+		"横公" "重明" "毕方" "饕餮" "远飞" "诸犍" "混沌" "庆忌" "龟趺" "狴犴" "貔貅" 
+		"螭吻" "椒图" "囚牛" "蒲牢" "睚眦" "狻猊" "禺疆" "猰貐" "祸斗" "虚耗" "角端"
+		"烛龙" "玄蜂" "呲铁" "山臊" "火鼠" "商羊" "讹兽" "谛听" "化蛇" "九尾" "天狗" 
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		"泰山" "嵩山" "衡山" "衡山" "华山" "黄山" "武夷" "太行" "岳麓" "灵岩" "五台" 
+		"长白" "燕支" "贺兰" "天山" "喜玛拉雅" "峨嵋" "青城" "武当" "龙虎" "庐山" "雁荡" 
+		"阴山" "阿尔泰" "祁连" 
+		"长宁" "绥宁" "正宁" "抚宁" "大同" "逸仙" "永翔" "镜清" "统驰" "寰泰" "坚如" 
+		"仲元" "光华" "翔麟"  
+	}
+}

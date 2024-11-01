@@ -1,7 +1,7 @@
-owner = MCK
-controller = MCK
 add_core = XBI
-add_core = SHU
 add_core = CHI
 trade_goods = grain
 life_rating = 32
+owner = CQI
+controller = CQI
+add_core = CQI

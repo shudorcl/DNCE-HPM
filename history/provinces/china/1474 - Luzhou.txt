@@ -1,6 +1,7 @@
-owner = MCK
-controller = MCK
+owner = CHA
+controller = CHA
 add_core = MIG
 add_core = CHI
 trade_goods = cattle
 life_rating = 32
+add_core = CHA
