@@ -1,0 +1,22 @@
+name = "朝鲜自由之战"  # Joseon Fight for Freedom
+1835.10.2 = {
+  add_attacker = JAP
+  add_defender = KOR
+  add_defender = MCK
+  war_goal = {
+    casus_belli = civil_war
+    actor = JAP
+    receiver = KOR
+  }
+  war_goal = {
+    casus_belli = acquire_core_state
+    state_province_id = 1632
+    actor = KOR
+    receiver = JAP
+  }
+}
+1836.6.6 = {
+  rem_attacker = JAP
+  rem_defender = KOR
+  rem_defender = MCK
+}

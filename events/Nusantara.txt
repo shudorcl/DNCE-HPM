@@ -1,0 +1,61 @@
+country_event = {
+  id = 98250
+  title = "EVTNAME98250"
+  desc = "EVTDESC98250"
+  picture = "treaty"
+  is_triggered_only = yes
+  option = {
+    name = "98250.A"
+    prestige = -50
+    JAV = {
+      all_core = {
+        remove_core = THIS
+      }
+    }
+    random_country = {
+      limit = {
+        war_with = THIS
+        controls = 1413
+      }
+      end_war = THIS
+      country_event = 98251
+    }
+    any_country = {
+      limit = {
+        alliance_with = FROM
+        war_with = THIS
+      }
+      end_war = THIS
+    }
+  }
+}
+country_event = {
+  id = 98251
+  title = "EVTNAME98251"
+  desc = "EVTDESC98251"
+  picture = "treaty"
+  is_triggered_only = yes
+  option = {
+    name = "98251.A"
+    prestige = 25
+    FROM = {
+      any_owned = {
+        limit = {
+          is_core = JAV
+        }
+        secede_province = THIS
+      }
+    }
+    any_country = {
+      limit = {
+        alliance_with = FROM
+        war_with = THIS
+      }
+      end_war = THIS
+    }
+    years_of_research = 0.5
+    1413 = {
+      change_province_name = "ø®¿≠≈¡"  # Kalapa
+    }
+  }
+}

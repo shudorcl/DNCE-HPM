@@ -1,0 +1,283 @@
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+dismantle_cb;肢解国家;;;;;;;;;;;;x
+dismantle_cb_short;强制$RECIPIENT$解体;;;;;;;;;;;;x
+dismantle_cb_desc;强迫一位敌对列强肢解他们的帝国并支付战争赔款。;;;;;;;;;;;;x
+dismantle_cb_setup;强制$RECIPIENT$解体;;;;;;;;;;;;x
+dismantle_cb_add;肢解;;;;;;;;;;;;x
+dismantle_cb_add_short;强制$RECIPIENT$解体;;;;;;;;;;;;x
+dismantle_cb_add_desc;强迫一位敌对列强肢解他们的帝国并支付战争赔款。;;;;;;;;;;;;x
+dismantle_cb_add_setup;强制$RECIPIENT$解体;;;;;;;;;;;;x
+dismantle_cb_add_new;肢解;;;;;;;;;;;;x
+dismantle_cb_add_new_short;强制$RECIPIENT$解体;;;;;;;;;;;;x
+dismantle_cb_add_new_desc;强迫一位敌对列强肢解他们的帝国并支付战争赔款。;;;;;;;;;;;;x
+dismantle_cb_add_new_setup;强制$RECIPIENT$解体;;;;;;;;;;;;x
+acquire_core_state;获得核心地区;;;;;;;;;;;;x
+acquire_core_state_short;获得$STATE$;;;;;;;;;;;;x
+acquire_core_state_desc;获得我们视为核心领土的省份;;;;;;;;;;;;x
+acquire_core_state_setup;从$RECIPIENT$获得核心领土$STATE$;;;;;;;;;;;;x
+acquire_all_cores;获得所有核心领土;;;;;;;;;;;;x
+acquire_all_cores_short;从$RECIPIENT$获得所有核心领土;;;;;;;;;;;;x
+acquire_all_cores_desc;获得敌方一切拥有我国核心的省份;;;;;;;;;;;;x
+acquire_all_cores_setup;从$RECIPIENT$获得所有核心领土;;;;;;;;;;;;x
+unification_casus_belli;统一战争;;;;;;;;;;;;x
+unification_casus_belli_short;解放$STATE$;;;;;;;;;;;;x
+unification_casus_belli_desc;解放我们文化圈的核心领土;;;;;;;;;;;;x
+unification_casus_belli_setup;解放我们文化圈的核心领土;;;;;;;;;;;;x
+civil_war;内战;;;;;;;;;;;;x
+civil_war_short;联统;;;;;;;;;;;;x
+civil_war_desc;你的国家正处在一场内战之中;;;;;;;;;;;;x
+civil_war_setup;结束战争，使我们的国家重新统一在一个共同的旗帜下。;;;;;;;;;;;;x
+unification_annex_casus_belli;统一战争;;;;;;;;;;;;x
+unification_annex_casus_belli_short;吞并;;;;;;;;;;;;x
+unification_annex_casus_belli_desc;解放我们文化圈的核心领土;;;;;;;;;;;;x
+unification_annex_casus_belli_setup;解放我们文化圈的核心领土;;;;;;;;;;;;x
+annex_core_country;恢复秩序;;;;;;;;;;;;x
+annex_core_country_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+annex_core_country_desc;吞并一个国家所有拥有你核心的地区。;;;;;;;;;;;;x
+annex_core_country_setup;吞并$RECIPIENT$;;;;;;;;;;;;x
+add_to_sphere;纳入势力范围;;;;;;;;;;;;x
+add_to_sphere_short;将$RECIPIENT$纳入势力范围;;;;;;;;;;;;x
+add_to_sphere_desc;将该国纳入我们的势力范围;;;;;;;;;;;;x
+add_to_sphere_setup;将$RECIPIENT$纳入势力范围;;;;;;;;;;;;x
+unification_humiliate_cb;宣示霸权;;;;;;;;;;;;x
+unification_humiliate_cb_short;承认霸权;;;;;;;;;;;;x
+unification_humiliate_cb_desc;迫使另一个列强承认你对你文化圈的领导。他对该地区国家的所有影响力都将丧失。;;;;;;;;;;;;x
+unification_humiliate_cb_setup;迫使另一个列强承认你对你文化圈的领导。;;;;;;;;;;;;x
+unification_GP_humiliate;羞辱;;;;;;;;;;;;x
+unification_GP_humiliate_short;羞辱$RECIPIENT$;;;;;;;;;;;;x
+unification_GP_humiliate_desc;羞辱同文化圈的列强来展现我国的军事实力，在提升我国威望的同时降低他们的。;;;;;;;;;;;;x
+unification_GP_humiliate_setup;羞辱$RECIPIENT$;;;;;;;;;;;;x
+unification_add_to_sphere;纳入势力范围;;;;;;;;;;;;x
+unification_add_to_sphere_short;将$RECIPIENT$纳入势力范围;;;;;;;;;;;;x
+unification_add_to_sphere_desc;将同文化圈国家添加入我们的势力范围;;;;;;;;;;;;x
+unification_add_to_sphere_setup;将$RECIPIENT$纳入势力范围;;;;;;;;;;;;x
+take_from_sphere;移出势力范围;;;;;;;;;;;;x
+take_from_sphere_short;将$THIRD$移出势力范围;;;;;;;;;;;;x
+take_from_sphere_desc;将一个国家移出他所在的势力范围并纳入我方控制。;;;;;;;;;;;;x
+take_from_sphere_setup;将$THIRD$移出$RECIPIENT$的势力范围;;;;;;;;;;;;x
+free_peoples;解放人民;;;;;;;;;;;;x
+free_peoples_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
+free_peoples_desc;从压迫者手中解放一个国家;;;;;;;;;;;;x
+free_peoples_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
+free_allied_cores;解放盟国的核心领土;;;;;;;;;;;;x
+free_allied_cores_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
+free_allied_cores_desc;解放你势力范围内盟友的核心领土;;;;;;;;;;;;x
+free_allied_cores_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
+release_puppet;释放傀儡国;;;;;;;;;;;;x
+release_puppet_short;$THIRD$获得独立;;;;;;;;;;;;x
+release_puppet_desc;从主导国手中解放一个傀儡国;;;;;;;;;;;;x
+release_puppet_setup;从$RECIPIENT$解放$THIRD$;;;;;;;;;;;;x
+release_puppet_AI;释放傀儡国;;;;;;;;;;;;x
+release_puppet_AI_short;$THIRD$获得独立;;;;;;;;;;;;x
+release_puppet_AI_desc;从主导国手中解放一个傀儡国;;;;;;;;;;;;x
+release_puppet_AI_setup;从$RECIPIENT$解放$THIRD$;;;;;;;;;;;;x
+cut_down_to_size;制裁;;;;;;;;;;;;x
+cut_down_to_size_short;制裁$RECIPIENT$;;;;;;;;;;;;x
+cut_down_to_size_desc;强迫另一个国家裁军并向我们支付赔款。;;;;;;;;;;;;x
+cut_down_to_size_setup;制裁$RECIPIENT$;;;;;;;;;;;;x
+humiliate;羞辱;;;;;;;;;;;;x
+humiliate_short;羞辱$RECIPIENT$;;;;;;;;;;;;x
+humiliate_desc;羞辱国家以展现我们的军事实力，在提升我国威望的同时降低他们的。;;;;;;;;;;;;x
+humiliate_setup;羞辱$RECIPIENT$;;;;;;;;;;;;x
+place_in_the_sun;阳光下的土地;;;;;;;;;;;;x
+place_in_the_sun_short;获得$STATE$;;;;;;;;;;;;x
+place_in_the_sun_desc;夺取敌国的一个殖民地;;;;;;;;;;;;x
+place_in_the_sun_setup;获得$RECIPIENT$的殖民地$STATE$;;;;;;;;;;;;x
+acquire_state;获得地区;;;;;;;;;;;;x
+acquire_state_short;获得$STATE$;;;;;;;;;;;;x
+acquire_state_desc;获得敌国的一个地区;;;;;;;;;;;;x
+acquire_state_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+china_acquire_state;统一中国;;;;;;;;;;;;x
+china_acquire_state_short;获得$STATE$;;;;;;;;;;;;x
+china_acquire_state_desc;夺取中国的一个地区;;;;;;;;;;;;x
+china_acquire_state_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+china_conquest;统一中国;;;;;;;;;;;;x
+china_conquest_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+china_conquest_desc;吞并一个中国军阀;;;;;;;;;;;;x
+china_conquest_setup;吞并$RECIPIENT$;;;;;;;;;;;;x
+china_acquire_state_2;统一中国;;;;;;;;;;;;x
+china_acquire_state_2_short;获得$STATE$;;;;;;;;;;;;x
+china_acquire_state_2_desc;夺取中国的一个地区;;;;;;;;;;;;x
+china_acquire_state_2_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+demand_concession_casus_belli;索要租借地;;;;;;;;;;;;x
+demand_concession_casus_belli_short;索要$STATE$;;;;;;;;;;;;x
+demand_concession_casus_belli_desc;强令非西化国家割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_casus_belli_setup;要求$RECIPIENT$割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_NI_casus_belli;索要租借地;;;;;;;;;;;;x
+demand_concession_NI_casus_belli_short;索要$STATE$;;;;;;;;;;;;x
+demand_concession_NI_casus_belli_desc;强令非西化国家割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_NI_casus_belli_setup;要求$RECIPIENT$割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_BC_casus_belli;索要租借地;;;;;;;;;;;;x
+demand_concession_BC_casus_belli_short;索要$STATE$;;;;;;;;;;;;x
+demand_concession_BC_casus_belli_desc;强令非西化国家割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_BC_casus_belli_setup;要求$RECIPIENT$割让领土成为我国殖民地。;;;;;;;;;;;;x
+rude_boy;遏制;;;;;;;;;;;;x
+rude_boy_short;遏制$RECIPIENT$;;;;;;;;;;;;x
+rude_boy_desc;迫使另一个已经在国际上抛弃一切文明行为的国家大幅降低其野心。;;;;;;;;;;;;x
+rude_boy_setup;通过减少他们的领土、威望和军队以遏制$RECIPIENT$。;;;;;;;;;;;;x
+conquest;征服;;;;;;;;;;;;x
+conquest_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+conquest_desc;吞并一个只有一个省份的国家;;;;;;;;;;;;x
+conquest_setup;吞并$RECIPIENT$;;;;;;;;;;;;x
+annex_africa;瓜分非洲;;;;;;;;;;;;x
+annex_africa_short;依据国际列强会议原则，强令$RECIPIENT$割让领土。;;;;;;;;;;;;x
+annex_africa_desc;强令非西化国家依据国际列强会议原则割让领土。;;;;;;;;;;;;x
+annex_africa_setup;依据国际列强会议原则，强令$RECIPIENT$割让领土。;;;;;;;;;;;;x
+annex_africa_full;瓜分非洲——吞并;;;;;;;;;;;;x
+annex_africa_full_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+annex_africa_full_desc;强令非西化国家依据国际列强会议原则成为我们的保护国。;;;;;;;;;;;;x
+annex_africa_full_setup;依据国际列强会议原则，吞并$RECIPIENT$。;;;;;;;;;;;;x
+establish_protectorate_casus_belli;建立保护国;;;;;;;;;;;;x
+establish_protectorate_casus_belli_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+establish_protectorate_casus_belli_desc;吞并非西化国家，使其成为我们的保护国。;;;;;;;;;;;;x
+establish_protectorate_casus_belli_setup;吞并$RECIPIENT$，成为我们的保护国;;;;;;;;;;;;x
+establish_protectorate_NI_casus_belli;建立保护国;;;;;;;;;;;;x
+establish_protectorate_NI_casus_belli_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+establish_protectorate_NI_casus_belli_desc;吞并非西化国家，使其成为我们的保护国。;;;;;;;;;;;;x
+establish_protectorate_NI_casus_belli_setup;吞并$RECIPIENT$，成为我们的保护国;;;;;;;;;;;;x
+establish_protectorate_BC_casus_belli;建立保护国;;;;;;;;;;;;x
+establish_protectorate_BC_casus_belli_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+establish_protectorate_BC_casus_belli_desc;吞并非西化国家，使其成为我们的保护国。;;;;;;;;;;;;x
+establish_protectorate_BC_casus_belli_setup;吞并$RECIPIENT$，成为我们的保护国;;;;;;;;;;;;x
+status_quo;维持现状;;;;;;;;;;;;x
+status_quo_short;维持现状;;;;;;;;;;;;x
+status_quo_desc;尝试干涉战争，忽视任何一方实现其战争目标;;;;;;;;;;;;x
+status_quo_setup;我们只想孤立。;;;;;;;;;;;;x
+great_war_install_democracy;建立民主政府;;;;;;;;;;;;x
+great_war_install_democracy_short;在$RECIPIENT$建立友好的民主政权;;;;;;;;;;;;x
+great_war_install_democracy_desc;在该国首都建立友好的民主政权;;;;;;;;;;;;x
+great_war_install_democracy_setup;在$RECIPIENT$建立友好的民主政权;;;;;;;;;;;;x
+great_war_install_fascism;建立法西斯主义;;;;;;;;;;;;x
+great_war_install_fascism_short;在$RECIPIENT$扶植法西斯政权;;;;;;;;;;;;x
+great_war_install_fascism_desc;在该国首都建立友好的法西斯政权;;;;;;;;;;;;x
+great_war_install_fascism_setup;在$RECIPIENT$扶植法西斯政权;;;;;;;;;;;;x
+great_war_install_communism;建立共产主义;;;;;;;;;;;;x
+great_war_install_communism_short;在$RECIPIENT$扶植共产主义政权;;;;;;;;;;;;x
+great_war_install_communism_desc;在该国首都建立友好的共产主义政权;;;;;;;;;;;;x
+great_war_install_communism_setup;在$RECIPIENT$扶植共产主义政权;;;;;;;;;;;;x
+install_democracy;建立民主政府;;;;;;;;;;;;x
+install_democracy_short;在$RECIPIENT$建立友好的民主政权;;;;;;;;;;;;x
+install_democracy_desc;在该国首都建立友好的民主政权;;;;;;;;;;;;x
+install_democracy_setup;在$RECIPIENT$建立友好的民主政权;;;;;;;;;;;;x
+install_fascism;建立法西斯主义;;;;;;;;;;;;x
+install_fascism_short;在$RECIPIENT$扶植法西斯政权;;;;;;;;;;;;x
+install_fascism_desc;在该国首都建立友好的法西斯政权;;;;;;;;;;;;x
+install_fascism_setup;在$RECIPIENT$扶植法西斯政权;;;;;;;;;;;;x
+install_communism;建立共产主义;;;;;;;;;;;;x
+install_communism_short;在$RECIPIENT$扶植共产主义政权;;;;;;;;;;;;x
+install_communism_desc;在该国首都建立友好的共产主义政权;;;;;;;;;;;;x
+install_communism_setup;在$RECIPIENT$扶植共产主义政权;;;;;;;;;;;;x
+call_allies_cb;召唤盟友;;;;;;;;;;;;x
+call_allies_cb_short;召唤盟友;;;;;;;;;;;;x
+call_allies_cb_desc;召唤盟友;;;;;;;;;;;;x
+call_allies_cb_setup;召唤盟友;;;;;;;;;;;;x
+acquire_any_state;获得地区;;;;;;;;;;;;x
+acquire_any_state_short;获得$STATE$;;;;;;;;;;;;x
+acquire_any_state_desc;获得敌国的一个地区;;;;;;;;;;;;x
+acquire_any_state_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+conquest_any;征服;;;;;;;;;;;;x
+conquest_any_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+conquest_any_desc;征服敌方国家;;;;;;;;;;;;x
+conquest_any_setup;吞并$RECIPIENT$;;;;;;;;;;;;x
+hre_unification;恢复帝国权威;;;;;;;;;;;;x
+hre_unification_short;从$RECIPIENT$手中解放神圣罗马帝国领土;;;;;;;;;;;;x
+hre_unification_desc;我们必须打败我们的敌人，并将帝国统一在我们的权威之下！;;;;;;;;;;;;x
+hre_unification_setup;从$RECIPIENT$手中解放神圣罗马帝国领土;;;;;;;;;;;;x
+hre_unification2;恢复帝国权威;;;;;;;;;;;;x
+hre_unification2_short;从$RECIPIENT$手中解放神圣罗马帝国领土;;;;;;;;;;;;x
+hre_unification2_desc;我们必须打败我们的敌人，并将帝国统一在我们的权威之下！;;;;;;;;;;;;x
+hre_unification2_setup;从$RECIPIENT$手中解放神圣罗马帝国领土;;;;;;;;;;;;x
+annex_india_AI;瓜分印度——索要领土;;;;;;;;;;;;x
+annex_india_AI_desc;强令非西化国家依据国际列强会议原则割让领土。;;;;;;;;;;;;x
+annex_india_AI_setup;依据国际列强会议原则，强令$RECIPIENT$割让领土。;;;;;;;;;;;;x
+annex_india_AI_short;索要$STATE$;;;;;;;;;;;;x
+annex_india_full_AI;瓜分印度——吞并;;;;;;;;;;;;x
+annex_india_full_AI_desc;强令非西化国家依据国际列强会议原则成为我们的保护国。;;;;;;;;;;;;x
+annex_india_full_AI_setup;依据国际列强会议原则，吞并$RECIPIENT$。;;;;;;;;;;;;x
+annex_india_full_AI_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+AGRESSION_WAR_DISMANTLE_NAME;$ORDER$ $FIRST$侵略战争;;;;;;;;;;;;x
+NORMAL_WAR_DISMANTLE_NAME;$ORDER$ $FIRST$肢解$SECOND$帝国战争;;;;;;;;;;;;x
+AGRESSION_WAR_NAME;$ORDER$ $FIRST$侵略战争;;;;;;;;;;;;x
+NORMAL_WAR_NAME;$ORDER$ $FIRST$-$SECOND$战争;;;;;;;;;;;;x
+NORMAL_WAR_NAME_ENG_USA;$ORDER$ $FIRST$-$SECOND$战争;;;;;;;;;;;;x
+AGRESSION_WAR_TAKE_CORE_NAME;$ORDER$ $FIRST$侵略$STATE$之战;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME;$ORDER$ $FIRST$解放$STATE$之战;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_SHW_GON;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_SHW_TIG;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_GON_SHW;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_GON_TIG;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_TIG_SHW;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_TIG_GON;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$ $FIRST$解放$STATE$之战;;;;;;;;;;;;x
+AGRESSION_WAR_ALL_CORES_NAME;$ORDER$ $FIRST$解放战争;;;;;;;;;;;;x
+AGRESSION_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$美墨战争;;;;;;;;;;;;x
+NORMAL_WAR_ALL_CORES_NAME;$ORDER$ $FIRST$解放战争;;;;;;;;;;;;x
+NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$美墨战争;;;;;;;;;;;;x
+AGRESSION_WAR_UNIFICATION_NAME;$ORDER$ $FIRST$解放$STATE$之战;;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME;$ORDER$ $FIRST$解放$STATE$之战;;;;;;;;;;;;x
+AGRESSION_CIVIL_WAR_NAME;$ORDER$ $FIRST$内战;;;;;;;;;;;;x
+AGRESSION_CIVIL_WAR_NAME_QNG_TPG;$ORDER$太平天国运动;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME;$ORDER$ $FIRST$内战;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_SAT;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_CHO;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_TOS;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_KAG;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_SEN;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_YZW;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_FSA;$ORDER$美国内战;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$阿拉伯主导权战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$阿拉伯主导权战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_QNG_TPG;$ORDER$太平天国运动;;;;;;;;;;;;x
+AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$解放$SECOND_COUNTRY$之战;;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$解放$SECOND_COUNTRY$之战;;;;;;;;;;;;x
+AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$ $FIRST$恢复$SECOND$秩序;;;;;;;;;;;;x
+AGRESSION_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$拉普拉塔战争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME;$ORDER$ $FIRST$恢复$SECOND$秩序;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_TRN;$ORDER$布尔战争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_ORA;$ORDER$布尔战争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_NAL;$ORDER$布尔战争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_SHW_GON;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_SHW_TIG;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_GON_SHW;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_GON_TIG;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_TIG_SHW;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_TIG_GON;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$拉普拉塔战争;;;;;;;;;;;;x
+AGRESSION_WAR_ADD_SPHERE_NAME;$ORDER$镇压$SECOND$之战;;;;;;;;;;;;x
+NORMAL_WAR_ADD_SPHERE_NAME;$ORDER$ $SECOND$屈服战争;;;;;;;;;;;;x
+AGRESSION_UNIFICATION_HUMILIATE_NAME;$FIRST$-$SECOND$兄弟之战;;;;;;;;;;;;x
+NORMAL_UNIFICATION_HUMILIATE_NAME;$FIRST$-$SECOND$兄弟之战;;;;;;;;;;;;x
+AGRESSION_WAR_TAKE_SPHERE_NAME;$ORDER$ $FIRST$-$SECOND$ $COUNTRY$战争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$ $COUNTRY$战争;;;;;;;;;;;;x
+AGRESSION_WAR_FREE_NAME;$ORDER$ $FIRST$解放$COUNTRY$战争;;;;;;;;;;;;x
+NORMAL_WAR_FREE_NAME;$ORDER$ $FIRST$ $COUNTRY_ADJ$自由战争;;;;;;;;;;;;x
+AGRESSION_WAR_FREE_ALLIED_CORE_NAME;$ORDER$ $FIRST$ $COUNTRY_ADJ$复国战争;;;;;;;;;;;;x
+NORMAL_WAR_FREE_ALLIED_CORE_NAME;$ORDER$ $FIRST$ $COUNTRY_ADJ$复国战争;;;;;;;;;;;;x
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$ $FIRST$侵略战争;;;;;;;;;;;;x
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$克里米亚战争;;;;;;;;;;;;x
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$ $FIRST$-$SECOND$战争;;;;;;;;;;;;x
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$克里米亚战争;;;;;;;;;;;;x
+AGRESSION_WAR_HUMILIATE_NAME;$ORDER$ $FIRST$羞辱$SECOND$之战;;;;;;;;;;;;x
+AGRESSION_WAR_COLONIAL_NAME;$ORDER$ $FIRST$殖民$STATE$战争;;;;;;;;;;;;x
+NORMAL_WAR_COLONIAL_NAME;$ORDER$ $FIRST$殖民征服$STATE$;;;;;;;;;;;;x
+AGRESSION_WAR_TAKE_NAME;$ORDER$ $FIRST$STATE$战争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME;$ORDER$ $FIRST$征服$STATE$之战;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_QNG;$ORDER$鸦片战争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$ $FIRST$征服$STATE$之战;;;;;;;;;;;;x
+AGRESSION_WAR_CHINA_REUNIFICATION;$ORDER$ $FIRST$-$SECOND$中国统一战争;;;;;;;;;;;;x
+NORMAL_WAR_CHINA_REUNIFICATION;$ORDER$ $FIRST$-$SECOND$中国统一战争;;;;;;;;;;;;x
+AGRESSION_WAR_CONCESSION_NAME;$ORDER$ $STATE$租界战争;;;;;;;;;;;;x
+NORMAL_WAR_CONCESSION_NAME;$ORDER$ $STATE$租界战争;;;;;;;;;;;;x
+AGRESSION_WAR_RUDEBOI_NAME;$ORDER$ $FIRST$遏制$SECOND$战争;;;;;;;;;;;;x
+NORMAL_WAR_RUDEBOI_NAME;$ORDER$ $FIRST$遏制$SECOND$战争;;;;;;;;;;;;x
+AGRESSION_WAR_CONQUEST_NAME;$ORDER$ $FIRST$侵略$SECOND_COUNTRY$之战;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME;$ORDER$征服$SECOND$之战;;;;;;;;;;;;x
+AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$ $FIRST$吞并$SECOND_COUNTRY$;;;;;;;;;;;;x
+NORMAL_WAR_PROTECTORATE_NAME;$ORDER$ $FIRST$吞并$SECOND_COUNTRY$;;;;;;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME;$ORDER$ $FIRST$控制$SECOND_COUNTRY$战争;;;;;;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$罗马尼亚独立战争;;;;;;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME_ENG_IRE;$ORDER$爱尔兰独立战争;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$东方危机;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$罗马尼亚独立战争;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_IRE;$ORDER$爱尔兰独立战争;;;;;;;;;;;;x

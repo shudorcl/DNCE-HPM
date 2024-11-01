@@ -1,0 +1,14 @@
+name = "…Ò∑Ô»Î«÷"  # Phoenix Invasion
+1835.10.2 = {
+  add_attacker = TNG
+  add_defender = MIG
+  war_goal = {
+    casus_belli = conquest
+    actor = TNG
+    receiver = MIG
+  }
+}
+1837.2.6 = {
+  rem_attacker = TNG
+  rem_defender = MCK
+}

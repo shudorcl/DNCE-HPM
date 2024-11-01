@@ -1,0 +1,20 @@
+name = "阿比西尼亚内战"  # Ethiopian Civil War
+1835.10.2 = {
+  add_attacker = AMT
+  add_defender = ADA
+  war_goal = {
+    casus_belli = civil_war
+    actor = AMT
+    receiver = ADA
+  }
+  war_goal = {
+    casus_belli = acquire_core_state
+    state_province_id = 1848
+    actor = ADA
+    receiver = AMT
+  }
+}
+1836.6.6 = {
+  rem_attacker = AMT
+  rem_defender = ADA
+}
