@@ -671,6 +671,9 @@ UTI = "countries/Utility Tag.txt"
 U01 = "countries/Assimilation Manager.txt"
 ##
 
+##DNCE
+CHQ = "countries/Qiguo.txt"
+
 ##HoD Dominions
 dynamic_tags = yes # any tags after this is considered dynamic dominions
 D01 = "countries/D01.txt"
