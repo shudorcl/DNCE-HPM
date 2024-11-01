@@ -183,7 +183,7 @@ beneluxian = {
 
         last_names = {
             "van der Aa" "van Assendelft" Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode"
-            Brouwer Buyskes "van Braam Houckgeest" "van der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn
+            Brouwer Buyskes "van Braam Houckgeest" "van der Capellen" Chass„1¤7 Cochius Coops "de Casembroot" Cleerens Coehoorn
             Coen "de Constant Rebecque" Crijnssen "van Culemborg" Duycker "de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels
             "van Diemen" "van der Does" "van Duivenvoorde" Ellis Engels Engelvaart "van Egmont" Evertzen Fabius Gregory
             "van Galen" "de Grouwe" "van Geen" "van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek"
@@ -202,7 +202,7 @@ beneluxian = {
         }
         first_names = {
             Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine
-            Auguste Boudewijn Bonifaas Camille Charles Constant David Désiré Diederik Edmond
+            Auguste Boudewijn Bonifaas Camille Charles Constant David Désir„1¤7 Diederik Edmond
             Emmanuel Etienne Eugène Félix Filip Frans Ferdinand François Frederik Guillaume
             Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-François
             Jean-Louis Jean-Jacques Jochem Joseph Josse Jozef Jules Karel Laurens Léon
@@ -234,8 +234,8 @@ beneluxian = {
             190 90 20
         }
         first_names = {
-            Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise
-            Camille Clément Charles Constant Damien David Désiré Didier Edmond Édouard
+            Albert Alexandre Alexis Alphonse Andr„1¤7 Antoine Auguste Barthélémy Baudouin Blaise
+            Camille Clément Charles Constant Damien David Désir„1¤7 Didier Edmond Édouard
             Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric
             Georges Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore
             Jacques Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent
@@ -247,8 +247,8 @@ beneluxian = {
         last_names = {
             Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies
             Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart
-            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarmé" "de Bousies"
-            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Croÿ" "de Decker" "de Dixmude" "de Gerlache"
+            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarm„1¤7" "de Bousies"
+            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Cro„1¤7" "de Decker" "de Dixmude" "de Gerlache"
             "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mérode" "de Pelichy" "de Quarre"
             "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies"
             "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier Devaux
@@ -265,8 +265,8 @@ beneluxian = {
             190 90 20
         }
         first_names = {
-            Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise
-            Camille Clément Charles Constant Damien David Désiré Didier Edmond Édouard
+            Albert Alexandre Alexis Alphonse Andr„1¤7 Antoine Auguste Barthélémy Baudouin Blaise
+            Camille Clément Charles Constant Damien David Désir„1¤7 Didier Edmond Édouard
             Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric
             Georges Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore
             Jacques Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent
@@ -278,8 +278,8 @@ beneluxian = {
         last_names = {
             Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies
             Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart
-            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarmé" "de Bousies"
-            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Croÿ" "de Decker" "de Dixmude" "de Gerlache"
+            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarm„1¤7" "de Bousies"
+            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Cro„1¤7" "de Decker" "de Dixmude" "de Gerlache"
             "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mérode" "de Pelichy" "de Quarre"
             "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies"
             "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier Devaux
@@ -390,7 +390,7 @@ scandinavian = {
         first_names = {
             Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
             Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
-            Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho
+            Kurt Lars Martti Mikko Paavo Petteri Rudolf Väin„1¤7 Viktor Vilho
         }
 
         last_names = {
@@ -615,17 +615,17 @@ italian = {
             220 110 30
         }
         first_names = {
-            Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Carles Cassià Dalmau
+            Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Carles Cassi„1¤7 Dalmau
             David Eduard Enric Enrique Federico Felip Fernando Ferran Francesc Gaspar
-            Gerard Isaac Jacint Jaume Joan Jordi José Josep Juan Llorenç
+            Gerard Isaac Jacint Jaume Joan Jordi Jos„1¤7 Josep Juan Lloren„1¤7
             Lluis Manel Manuel Marc Miquel Narcís Pasqual Pau Pedro Pere
-            Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Valntí Victor Xavier
+            Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Valnt„1¤7 Victor Xavier
         }
 
         last_names = {
-            Albéniz Almirall Bacardí Batet Berenguer Borrás Borrell Cadafall Carner Casals
-            Casanova Castelló Claramunt Cucala Cugat Despujol Domènech Escotet Fabra Fages
-            "Folc de Cardona" Gumerà Irla Llauder Macià Maragall Margall "Milans del Bosch" Miró Mompou
+            Albéniz Almirall Bacard„1¤7 Batet Berenguer Borrás Borrell Cadafall Carner Casals
+            Casanova Castell„1¤7 Claramunt Cucala Cugat Despujol Domènech Escotet Fabra Fages
+            "Folc de Cardona" Gumer„1¤7 Irla Llauder Maci„1¤7 Maragall Margall "Milans del Bosch" Mir„1¤7 Mompou
             Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba
             Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives
         }
@@ -644,7 +644,7 @@ iberian = {
         first_names = {
             Agustín Aitor Alberto Ander Andoni Andrés Ángel Antonio Arturo Carlos
             Ceferino Cosme Cristobal Damián Endika "Francisco Javier" Ignacio Imanol Iñaki Jesús
-            Jon "José Antonio" "José María" Joseba Josu Juan Julen Koldobika Luis Manuel
+            Jon "Jos„1¤7 Antonio" "Jos„1¤7 María" Joseba Josu Juan Julen Koldobika Luis Manuel
             Marino Miguel Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente
         }
 
@@ -665,13 +665,13 @@ iberian = {
             Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
             Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
             "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-            Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
+            Joaquín Jos„1¤7 "Jos„1¤7 Antonio" "Jos„1¤7 Manuel" "Jos„1¤7 María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
             Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
             Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente
         }
 
         last_names = {
-            Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+            Acuña Aguirre Alcal„1¤7-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
             Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón" "de Carvajal"
             "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco García "García de la Noceda"
             González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López Maroto Márquez
@@ -685,13 +685,13 @@ iberian = {
             160 220 30
         }
         first_names = {
-            Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino
+            Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro Andr„1¤7 António Aquilino
             Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
             Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando
             Filipe Francisco "Francisco Xavier" Gastão Hermenegildo Ignácio Jerônimo João Joaquim Jorge
-            José Julio Leopoldo Luís Manuel Mário Miguel Nicolau Nuno Orlando
+            Jos„1¤7 Julio Leopoldo Luís Manuel Mário Miguel Nicolau Nuno Orlando
             Oscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago
-            Sebastião Teodoro Teófilo Tiago Tomé Urbano Vasco Vicente Vitorino Vitório
+            Sebastião Teodoro Teófilo Tiago Tom„1¤7 Urbano Vasco Vicente Vitorino Vitório
         }
 
         last_names = {
@@ -713,13 +713,13 @@ iberian = {
             Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
             Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
             "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-            Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
+            Joaquín Jos„1¤7 "Jos„1¤7 Antonio" "Jos„1¤7 Manuel" "Jos„1¤7 María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
             Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
             Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente
         }
 
         last_names = {
-            Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+            Acuña Aguirre Alcal„1¤7-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
             Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón" "de Carvajal"
             "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco García "García de la Noceda"
             González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López Maroto Márquez
@@ -746,7 +746,7 @@ french = {
         }
 
         last_names = {
-            Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+            Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou„1¤7 de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
             Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
             "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
             Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
@@ -773,7 +773,7 @@ french = {
         }
         first_names = {
             Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan
-            Jacin Laurenç Martin Nicolau Privat Roman Vincenç
+            Jacin Lauren„1¤7 Martin Nicolau Privat Roman Vincen„1¤7
         }
 
         last_names = {
@@ -794,7 +794,7 @@ french = {
         }
 
         last_names = {
-            Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+            Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou„1¤7 de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
             Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
             "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
             Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
@@ -814,7 +814,7 @@ french = {
         }
 
         last_names = {
-            Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+            Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou„1¤7 de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
             Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
             "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
             Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
@@ -834,7 +834,7 @@ french = {
         }
 
         last_names = {
-            Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+            Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou„1¤7 de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
             Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
             "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
             Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
@@ -962,7 +962,7 @@ pan_albanian = {
         first_names = {
             Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
             Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
-            Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lekë
+            Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lek„1¤7
             Maliq Marin mehdi Musa Mustafa Pandeli Petro Qamil Qazim Ramush
             Rexhep Shefqet Skënder Sulejman Tewfik Theofan Turhan Vasil Veton Xhafer
         }
@@ -972,7 +972,7 @@ pan_albanian = {
             "Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza Çabej
             Çeku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
             Koculi Konica Konushevci Kosturi Kota Logoreci Merlika-Kruja Mitrovica Mula Noli
-            "Pashë Përmeti" "Pashë Tepelena" "Pashë Toptani" Poga "Qemal Bej" Shahini Skiroi Thaçi Troja Xoxe
+            "Pash„1¤7 Përmeti" "Pash„1¤7 Tepelena" "Pash„1¤7 Toptani" Poga "Qemal Bej" Shahini Skiroi Thaçi Troja Xoxe
         }
         radicalism = 15
     }
@@ -984,7 +984,7 @@ pan_albanian = {
         first_names = {
             Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
             Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
-            Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lekë
+            Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lek„1¤7
             Maliq Marin mehdi Musa Mustafa Pandeli Petro Qamil Qazim Ramush
             Rexhep Shefqet Skënder Sulejman Tewfik Theofan Turhan Vasil Veton Xhafer
         }
@@ -994,7 +994,7 @@ pan_albanian = {
             "Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza Çabej
             Çeku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
             Koculi Konica Konushevci Kosturi Kota Logoreci Merlika-Kruja Mitrovica Mula Noli
-            "Pashë Përmeti" "Pashë Tepelena" "Pashë Toptani" Poga "Qemal Bej" Shahini Skiroi Thaçi Troja Xoxe
+            "Pash„1¤7 Përmeti" "Pash„1¤7 Tepelena" "Pash„1¤7 Toptani" Poga "Qemal Bej" Shahini Skiroi Thaçi Troja Xoxe
         }
     }	
 	
@@ -1037,15 +1037,15 @@ hungarian_culture_group = {
         }
         first_names = {
             Alajos Albert Álmos Attila András Arisztid Aurél Béla Benedek Bertalan
-            Botond Dániel Dávid Edvárd Éliás Ernõ Ferenc Gábor Gábriel Gáspár
+            Botond Dániel Dávid Edvárd Éliás Ern„1¤7 Ferenc Gábor Gábriel Gáspár
             György Gyula Ignác Imre István Izidor János József Kálmán Károly
-            Kelemen Krisztian Lajos László Mihály Mór Miklós Mózes Nepomuk Ödön
-            Ottó Péter Rafael Sándor Simon Tivadar Vilmos Zsigmond
+            Kelemen Krisztian Lajos Lászl„1¤7 Mihály Mór Miklós Mózes Nepomuk Ödön
+            Ott„1¤7 Péter Rafael Sándor Simon Tivadar Vilmos Zsigmond
         }
 
         last_names = {
             Andrássy Apponyi Bacher Baross Batthyány Beöthy Bethlen Damjanich Dessewffy Egressy
-            Farkas Geönczeöl Goldziher Hauszmann Heller Horthy Izsó Joseffy Katona Karcsay
+            Farkas Geönczeöl Goldziher Hauszmann Heller Horthy Izs„1¤7 Joseffy Katona Karcsay
             Kaufman Károlyi Kéler Kiss Knezich Kogutowicz Lahner Lázár Liszt Mikszáth
             Molnár Nagy-Sándor Ostrovac Pauk Petõfi Perczel Reményi Teleki Thököly Széchenyi
             Szemere Szent-Györgyi Tersztyánszky Török Varga Vécsey
@@ -1058,15 +1058,15 @@ hungarian_culture_group = {
         }
         first_names = {
             Alajos Albert Álmos Attila András Arisztid Aurél Béla Benedek Bertalan
-            Botond Dániel Dávid Edvárd Éliás Ernõ Ferenc Gábor Gábriel Gáspár
+            Botond Dániel Dávid Edvárd Éliás Ern„1¤7 Ferenc Gábor Gábriel Gáspár
             György Gyula Ignác Imre István Izidor János József Kálmán Károly
-            Kelemen Krisztian Lajos László Mihály Mór Miklós Mózes Nepomuk Ödön
-            Ottó Péter Rafael Sándor Simon Tivadar Vilmos Zsigmond
+            Kelemen Krisztian Lajos Lászl„1¤7 Mihály Mór Miklós Mózes Nepomuk Ödön
+            Ott„1¤7 Péter Rafael Sándor Simon Tivadar Vilmos Zsigmond
         }
 
         last_names = {
             Andrássy Apponyi Bacher Baross Batthyány Beöthy Bethlen Damjanich Dessewffy Egressy
-            Farkas Geönczeöl Goldziher Hauszmann Heller Horthy Izsó Joseffy Katona Karcsay
+            Farkas Geönczeöl Goldziher Hauszmann Heller Horthy Izs„1¤7 Joseffy Katona Karcsay
             Kaufman Károlyi Kéler Kiss Knezich Kogutowicz Lahner Lázár Liszt Mikszáth
             Molnár Nagy-Sándor Ostrovac Pauk Petõfi Perczel Reményi Teleki Thököly Széchenyi
             Szemere Szent-Györgyi Tersztyánszky Török Varga Vécsey
@@ -1132,16 +1132,16 @@ czecho_slovak_culture_group = {
         first_names = {
             Abraham Alexander Alfred Alois Antonín August Bedrich Benedikt Borivoj Cenek
             Dávid Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver" Hermenegild
-            Ján "Ján Krtitel" "Ján Nepomuk" Jaroslav Jindrich Jirí Josef Kajetan Karel Konstantin
+            Ján "Ján Krtitel" "Ján Nepomuk" Jaroslav Jindrich Jir„1¤7 Josef Kajetan Karel Konstantin
             Ladislav Luvík Matyas Maxmilián Mikulás Olbram Otakar Pavel Petr Radola
             Rafael Tomás Václav Vincenc Vitezslav Vlastimil Vojtech Vratislav Zdenek
         }
 
         last_names = {
-            Albert Balaban Basch Breisky Celovský Dvorák Fibich Gajda Gellner Hálek
-            Hrdlicka Jirecek Kadlec Kafka Koller Krízkovský Kucera Kuchar Lederer Makosky
-            Mik Morávec Nemecek Neruda Novácek Novotný Popper Radecký Rokytanský Safárik
-            Safránek Schack Schubert Skoda Skuherský Smetana Snejdárek Suk Svoboda Syrový
+            Albert Balaban Basch Breisky Celovsk„1¤7 Dvorák Fibich Gajda Gellner Hálek
+            Hrdlicka Jirecek Kadlec Kafka Koller Krízkovsk„1¤7 Kucera Kuchar Lederer Makosky
+            Mik Morávec Nemecek Neruda Novácek Novotn„1¤7 Popper Radeck„1¤7 Rokytansk„1¤7 Safárik
+            Safránek Schack Schubert Skoda Skuhersk„1¤7 Smetana Snejdárek Suk Svoboda Syrov„1¤7
             Tomásek Tyl Vitásek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Zíbrt Zívr Zoubek
         }
         radicalism = 5
@@ -1161,7 +1161,7 @@ czecho_slovak_culture_group = {
 
         last_names = {
             Áchim Bázlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
-            Figus-Bystrý Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajanský Husák
+            Figus-Bystr„1¤7 Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajansk„1¤7 Husák
             Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malár Malovec Markovic
             Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
             Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch
@@ -1722,8 +1722,8 @@ north_caucasian_group = {
         }
 
         last_names = {
-            Mollah Bek Aghwrbiyç Alijiqwe Dzuneç Gushina Gushipsaç Dzadzooç Hatsiquaç Jirandiqua
-            Mashiquaç Naly Nartby Shoomaquaç Tsikira Zhambora
+            Mollah Bek Aghwrbiy„1¤7 Alijiqwe Dzune„1¤7 Gushina Gushipsa„1¤7 Dzadzoo„1¤7 Hatsiqua„1¤7 Jirandiqua
+            Mashiqua„1¤7 Naly Nartby Shoomaqua„1¤7 Tsikira Zhambora
         }
         radicalism = 10
     }
@@ -2850,7 +2850,7 @@ southeast_asian = {
             76 122 90
         }
         first_names = {
-            Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu
+            Hswe Hs„1¤7 Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu
             Natsu Pe Than Shwe Hpo Lun Sun
         }
 
@@ -3014,7 +3014,7 @@ chinese = {
             Ma Kong Dong Pan Yu
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian
+            Zhao Wu Sun Ma Hu Peng Dong Ye L„1¤7 Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
@@ -3028,7 +3028,7 @@ chinese = {
             Ma Kong Dong Pan Yu
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian
+            Zhao Wu Sun Ma Hu Peng Dong Ye L„1¤7 Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
@@ -3060,7 +3060,7 @@ chinese = {
     }
     min = {
         color = {
-            76 32 200
+            230 230 50
         }
         first_names = {
             Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu
@@ -3092,7 +3092,7 @@ chinese = {
             Ma Kong Dong Pan Yu
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian
+            Zhao Wu Sun Ma Hu Peng Dong Ye L„1¤7 Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
@@ -3106,7 +3106,7 @@ chinese = {
             Ma Kong Dong Pan Yu
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian
+            Zhao Wu Sun Ma Hu Peng Dong Ye L„1¤7 Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
@@ -3120,7 +3120,7 @@ chinese = {
             Ma Kong Dong Pan Yu
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian
+            Zhao Wu Sun Ma Hu Peng Dong Ye L„1¤7 Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
@@ -3141,7 +3141,7 @@ oversea_chinese = {
             Ma Kong Dong Pan Yu
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian
+            Zhao Wu Sun Ma Hu Peng Dong Ye L„1¤7 Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
@@ -3156,7 +3156,7 @@ oversea_chinese = {
             Ma Kong Dong Pan Yu
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian
+            Zhao Wu Sun Ma Hu Peng Dong Ye L„1¤7 Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
@@ -3170,7 +3170,7 @@ oversea_chinese = {
             Ma Kong Dong Pan Yu
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian
+            Zhao Wu Sun Ma Hu Peng Dong Ye L„1¤7 Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
@@ -3244,7 +3244,7 @@ mesoandean = {
             87 199 81
         }
         first_names = {
-            Nhisdao Lazdao Yovani Yaneri Yuneri Bitsa Gubihxa Ladxidó Tatyi Yao
+            Nhisdao Lazdao Yovani Yaneri Yuneri Bitsa Gubihxa Ladxid„1¤7 Tatyi Yao
             Hasen Itavi
         }
 
@@ -3258,15 +3258,15 @@ mesoandean = {
             98 88 142
         }
         first_names = {
-            Akbal Akyaabil Amaité Aaj Bej Balam Chilam Cuautéhmoc Etzeme Kabil
-            Kaknab Kante Nohek Yaax Chakte Ahtziri Acoatl Ixbalanqué "Ex-Chauah" Itzel
+            Akbal Akyaabil Amait„1¤7 Aaj Bej Balam Chilam Cuautéhmoc Etzeme Kabil
+            Kaknab Kante Nohek Yaax Chakte Ahtziri Acoatl Ixbalanqu„1¤7 "Ex-Chauah" Itzel
             Ikal Yumil Xacin
         }
 
         last_names = {
             Ak'ab'al Baas Cutz Naal Dzib Chay Cal Canek Canul Ceh
-            Chee Chi Choc Coc Curruchic Ixquiac Menchú Pek Poot Pop
-            Puk Shal Sho Tecú Teul Tzab Cahuich Xequeb Uicab Tuyuc
+            Chee Chi Choc Coc Curruchic Ixquiac Mench„1¤7 Pek Poot Pop
+            Puk Shal Sho Tec„1¤7 Teul Tzab Cahuich Xequeb Uicab Tuyuc
             Xicara Xiloj
         }
     }
@@ -3277,8 +3277,8 @@ mesoandean = {
 		Itzamna  }
 
 		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
-		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
-		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+		Curruchic Ixquiac López Manzanero Mas Mench„1¤7 Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tec„1¤7 Teul Tuyuc Xicara Xiloj }
 	}
 
 	chol = { 
@@ -3287,8 +3287,8 @@ mesoandean = {
 		Itzamna  }
 
 		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
-		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
-		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+		Curruchic Ixquiac López Manzanero Mas Mench„1¤7 Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tec„1¤7 Teul Tuyuc Xicara Xiloj }
 	}
 
 	huastec = { 
@@ -3297,7 +3297,7 @@ mesoandean = {
 		Yaxu  }
 
 		last_names = { Ak'ab'al Anam Canek Acal Carrillo Ceh Chee Chi Choc Coc
-		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Curruchic Ixquiac López Manzanero Mas Mench„1¤7 Mérida Mes Osorio Pek
 		Poot Pop Puk Shal Sho Tokow Tima Tuyuc Wich Xiloj }
 	}
 	
@@ -3324,15 +3324,15 @@ mesoandean = {
             199 199 199
         }
         first_names = {
-            Pedro Muibú Rafael Atlacatl Atzin Calixto Muxa Sejé Cipactli Cóatl
+            Pedro Muib„1¤7 Rafael Atlacatl Atzin Calixto Muxa Sej„1¤7 Cipactli Cóatl
             Coatzin Cuauhtli Ehécatl Ilhuicóatl Ilhuitemoc Mejiese Itzcoatl Mazacoatl Miztli Jacobo
             Necucyaotl Isidro Ocelotl Olontetl Papalotl Santiago Tepeyolotl Juan Tlanextic Tlecóatl
             Tonahuac Topiltzin Xicohtencatl Xiuhcóatl Xólotl Yaotl Yoltzin
         }
 
         last_names = {
-            Flores Atlanteco Coaguila Gallardo Naxu Toxterené Muxandájná Luxi Zdaná Naxi
-            Mayahuel Ngomá Nixten Yufi Niñú-Chimihña Tlaxca Tletla Tzehe Xaxalpa Zicoténcatl
+            Flores Atlanteco Coaguila Gallardo Naxu Toxteren„1¤7 Muxandájn„1¤7 Luxi Zdan„1¤7 Naxi
+            Mayahuel Ngom„1¤7 Nixten Yufi Niñú-Chimihña Tlaxca Tletla Tzehe Xaxalpa Zicoténcatl
             Cruz Zapotitla
         }
     }	
@@ -3356,7 +3356,7 @@ mesoandean = {
         }
         first_names = {
             Ñaña Cuiñe Yaha Yahui Ñuhu Dzavui Nduvua
-            Nuñi Ya-Dutu Ya-Davi Ityi Yucu Yadeé
+            Nuñi Ya-Dutu Ya-Davi Ityi Yucu Yade„1¤7
         }
 
         last_names = {
@@ -3522,15 +3522,15 @@ native_south_american = {
             89 80 175
         }
         first_names = {
-            Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
-            Félix Fernando Gregorio Jacinto Jesús José Juan Julio Luis Manuel
+            Aniceto Antonio Bartolom„1¤7 Camilo Carlos Claudio David Emiliano Eugenio Felipe
+            Félix Fernando Gregorio Jacinto Jesús Jos„1¤7 Juan Julio Luis Manuel
             Marcos Máximo Narciso Pablo Pedro Rodrigo Roque Simón Teodoro Víctor
         }
 
         last_names = {
-            Abjaisu Álvarez Ayegua Camba Chuaie Correa Cunhagatú Díaz Fernández Galeano
-            Gómez González Guaracay Guaraní Guerrero Jopara López Mongelós Morla Ortíz
-            Paravé Picagua Riquelme Rivarola "Santa Cruz" Tarayú Torga Velázquez Yaguarete Yrahi
+            Abjaisu Álvarez Ayegua Camba Chuaie Correa Cunhagat„1¤7 Díaz Fernández Galeano
+            Gómez González Guaracay Guaran„1¤7 Guerrero Jopara López Mongelós Morla Ortíz
+            Parav„1¤7 Picagua Riquelme Rivarola "Santa Cruz" Taray„1¤7 Torga Velázquez Yaguarete Yrahi
         }
     }
     amazonian_native = {
@@ -3544,8 +3544,8 @@ native_south_american = {
         }
 
         last_names = {
-            Arawá Arawak Bororo Garifuna Gê Guayaná Jeikó Kaingang Kalinago Kamakán
-            Karajá Kayapó Matsés Maxakalí Purí Timbira Xavante Xerente Xokieng Yanomamö
+            Araw„1¤7 Arawak Bororo Garifuna G„1¤7 Guayan„1¤7 Jeik„1¤7 Kaingang Kalinago Kamakán
+            Karaj„1¤7 Kayap„1¤7 Matsés Maxakal„1¤7 Pur„1¤7 Timbira Xavante Xerente Xokieng Yanomam„1¤7
         }
     }
     patagonian = {
@@ -3554,7 +3554,7 @@ native_south_american = {
         }
         first_names = {
             Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
-            Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+            Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio Jos„1¤7 Juan Luis
             Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor
         }
 
@@ -3571,7 +3571,7 @@ native_south_american = {
         }
         first_names = {
             Baltasar Bernardo Carlos Celestino Diego Emilio Felipe Fernando Fidel Francisco
-            Gaspar Gregorio Hugo Ignacio José Juan Manuel Marcos Mario Mateo
+            Gaspar Gregorio Hugo Ignacio Jos„1¤7 Juan Manuel Marcos Mario Mateo
             Melchor Narciso Pablo Pedro Ramón Roberto Santiago Sebastián Simón Tomás
         }
 
@@ -3585,13 +3585,13 @@ native_south_american = {
             43 212 67
         }
         first_names = {
-            Álvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
-            Gabriel Gaspar Gonçalo Gustavo Henrique João José Luís Manuel Inácio
+            Álvaro Andr„1¤7 Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
+            Gabriel Gaspar Gonçalo Gustavo Henrique João Jos„1¤7 Luís Manuel Inácio
             Jordão Lúcio Mateus Nicolau Paulo Pedro Roque Sergio Tomás Vítor
         }
 
         last_names = {
-            Caetés Potiguara Tabajara Tamoios Temiminó Tupinambá Tupiniquim
+            Caetés Potiguara Tabajara Tamoios Temimin„1¤7 Tupinamb„1¤7 Tupiniquim
         }
     }
 }
@@ -3618,7 +3618,7 @@ native_north_american = {
             Nordenskiöld "Palanger af Vega" Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström
             Taube Tawast Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter"
             "von Platen" Weidenhielm Zhao Wu Sun Ma Hu Peng Dong Ye
-            Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
+            L„1¤7 Tian Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
     metis = {
@@ -3637,11 +3637,11 @@ native_north_american = {
             117 84 13
         }
         first_names = {
-            Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi
+            Sint„1¤7 Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi
             Tamaha Inkpaduta
         }
         last_names = {
-            Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
+            Glesk„1¤7 Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
         }
     }
     sioux = {
@@ -3649,11 +3649,11 @@ native_north_american = {
             66 78 134
         }
         first_names = {
-            Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi
+            Sint„1¤7 Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi
             Tamaha Inkpaduta
         }
         last_names = {
-            Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
+            Glesk„1¤7 Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
         }
     }
     cherokee = {
@@ -3719,7 +3719,7 @@ native_north_american = {
             128 55 98
         }
         first_names = {
-            John Paul José Louis Mariano James David Jack Joel Charles
+            John Paul Jos„1¤7 Louis Mariano James David Jack Joel Charles
             Henry Ganado Herandez
         }
         last_names = {
@@ -3790,8 +3790,8 @@ anglois_american = {
             20 20 100
         }
         first_names = {
-            Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise
-            Camille Clément Charles Constant Damien David Désiré Didier Edmond Édouard
+            Albert Alexandre Alexis Alphonse Andr„1¤7 Antoine Auguste Barthélémy Baudouin Blaise
+            Camille Clément Charles Constant Damien David Désir„1¤7 Didier Edmond Édouard
             Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric
             Georges Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore
             Jacques Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent
@@ -3803,8 +3803,8 @@ anglois_american = {
         last_names = {
             Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies
             Brialmont Bredart Cauvin Collet Cols Claus Clayvoisie Clerix Coquilhat d'Arenberg
-            d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarmé"
-            "de Bousies" "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Croÿ" "de Decker" "de Dixmude"
+            d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarm„1¤7"
+            "de Bousies" "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Cro„1¤7" "de Decker" "de Dixmude"
             "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mérode" "de Pelichy"
             "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt"
             "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier
@@ -3822,8 +3822,8 @@ anglois_american = {
             20 20 100
         }
         first_names = {
-            Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise
-            Camille Clément Charles Constant Damien David Désiré Didier Edmond Édouard
+            Albert Alexandre Alexis Alphonse Andr„1¤7 Antoine Auguste Barthélémy Baudouin Blaise
+            Camille Clément Charles Constant Damien David Désir„1¤7 Didier Edmond Édouard
             Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric
             Georges Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore
             Jacques Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent
@@ -3835,8 +3835,8 @@ anglois_american = {
         last_names = {
             Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies
             Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart
-            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarmé" "de Bousies"
-            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Croÿ" "de Decker" "de Dixmude" "de Gerlache"
+            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarm„1¤7" "de Bousies"
+            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Cro„1¤7" "de Decker" "de Dixmude" "de Gerlache"
             "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mérode" "de Pelichy" "de Quarre"
             "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies"
             "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier Devaux
@@ -3859,8 +3859,8 @@ burgundian_american = {
             190 90 20
         }
         first_names = {
-            Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise
-            Camille Clément Charles Constant Damien David Désiré Didier Edmond Édouard
+            Albert Alexandre Alexis Alphonse Andr„1¤7 Antoine Auguste Barthélémy Baudouin Blaise
+            Camille Clément Charles Constant Damien David Désir„1¤7 Didier Edmond Édouard
             Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric
             Georges Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore
             Jacques Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent
@@ -3872,8 +3872,8 @@ burgundian_american = {
         last_names = {
             Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies
             Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart
-            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarmé" "de Bousies"
-            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Croÿ" "de Decker" "de Dixmude" "de Gerlache"
+            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarm„1¤7" "de Bousies"
+            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Cro„1¤7" "de Decker" "de Dixmude" "de Gerlache"
             "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mérode" "de Pelichy" "de Quarre"
             "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies"
             "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier Devaux
@@ -3891,8 +3891,8 @@ burgundian_american = {
             190 90 20
         }
         first_names = {
-            Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise
-            Camille Clément Charles Constant Damien David Désiré Didier Edmond Édouard
+            Albert Alexandre Alexis Alphonse Andr„1¤7 Antoine Auguste Barthélémy Baudouin Blaise
+            Camille Clément Charles Constant Damien David Désir„1¤7 Didier Edmond Édouard
             Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric
             Georges Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore
             Jacques Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent
@@ -3904,8 +3904,8 @@ burgundian_american = {
         last_names = {
             Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies
             Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart
-            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarmé" "de Bousies"
-            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Croÿ" "de Decker" "de Dixmude" "de Gerlache"
+            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarm„1¤7" "de Bousies"
+            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Cro„1¤7" "de Decker" "de Dixmude" "de Gerlache"
             "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mérode" "de Pelichy" "de Quarre"
             "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies"
             "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier Devaux
@@ -4020,7 +4020,7 @@ scandinavian_american = {
             Tõnis Toomas Uno Valmar Villwm Voldemar Aleksanteri Anders Aukusti Edvard
             Eemil Erkki Erno Fabian Konstantin Fredrik Fridolf Georg Gösta Harald
             Hjalmar Hugo Juho Kaarlo Kalev Kurt Lars Martti Mikko Paavo
-            Petteri Rudolf Väinö Viktor Vilho Aaron Abrams Alberts Aleksandrs Aloisz
+            Petteri Rudolf Väin„1¤7 Viktor Vilho Aaron Abrams Alberts Aleksandrs Aloisz
             Andrejs Arkadij Armands Arnolds Atis Brunis Bruno Eduards Eliass Elmars
             Emils Evgenijs Filips Fricis Gustavs Leo Mark Martins Mihails Mikelis
             Nikolajs Oskars Pauls Peteris Rihards Roberts Romans Sandis Sergejs Valdemars
@@ -4083,7 +4083,7 @@ latin_american = {
         first_names = {
             Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
             Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
-            Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
+            Jerónimo Joaquín Jos„1¤7 "Jos„1¤7 Manuel" "Jos„1¤7 María" Juan "Juan Bautista" Justo Lázaro Manuel
             Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
             Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
         }
@@ -4101,9 +4101,9 @@ latin_american = {
             101 164 172
         }
         first_names = {
-            Alejandro Andrés Aniceto Arturo Bartolomé Basilio Benito Benjamín Bernardo Carlos
+            Alejandro Andrés Aniceto Arturo Bartolom„1¤7 Basilio Benito Benjamín Bernardo Carlos
             Daniel Diego Doroteo Eduardo Eugenio Felipe Félix Fermín Fernando Francisco
-            Fruto Jacobo Jesús Joaquín Jorge "José Francisco" "José María" Juan "Juan Antonio" "Juan Pablo"
+            Fruto Jacobo Jesús Joaquín Jorge "Jos„1¤7 Francisco" "Jos„1¤7 María" Juan "Juan Antonio" "Juan Pablo"
             Julio Justo Lisandro Lorenzo Manuel Marcelino Maximiliano Máximo Óscar Pedro
             Ponciano Próspero Rafael Ramón Santiago Sebastián Tiburcio Tomás Toribio Victoriano
         }
@@ -4111,7 +4111,7 @@ latin_american = {
         last_names = {
             Aguilar Andino Araujo Arbenz Barahona Barillas Barrios Cabañas Cárdenas Carrera
             Castellanos Chamorro Chávez Corral Escalón Esquivel Estrada Ezeta Fernández Ferrera
-            Figueroa Garrigó Guzmán Hernández Jerez Jiménez Leiva López Machado Martínez
+            Figueroa Garrig„1¤7 Guzmán Hernández Jerez Jiménez Leiva López Machado Martínez
             Medina Mejía Menéndez Montes Montiel Morazán Palacios Peralta Quiros Regalado
             Rosales Sevilla Sinibaldi Soto Terán Ubico Vasconcelos Vigil Zelaya Zeledón
         }
@@ -4125,7 +4125,7 @@ latin_american = {
             Alberto Alejandro Alfredo Ambrosio Anselmo Antonio Arturo Benigno Buenaventura Calixto
             Carlos Ceferino Cesáreo Demetrio Desiderio Dionisio Domingo Eugenio Federico Felipe
             Fernando Fidel Fulgencio Gerardo Gregorio Guillermo Horacio Ignacio Jacinto Jacobo
-            Jesús Joaquín José "José Miguel" Juan "Juan Bautista" Manuel Mariano Mario Máximo
+            Jesús Joaquín Jos„1¤7 "Jos„1¤7 Miguel" Juan "Juan Bautista" Manuel Mariano Mario Máximo
             Osvaldo Pablo Pedro Rafael Ramón Raúl Salvador Romás Ulises Wenceslao
         }
 
@@ -4144,9 +4144,9 @@ latin_american = {
         }
         first_names = {
             Antonio Camilo Carlos Cipriano Demetrio Diego Domingo Eloy Eusebio Eustorgio
-            Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco José" "Francisco de Paula" Froilán Gabriel
-            Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "José Antonio"
-            "José Manuel" "José María" Juan "Juan José" Julián Julio León Manuel Pedro Plácido
+            Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco Jos„1¤7" "Francisco de Paula" Froilán Gabriel
+            Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "Jos„1¤7 Antonio"
+            "Jos„1¤7 Manuel" "Jos„1¤7 María" Juan "Juan Jos„1¤7" Julián Julio León Manuel Pedro Plácido
             Rafael Raimundo Ramón Ricardo Rodolfo Santiago Santos Tadeo Tomás Vicente
         }
 
@@ -4163,15 +4163,15 @@ latin_american = {
             116 156 146
         }
         first_names = {
-            Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolomé Bernardo David Diego
+            Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolom„1¤7 Bernardo David Diego
             Domingo Eduardo Emiliano Emilio Enrique Esteban Eusebio Federico Felipe Francisco
-            Germán Hernando Hilarión Ignacio Isidoro Ismael Jorge José "José Miguel" Juan
+            Germán Hernando Hilarión Ignacio Isidoro Ismael Jorge Jos„1¤7 "Jos„1¤7 Miguel" Juan
             "Juan Antonio" "Juan Francisco" Justo Ladislao Luis Manuel Mariano Miguel Narciso Nicolás
             Pablo Patricio Pedro Ramón Rufino Ruperto Santiago Sebastián Severino Tomás
         }
 
         last_names = {
-            Abaroa Ágreda Altamirano Arteaga Ballivián Baquedano Belzú Blanche Blanco Bulnes
+            Abaroa Ágreda Altamirano Arteaga Ballivián Baquedano Belz„1¤7 Blanche Blanco Bulnes
             Cabrera Calvo Campero Castilla Corrico Daza "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal"
             Echenique Errázuriz Fernández Figueroa Franco Freire Gamarra Gorostiaga Grau Guilarte
             "La Mar" Latorre Lynch Melgarejo Monje Montero Montes Montt Orbegoso Pezet
@@ -4183,9 +4183,9 @@ latin_american = {
             199 232 151
         }
         first_names = {
-            Agustín Antonio Atanasio Baltasar Bartolomé Bernardino Bernardo Cándido Carlos Cecilio
+            Agustín Antonio Atanasio Baltasar Bartolom„1¤7 Bernardino Bernardo Cándido Carlos Cecilio
             Cirilo Claudio Domingo Emiliano Esteban Eugenio Evaristo Facundo Faustino Feliciano
-            Félix Francisco Fructuoso Gabriel Gaspar Guillermo Hipólito Ignacio José "Juan José"
+            Félix Francisco Fructuoso Gabriel Gaspar Guillermo Hipólito Ignacio Jos„1¤7 "Juan Jos„1¤7"
             "Juan Manuel" "Juan Ramón" Julio Justo Lorenzo Luis Manuel Marcial Máximo Miguel
             Nicolás Patricio Pedro Ramón Roberto Roque Salvador Santiago Torcuato Venancio
         }
@@ -4206,7 +4206,7 @@ latin_american = {
             Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
             Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
             "Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
-            João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+            João Joaquim Jos„1¤7 Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
             Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
         }
 
@@ -4226,7 +4226,7 @@ latin_american = {
             Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
             Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
             "Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
-            João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+            João Joaquim Jos„1¤7 Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
             Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
         }
 
@@ -4245,9 +4245,9 @@ latin_american = {
         }
         first_names = {
             Antonio Camilo Carlos Cipriano Demetrio Diego Domingo Eloy Eusebio Eustorgio
-            Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco José" "Francisco de Paula" Froilán Gabriel
-            Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "José Antonio"
-            "José Manuel" "José María" Juan "Juan José" Julián Julio León Manuel Pedro Plácido
+            Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco Jos„1¤7" "Francisco de Paula" Froilán Gabriel
+            Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "Jos„1¤7 Antonio"
+            "Jos„1¤7 Manuel" "Jos„1¤7 María" Juan "Juan Jos„1¤7" Julián Julio León Manuel Pedro Plácido
             Rafael Raimundo Ramón Ricardo Rodolfo Santiago Santos Tadeo Tomás Vicente
         }
 
@@ -4270,18 +4270,18 @@ african_diaspora_cultures = {
             63 32 10
         }
         first_names = {
-            Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
+            Alexis Andr„1¤7 Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
             Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil François
             Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
             Léon Louis Louis-Eugène Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
-            Philippe Pierre Simon Sténio Sylvain Tandredè Thomas Timoleón Tirésias Vilbrum
+            Philippe Pierre Simon Sténio Sylvain Tandred„1¤7 Thomas Timoleón Tirésias Vilbrum
         }
 
         last_names = {
             Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
-            Conzé Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
+            Conz„1¤7 Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
             Iginac Janvier Jeune Lafontant Laleau Leconte Légitime Legouaze Léon Lhérisson
-            Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
+            Madiou Péralte Pierrot Planchet Price Price-Mars Rich„1¤7 Rigaud Rivière-Hérard Roumain
             Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor
         }
     }
@@ -4290,14 +4290,14 @@ african_diaspora_cultures = {
             12 83 12
         }
         first_names = {
-            Antonio Armando Arsenio Arturo Bartolomé Carlos Dámaso Enrique Francisco Generoso
-            Guillermo Gumersindo Ignacio Israel Jacinto Jaime "José Celso" Juan Luciano Mario
+            Antonio Armando Arsenio Arturo Bartolom„1¤7 Carlos Dámaso Enrique Francisco Generoso
+            Guillermo Gumersindo Ignacio Israel Jacinto Jaime "Jos„1¤7 Celso" Juan Luciano Mario
             Máximo Nelson Nicolás Orestes Orlando Pedro Pío Ramón Rubén Wifredo
         }
 
         last_names = {
-            Albizu Barbosa Barreto Bauzá Díaz Egües Estupiñán Garay González Guillén
-            Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Moré Morel
+            Albizu Barbosa Barreto Bauz„1¤7 Díaz Egües Estupiñán Garay González Guillén
+            Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Mor„1¤7 Morel
             Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa
         }
     }
@@ -4307,14 +4307,14 @@ african_diaspora_cultures = {
             0 0 0
         }
         first_names = {
-            Antonio Armando Arsenio Arturo Bartolomé Carlos Dámaso Enrique Francisco Generoso
-            Guillermo Gumersindo Ignacio Israel Jacinto Jaime "José Celso" Juan Luciano Mario
+            Antonio Armando Arsenio Arturo Bartolom„1¤7 Carlos Dámaso Enrique Francisco Generoso
+            Guillermo Gumersindo Ignacio Israel Jacinto Jaime "Jos„1¤7 Celso" Juan Luciano Mario
             Máximo Nelson Nicolás Orestes Orlando Pedro Pío Ramón Rubén Wifredo
         }
 
         last_names = {
-            Albizu Barbosa Barreto Bauzá Díaz Egües Estupiñán Garay González Guillén
-            Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Moré Morel
+            Albizu Barbosa Barreto Bauz„1¤7 Díaz Egües Estupiñán Garay González Guillén
+            Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Mor„1¤7 Morel
             Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa
         }
     }
@@ -4324,18 +4324,18 @@ african_diaspora_cultures = {
             24 44 49
         }
         first_names = {
-            Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
+            Alexis Andr„1¤7 Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
             Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil François
             Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
             Léon Louis Louis-Eugène Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
-            Philippe Pierre Simon Sténio Sylvain Tandredè Thomas Timoleón Tirésias Vilbrum
+            Philippe Pierre Simon Sténio Sylvain Tandred„1¤7 Thomas Timoleón Tirésias Vilbrum
         }
 
         last_names = {
             Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
-            Conzé Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
+            Conz„1¤7 Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
             Iginac Janvier Jeune Lafontant Laleau Leconte Légitime Legouaze Léon Lhérisson
-            Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
+            Madiou Péralte Pierrot Planchet Price Price-Mars Rich„1¤7 Rigaud Rivière-Hérard Roumain
             Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor
         }
     }
@@ -4901,7 +4901,7 @@ central_african = {
         }
 
         last_names = {
-            Sarandji Kamoun Nzapayeké Tiangaye Touadéra Dologuelé Samba-Panza Wodobodé Bozizé
+            Sarandji Kamoun Nzapayek„1¤7 Tiangaye Touadéra Dologuel„1¤7 Samba-Panza Wodobod„1¤7 Boziz„1¤7
         }
     }
     forest_bantu = {
@@ -5601,7 +5601,7 @@ southern_african = {
             24 44 49
         }
         first_names = {
-            Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
+            Alexis Andr„1¤7 Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
             Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil FrançoisSarel
             Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan
             Louis Petrus Paul Eugene Joubert
@@ -5609,7 +5609,7 @@ southern_african = {
 
         last_names = {
             Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
-            Conzé Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
+            Conz„1¤7 Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
             Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet"
             Pretorius Retief "de Beer" Uys
         }

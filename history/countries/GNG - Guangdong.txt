@@ -1,5 +1,5 @@
 capital = 1493
-primary_culture = yue
+primary_culture = min
 culture = beifaren
 culture = hakka
 religion = mahayana

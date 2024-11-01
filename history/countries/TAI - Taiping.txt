@@ -1,7 +1,7 @@
-capital = 1550
+capital = 1493
 primary_culture = beifaren
 culture = beifaren
-culture = yue 
+culture = min 
 culture = hakka
 religion = taiping
 government = absolute_monarchy
@@ -64,5 +64,3 @@ foreign_weapons = yes_foreign_weapons
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
-oob = "TAI_oob.txt"

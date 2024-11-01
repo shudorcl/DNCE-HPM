@@ -1,4 +1,4 @@
-capital = 1559
+capital = 1612
 primary_culture = beifaren
 culture = beifaren
 culture = hui

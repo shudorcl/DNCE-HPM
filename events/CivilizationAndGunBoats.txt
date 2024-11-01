@@ -4213,7 +4213,7 @@ province_event = {
                         owner = { civilized = no }
                     }
                     soldiers = {
-                        limit = { has_pop_culture = yue }
+                        limit = { has_pop_culture = min }
                         move_pop = 1496
                     }
                 }
@@ -4224,7 +4224,7 @@ province_event = {
                         owner = { civilized = no }
                     }
                     bureaucrats = {
-                        limit = { has_pop_culture = yue }
+                        limit = { has_pop_culture = min }
                         move_pop = 1496
                     }
                 }
@@ -4232,7 +4232,7 @@ province_event = {
             40 = {
                 1493 = {
                     serfs = {
-                        limit = { has_pop_culture = yue }
+                        limit = { has_pop_culture = min }
                         move_pop = 1496
                     }
                 }

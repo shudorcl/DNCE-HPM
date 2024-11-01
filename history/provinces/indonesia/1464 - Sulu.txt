@@ -1,6 +1,7 @@
-owner = SUL
-controller = SUL
+owner = TNG
+controller = TNG
 add_core = NUS
 add_core = SUL
 trade_goods = fish
 life_rating = 35
+add_core = TNG

@@ -1,7 +1,5 @@
-color = {
-    120 120 120
-}
-graphical_culture = AsianGC
+color = { 36  132  250 }
+graphical_culture = ChineseGC
 
 party = {
     name = "TNG_reactionary" # Zheng Faction

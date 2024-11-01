@@ -1,4 +1,4 @@
-capital = 1563
+capital = 1574
 primary_culture = beifaren
 religion = mahayana
 government = absolute_monarchy

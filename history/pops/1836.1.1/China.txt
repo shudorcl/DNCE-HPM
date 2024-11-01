@@ -727,7 +727,7 @@
 		size = 6700
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 675
 	}
@@ -752,7 +752,7 @@
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 1800
 	}
@@ -797,7 +797,7 @@
 		size = 3375
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 350
 	}
@@ -817,7 +817,7 @@
 		size = 298100
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 32825
 	}
@@ -847,7 +847,7 @@
 		size = 3175
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 350
 	}
@@ -1118,12 +1118,12 @@
 		size = 1004
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 8169
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 2831
 	}
@@ -1148,22 +1148,22 @@
 		size = 2522
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 348
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 7052
 	}
@@ -1198,12 +1198,12 @@
 		size = 508
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 3787
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 1313
 	}
@@ -1228,12 +1228,12 @@
 		size = 45906
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 343398
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 119002
 	}
@@ -1258,12 +1258,12 @@
 		size = 502
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 2302
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 798
 	}
@@ -1813,12 +1813,12 @@
 #Canton (4532000/1133000 POPS)
 1493 = {
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 524
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 201
 	}
@@ -1843,12 +1843,12 @@
 		size = 83
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 12104
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 4646
 	}
@@ -1863,12 +1863,12 @@
 		size = 291
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 1337
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 513
 	}
@@ -1893,87 +1893,87 @@
 		size = 222
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 5766
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 4434
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 10000
 	}
@@ -1998,22 +1998,22 @@
 		size = 139
 	}
 	bureaucrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2927
 	}
 	bureaucrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1123
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 271
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 104
 	}
@@ -2038,12 +2038,12 @@
 		size = 42
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 6233
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 2392
 	}
@@ -2058,12 +2058,12 @@
 		size = 153
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 24334
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 9341
 	}
@@ -2088,12 +2088,12 @@
 		size = 4043
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 484282
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 185893
 	}
@@ -2118,22 +2118,22 @@
 		size = 83
 	}
 	officers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 3794
 	}
 	officers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1456
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 271
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 104
 	}
@@ -2168,12 +2168,12 @@
 		size = 49
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 4083
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1567
 	}
@@ -2191,12 +2191,12 @@
 #Chaozhou (3600000/900000 POPS)
 1494 = {
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 7895
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 3005
 	}
@@ -2211,22 +2211,22 @@
 		size = 1861
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 2489
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 8561
 	}
@@ -2246,12 +2246,12 @@
 		size = 4687
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 2897
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 1103
 	}
@@ -2266,12 +2266,12 @@
 		size = 138
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 336809
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 128216
 	}
@@ -2286,12 +2286,12 @@
 		size = 96432
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 3915
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 3110
 	}
@@ -2319,12 +2319,12 @@
 		size = 84
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 13667
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 4333
 	}
@@ -2339,32 +2339,32 @@
 		size = 229
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 8343
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 2157
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 10000
 	}
@@ -2379,12 +2379,12 @@
 		size = 48
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 7023
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 2227
 	}
@@ -2399,12 +2399,12 @@
 		size = 4164
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 641558
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 203392
 	}
@@ -2419,12 +2419,12 @@
 		size = 48
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 4024
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1276
 	}
@@ -2433,37 +2433,37 @@
 #Kwangchowan (Former Augmagsalik and also called Isortoq) (23625 POPS)
 2632 = {
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 125
 	}
 
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1500
 	}
 	
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1000
 	}	
 	
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1000
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 8000
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 12000
 	}	
@@ -2473,42 +2473,42 @@
 #Hong Kong (6000/1500 POPS)
 1496 = {
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 57
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 18
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 19
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 6
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1044
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 331
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 19
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 6
 	}
@@ -2516,107 +2516,107 @@
 #Waizao (2200000/550000 POPS)
 1497 = {
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 4650
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 1475
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2904
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 921
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 9793
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 3107
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1842
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 3758
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 1575
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 500
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2220
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 705
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 224927
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 71373
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 156170
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 49555
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 3366
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 434
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 3461
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 464
 	}
@@ -2644,12 +2644,12 @@
 		size = 1534
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 7215
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 5110
 	}
@@ -2674,22 +2674,22 @@
 		size = 3856
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 9873
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 4077
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 10000
 	}
@@ -2714,12 +2714,12 @@
 		size = 767
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 3615
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 2560
 	}
@@ -2744,12 +2744,12 @@
 		size = 70180
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 329790
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 233560
 	}
@@ -2774,12 +2774,12 @@
 		size = 404
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1873
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1327
 	}
@@ -2787,112 +2787,112 @@
 #Shaozhou (2384000/596000 POPS)
 1500 = {
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 4176
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 1324
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 4802
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1523
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 1237
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 3563
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2908
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 4092
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 2107
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 668
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2430
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 770
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 190711
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 60464
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 221158
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 70117
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 1329
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 421
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1670
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 530
 	}
@@ -2900,57 +2900,57 @@
 #Zhaoqing (1772000/443000 POPS)
 1501 = {
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 6682
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 2118
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 8336
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 5814
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 3379
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1071
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 306105
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 97045
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1860
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 590
 	}
@@ -2969,17 +2969,17 @@
 		size = 44
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = catholic
 		size = 738
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 158
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 239
 	}
@@ -3004,32 +3004,32 @@
 		size = 2
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = catholic
 		size = 12
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 39
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 14
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = catholic
 		size = 197
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2921
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 832
 	}
@@ -3044,18 +3044,18 @@
 		size = 5
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = catholic
 		size = 39
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 39
 	}
 	
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 22
 	}
@@ -3067,7 +3067,7 @@
 	}
 	
 	slaves = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 200
 	}
@@ -3078,7 +3078,7 @@
 #Nanning (2480000/620000 POPS)
 1502 = {
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 4075
 	}
@@ -3088,7 +3088,7 @@
 		size = 8050
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 7350
 	}
@@ -3108,7 +3108,7 @@
 		size = 10000
 	}
 	bureaucrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1350
 	}
@@ -3118,7 +3118,7 @@
 		size = 150
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2175
 	}
@@ -3128,7 +3128,7 @@
 		size = 3950
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 192650
 	}
@@ -3138,7 +3138,7 @@
 		size = 358550
 	}
 	officers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2150
 	}
@@ -3148,7 +3148,7 @@
 		size = 75
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2175
 	}
@@ -3190,12 +3190,12 @@
 #Guilin (4668000/1167000 POPS)
 1503 = {
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 8164
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 3211
 	}
@@ -3210,22 +3210,22 @@
 		size = 3296
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1998
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 8652
 	}
@@ -3251,12 +3251,12 @@
 		size = 5848
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 3485
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1616
 	}
@@ -3271,12 +3271,12 @@
 		size = 1672
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 374303
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 147197
 	}
@@ -3291,12 +3291,12 @@
 		size = 153139
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 4127
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1623
 	}
@@ -3344,12 +3344,12 @@
 #Pangle (1424000/356000 POPS)
 1504 = {
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2866
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 909
 	}
@@ -3364,12 +3364,12 @@
 		size = 751
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 7479
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 2371
 	}
@@ -3384,12 +3384,12 @@
 		size = 1914
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1499
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 476
 	}
@@ -3404,12 +3404,12 @@
 		size = 390
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 136235
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 43190
 	}
@@ -3424,12 +3424,12 @@
 		size = 34832
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1499
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 476
 	}
@@ -5366,7 +5366,7 @@
 		size = 16500
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2400
 	}
@@ -5396,7 +5396,7 @@
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 6150
 	}
@@ -5411,7 +5411,7 @@
 		size = 8500
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1250
 	}
@@ -5421,7 +5421,7 @@
 		size = 764600
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 111950
 	}
@@ -5431,7 +5431,7 @@
 		size = 4400
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1250
 	}
@@ -5449,12 +5449,12 @@
 		size = 4044
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1519
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 481
 	}
@@ -5489,12 +5489,12 @@
 		size = 10000
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 3910
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1240
 	}
@@ -5509,12 +5509,12 @@
 		size = 2034
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 797
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 253
 	}
@@ -5529,12 +5529,12 @@
 		size = 185350
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 71182
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 22568
 	}
@@ -5549,12 +5549,12 @@
 		size = 1077
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 797
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 253
 	}
@@ -5678,12 +5678,12 @@
 		size = 3009
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1746
 	}
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 554
 	}
@@ -5708,12 +5708,12 @@
 		size = 8281
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 4442
 	}
 	artisans = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 1408
 	}
@@ -5728,12 +5728,12 @@
 		size = 1517
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 892
 	}
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 283
 	}
@@ -5748,12 +5748,12 @@
 		size = 137570
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 80864
 	}
 	farmers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 25636
 	}
@@ -5768,12 +5768,12 @@
 		size = 794
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 892
 	}
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = taiping
 		size = 283
 	}
@@ -6982,12 +6982,12 @@
 		size = 4259
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 489
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 211
 	}
@@ -7027,12 +7027,12 @@
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 1221
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 529
 	}
@@ -7077,12 +7077,12 @@
 		size = 1978
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 262
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 113
 	}
@@ -7107,12 +7107,12 @@
 		size = 178600
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 22212
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 9613
 	}
@@ -7157,12 +7157,12 @@
 		size = 1994
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 244
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 106
 	}
@@ -7367,12 +7367,12 @@
 		size = 2768
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 16628
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 5272
 	}
@@ -7397,37 +7397,37 @@
 		size = 7438
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 5367
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 4383
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 10000
 	}
@@ -7452,12 +7452,12 @@
 		size = 1396
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 8352
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 2648
 	}
@@ -7472,12 +7472,12 @@
 		size = 126616
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 756552
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 239848
 	}
@@ -7492,12 +7492,12 @@
 		size = 915
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 4518
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 1432
 	}
@@ -7515,12 +7515,12 @@
 		size = 1384
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 1898
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 602
 	}
@@ -7540,12 +7540,12 @@
 		size = 3707
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 4783
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 1517
 	}
@@ -7560,12 +7560,12 @@
 		size = 698
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 949
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 301
 	}
@@ -7580,12 +7580,12 @@
 		size = 63081
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 87070
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 27605
 	}
@@ -7600,12 +7600,12 @@
 		size = 698
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 968
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 307
 	}
@@ -7623,12 +7623,12 @@
 		size = 4556
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 475
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 150
 	}
@@ -7663,12 +7663,12 @@
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 1215
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 385
 	}
@@ -7683,12 +7683,12 @@
 		size = 2281
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 247
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 78
 	}
@@ -7703,12 +7703,12 @@
 		size = 207903
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 22607
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 7168
 	}
@@ -7723,12 +7723,12 @@
 		size = 1570
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 247
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 78
 	}
@@ -7766,12 +7766,12 @@
 #Ganzhou (4940000/1235000 POPS)
 1550 = {
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 16876
 	}
 	aristocrats = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 6624
 	}
@@ -7786,37 +7786,37 @@
 		size = 324
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 5820
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 10000
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 7980
 	}
 	artisans = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 10000
 	}
@@ -7831,12 +7831,12 @@
 		size = 831
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 8438
 	}
 	clergymen = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 3312
 	}
@@ -7851,12 +7851,12 @@
 		size = 169
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 768535
 	}
 	farmers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 301640
 	}
@@ -7871,12 +7871,12 @@
 		size = 15136
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = mahayana
 		size = 4865
 	}
 	soldiers = {
-		culture = hakka
+		culture = min
 		religion = taiping
 		size = 1910
 	}
@@ -11116,31 +11116,31 @@
 	}
 
 	aristocrats = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2275
 	}
 
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1175
 	}
 
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 5850
 	}
 
 	soldiers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1175
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 106525
 	}

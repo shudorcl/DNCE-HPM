@@ -64,19 +64,19 @@
 	}
 
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 100
 	}
 
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2500
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1400
 	}
@@ -133,19 +133,19 @@
 	}
 
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 100
 	}
 
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2500
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1400
 	}
@@ -402,19 +402,19 @@
 	}
 
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1650
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1275
 	}
@@ -548,19 +548,19 @@
 	}
 
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 4000
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2925
 	}
@@ -705,19 +705,19 @@
 	}
 
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 550
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 425
 	}
@@ -897,19 +897,19 @@
 	}
 
 	clergymen = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 2100
 	}
 
 	farmers = {
-		culture = yue
+		culture = min
 		religion = mahayana
 		size = 1825
 	}
