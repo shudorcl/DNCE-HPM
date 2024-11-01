@@ -1,6 +1,7 @@
-owner = KLM
-controller = KLM
+owner = TNG
+controller = TNG
 add_core = KLM
 add_core = NUS
 trade_goods = grain
 life_rating = 15
+add_core = TNG

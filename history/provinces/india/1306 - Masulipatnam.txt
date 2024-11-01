@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = TNG
+controller = TNG
 add_core = HYD
 add_core = DRA
 #add_core = VIJ

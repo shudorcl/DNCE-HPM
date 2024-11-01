@@ -1,7 +1,7 @@
-owner = KTI
-controller = KTI
+owner = TNG
+controller = TNG
 add_core = KTI
 add_core = NUS
 trade_goods = sulphur
 life_rating = 20
-
+add_core = TNG

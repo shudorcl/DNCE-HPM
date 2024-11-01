@@ -1,5 +1,6 @@
-owner = PLM
-controller = PLM
+owner = TNG
+controller = TNG
+add_core = TNG
 add_core = ATJ
 add_core = PLM
 add_core = NUS

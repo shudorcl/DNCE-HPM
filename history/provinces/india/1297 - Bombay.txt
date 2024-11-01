@@ -1,5 +1,5 @@
-owner = VIJ
-controller = VIJ
+owner = BRG
+controller = BRG
 add_core = DRA
 add_core = VIJ
 add_core = BHO
@@ -7,4 +7,5 @@ trade_goods = tobacco
 life_rating = 32
 fort = 1
 naval_base = 1
+colonial = 1
 

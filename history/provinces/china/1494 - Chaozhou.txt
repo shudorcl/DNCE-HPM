@@ -1,7 +1,6 @@
-owner = TNG
-controller = TNG
 add_core = TAI
-add_core = TNG
 add_core = CHI
 trade_goods = silk
 life_rating = 32
+owner = TAI
+controller = TAI

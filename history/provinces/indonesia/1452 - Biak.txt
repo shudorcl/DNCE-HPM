@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = TNG
+controller = TNG
 add_core = PPU
 trade_goods = fish
 life_rating = 30

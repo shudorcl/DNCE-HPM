@@ -3,3 +3,6 @@ controller = CAM
 add_core = CAM
 trade_goods = opium
 life_rating = 33
+owner = LUA
+controller = LUA
+add_core = LUA

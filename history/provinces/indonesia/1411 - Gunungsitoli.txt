@@ -1,7 +1,8 @@
-owner = PLM
-controller = PLM
+owner = SCA
+controller = SCA
 add_core = NUS
 add_core = ATJ
 add_core = PLM
 trade_goods = fish
 life_rating = 32
+colonial = 1
