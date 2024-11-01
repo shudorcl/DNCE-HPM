@@ -1,12 +1,12 @@
 capital = 2468
 primary_culture = ganguan
 religion = mahayana
-government = absolute_monarchy
+government = democracy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_equality
 literacy = 0.3
 civilized = yes
-prestige = 1
+prestige = 10
 
 
 
@@ -41,11 +41,11 @@ set_country_flag = mahayana_country
 set_country_flag = new_world_nation
 
 govt_flag = {
-	government = absolute_monarchy
+	government = democracy
 	flag = theocracy
 }
 
-ruling_party = AAA_conservative_3
+ruling_party = GAN_conservative_3
 upper_house = {
 	fascist = 0
 	liberal = 10

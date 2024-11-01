@@ -1,6 +1,5 @@
 color = { 0  0  191 }
-
-graphical_culture = AsianGC
+graphical_culture = ChineseGC
 
 party = {
     name = "DNG_conservative_1" # Loyalists

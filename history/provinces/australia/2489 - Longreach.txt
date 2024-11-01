@@ -1,3 +1,5 @@
+owner = GAN
+controller = GAN
 add_core = GAN
 trade_goods = cattle
 terrain = savanna
