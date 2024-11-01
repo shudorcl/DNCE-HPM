@@ -863,7 +863,7 @@ country_event = {
         }
       }
       3102 = {
-        change_province_name = "°ÂË¹Âüºþ"  # Lake Osmanli
+        change_province_name = "ÂÞÄ·ºþ"  # Lake Osmanli
       }
     }
     random_owned = {

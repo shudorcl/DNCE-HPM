@@ -4,19 +4,19 @@
 #Singapore (36000/9000 POPS)
 1384 = {
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 2450
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 500
 	}
@@ -48,19 +48,19 @@
 #Malacca (52800/13200 POPS)
 1386 = {
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 1450
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 1500
 	}
@@ -105,19 +105,19 @@
 #Penang (84000/21000 POPS)
 1388 = {
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 3875
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 2075
 	}
@@ -194,19 +194,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 1450
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 500
 	}
@@ -245,19 +245,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 950
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 1100
 	}
@@ -329,19 +329,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 925
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 2000
 	}
@@ -381,19 +381,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 950
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 1100
 	}
@@ -432,19 +432,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 950
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 1100
 	}
@@ -562,19 +562,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 475
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 500
 	}
@@ -708,19 +708,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 500
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 475
 	}

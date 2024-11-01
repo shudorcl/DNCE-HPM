@@ -268,7 +268,7 @@ monroe_doctrine_desc;从美洲大陆驱逐欧洲殖民势力;;;;;;;;;;;;x
 monroe_doctrine_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
 monroe_doctrine_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
 oriental_crisis;东方危机;;;;;;;;;;;;x
-oriental_crisis_desc;从埃及控制下解放奥斯曼领土;;;;;;;;;;;;x
+oriental_crisis_desc;从埃及控制下解放罗姆领土;;;;;;;;;;;;x
 oriental_crisis_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
 oriental_crisis_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
 restore_america;获得美国核心;;;;;;;;;;;;x
@@ -276,7 +276,7 @@ restore_america_desc;获得敌方控制的省份以重建美利坚合众国;;;;;;;;;;;;x
 restore_america_short;获得$STATE$;;;;;;;;;;;;x
 restore_america_setup;从$RECIPIENT$获得核心领土$STATE$;;;;;;;;;;;;x
 claim_holy_land;宣称黎凡特;;;;;;;;;;;;x
-claim_holy_land_desc;获得已经被奥斯曼帝国放弃的黎凡特地区某省份;;;;;;;;;;;;x
+claim_holy_land_desc;获得已经被罗姆帝国放弃的黎凡特地区某省份;;;;;;;;;;;;x
 claim_holy_land_short;获得$STATE$;;;;;;;;;;;;x
 claim_holy_land_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
 restore_british_raj;宣称英属印度;;;;;;;;;;;;x

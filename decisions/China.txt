@@ -257,7 +257,7 @@ political_decisions = {
   			OR = { 
 				  primary_culture = qingqiuan
 				  primary_culture = ganguan
-				  primary_culture = tionghoa
+				  primary_culture = min
 			  }
   			NOT = {
 				exists = CHI

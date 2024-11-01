@@ -1110,26 +1110,26 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 650
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size= 25
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = min
 		religion = mahayana
 		size = 1275
 	}

@@ -1,5 +1,5 @@
 capital = 1426
-primary_culture = tionghoa
+primary_culture = min
 religion = mahayana
 government = democracy
 plurality = 0.0

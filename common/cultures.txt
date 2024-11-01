@@ -3058,19 +3058,6 @@ chinese = {
             Congwen Zhiming Liangyu
         }
     }
-    min = {
-        color = {
-            230 230 50
-        }
-        first_names = {
-            Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu
-            Tan He Du Xue Xu Qin
-        }
-        last_names = {
-            Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee
-            Huiyin
-        }
-    }
     zhuang = {
         color = {
             200 75 134
@@ -3160,18 +3147,17 @@ oversea_chinese = {
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
-    tionghoa = {
+    min = {
         color = {
-            181 106 106
+            230 230 50
         }
         first_names = {
-            Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia
-            Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie
-            Ma Kong Dong Pan Yu
+            Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu
+            Tan He Du Xue Xu Qin
         }
         last_names = {
-            Zhao Wu Sun Ma Hu Peng Dong Ye L� Tian
-            Jiang Wei Ting Shen Fang Jin Qiu
+            Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee
+            Huiyin
         }
     }
 }

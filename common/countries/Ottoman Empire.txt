@@ -1,6 +1,4 @@
-color = {
-    170 206 162
-}
+color = { 114  222  255 }
 graphical_culture = OttomanGC
 
 party = {
@@ -161,7 +159,7 @@ unit_names = {
     }
     ironclad = {
         Hudavendigar Biga Rumeli Ardahan Mentese Anadolu Kibris Germiyan Halep Bagdat
-        Sam Sehrizor Ruha Girit Yanya Eflak Özü Bosna Içel Rodos
+        Sam Sehrizor Ruha Girit Yanya Eflak Öz„1¤7 Bosna Içel Rodos
         Silistre Misir Trablusgarp
     }
     manowar = {
@@ -175,7 +173,7 @@ unit_names = {
         Bursa Sevres Izmit Konya
     }
     frigate = {
-        Timsah "Simir-i Hidsum" Gilyom Nasir Ejder Yunus Draç Sivrihisar Nilüfer Rana
+        Timsah "Simir-i Hidsum" Gilyom Nasir Ejder Yunus Dra„1¤7 Sivrihisar Nilüfer Rana
         "Doruk Reis" "Hizir Reis" "Timur Hisar" Kos Nuribar "Pelenk-i Derya" Ceyhan "Yar Hisar" "Mahmud Sevket Pasha" Malatya
         Kütahya Yozgat
     }
@@ -186,7 +184,7 @@ unit_names = {
     clipper_transport = {}
     steam_transport = {}
     commerce_raider = {
-        Ankara Bagdat Erzurum Kars Selanik Monastir Uskup Izmir "Kudüs-ü Serif" Dimashq
+        Ankara Bagdat Erzurum Kars Selanik Monastir Uskup Izmir "Kudüs-„1¤7 Serif" Dimashq
         Saraybosna Edirne Sivas Kayseri Van Trablusgarp Uskudar Sinop Manisa Filibe
         Bender Trabzon Mersin Halep Kastamonu
     }

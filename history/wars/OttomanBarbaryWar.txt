@@ -1,4 +1,4 @@
-name = "奥斯曼收复的黎波里战争"  # Ottoman Restoration of Tripoli
+name = "罗姆收复的黎波里战争"  # Ottoman Restoration of Tripoli
 1836.1.2 = {
   add_attacker = TUR
   add_defender = TRI
