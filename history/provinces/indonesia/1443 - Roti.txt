@@ -1,5 +1,5 @@
-owner = TNG
-controller = TNG
+owner = DUA
+controller = DUA
 add_core = BAL
 add_core = NUS
 trade_goods = timber

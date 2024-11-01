@@ -1,5 +1,3 @@
-owner = DAI
-controller = DAI
 add_core = LUA
 add_core = DAI
 add_core = CAM

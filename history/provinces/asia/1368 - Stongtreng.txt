@@ -1,5 +1,3 @@
-owner = CHP
-controller = CHP
 add_core = CAM
 add_core = CHP
 trade_goods = grain

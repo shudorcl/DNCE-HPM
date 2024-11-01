@@ -1,5 +1,3 @@
-owner = CAM
-controller = CAM
 # add_core = SIA
 add_core = LUA
 add_core = CAM

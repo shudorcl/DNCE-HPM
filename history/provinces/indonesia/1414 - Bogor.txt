@@ -1,5 +1,3 @@
-owner = BRG
-controller = BRG
 add_core = JAV
 add_core = NUS
 trade_goods = coffee

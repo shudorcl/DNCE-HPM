@@ -88,7 +88,7 @@ party = {
 	trade_policy = free_trade
 	religious_policy = secularized
 	citizenship_policy = full_citizenship
-	war_policy = feigong
+	war_policy = pro_military
 }
 
 party = {

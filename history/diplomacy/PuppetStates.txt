@@ -104,3 +104,54 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
+# TNG vassal
+
+vassal = {
+	first = TNG
+	second = LFG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TNG
+	second = SIA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TNG
+	second = PLM
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TNG
+	second = JAV
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TNG
+	second = MKS
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TNG
+	second = BAL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TNG
+	second = CQO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
