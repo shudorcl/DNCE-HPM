@@ -2,9 +2,9 @@ import os
 import shutil
 
 # 定义文件夹路径
-folder_b = '../common/countries'
-folder_a = '../temp/countries_backup'
-folder_c = '../temp/countries'
+folder_b = '../history/countries'
+folder_a = '../temp/history_backup'
+folder_c = '../temp/history'
 
 # 确保目标文件夹存在
 if not os.path.exists(folder_c):
