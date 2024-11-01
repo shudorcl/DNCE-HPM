@@ -160,3 +160,15 @@ provisional_government = {
     appoint_ruling_party = yes
     flagType = republic
 }
+
+## DNCE
+tianchao_monarchy = {
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+
+	election = no
+	appoint_ruling_party = yes
+	flagType = monarchy
+}

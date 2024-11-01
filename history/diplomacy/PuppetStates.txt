@@ -155,3 +155,185 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
+### Ming Empire
+substate = {
+    first = MIG
+    second = CHQ
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = QIN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = HAX
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CHU
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CXU
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CSN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CLU
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CHW
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CZN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CBI
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CDI
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CQI
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CEN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CHA
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CGN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CQN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CGU
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CJA
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CYN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CTN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CWU
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CYU
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CMI
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CSU
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CPN
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = CLO
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = DAX
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = SHU
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = TAI
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = XBI
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
