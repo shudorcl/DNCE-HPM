@@ -1,6 +1,6 @@
 add_core = KOK
 trade_goods = wool
 life_rating = 35
-add_core = CHG
 owner = UZB
 controller = UZB
+add_core = UZB

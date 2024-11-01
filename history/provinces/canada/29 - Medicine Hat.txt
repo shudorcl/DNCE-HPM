@@ -2,6 +2,5 @@ add_core = UZB
 trade_goods = fruit
 terrain = desert
 life_rating = 15
-add_core = CHG
 owner = UZB
 controller = UZB

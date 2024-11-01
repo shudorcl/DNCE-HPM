@@ -1,5 +1,5 @@
 color = {
-    93 147 88
+    222 66 27
 }
 graphical_culture = AsianGC
 

@@ -1,5 +1,6 @@
 add_core = ARY
 add_core = BDK
+add_core = UZB
 trade_goods = grain
 life_rating = 35
 owner = UZB

@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = DUA
+controller = DUA
+add_core = DUA
 add_core = FRA
 fort = 1 
 trade_goods = coal
