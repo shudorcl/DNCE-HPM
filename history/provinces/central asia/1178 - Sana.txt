@@ -5,4 +5,3 @@ add_core = NEJ
 trade_goods = coffee
 terrain = steppe
 life_rating = 35
-core = NEJ

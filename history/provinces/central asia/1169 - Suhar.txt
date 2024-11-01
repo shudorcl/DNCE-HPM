@@ -4,4 +4,3 @@ add_core = OMA
 add_core = NEJ
 trade_goods = grain
 life_rating = 20
-core = NEJ

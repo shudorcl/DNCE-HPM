@@ -6,4 +6,3 @@ trade_goods = cattle
 life_rating = 10
 owner = NEJ
 controller = NEJ
-core = NEJ
