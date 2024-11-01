@@ -3,3 +3,6 @@ add_core = IRQ
 add_core = NEJ
 trade_goods = sulphur
 life_rating = 10
+owner = NEJ
+controller = NEJ
+core = NEJ

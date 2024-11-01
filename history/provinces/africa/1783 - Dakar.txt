@@ -1,5 +1,5 @@
-owner = FJA
-controller = FJA
+owner = DUA
+controller = DUA
 add_core = FJA
 trade_goods = grain
 terrain = semidesert

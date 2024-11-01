@@ -1,6 +1,7 @@
-owner = ALH
-controller = ALH
+owner = NEJ
+controller = NEJ
 add_core = ALH
 add_core = NEJ
 trade_goods = fruit
 life_rating = 35
+core = NEJ

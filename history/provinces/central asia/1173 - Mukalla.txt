@@ -1,7 +1,8 @@
-owner = YEM
-controller = YEM
+owner = NEJ
+controller = NEJ
 add_core = YEM
 add_core = NEJ
 trade_goods = opium
 life_rating = 32
 terrain = semidesert
+core = NEJ

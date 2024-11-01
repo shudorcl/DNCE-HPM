@@ -1,8 +1,9 @@
-owner = OMA
-controller = OMA
+owner = NEJ
+controller = NEJ
 add_core = OMA
 add_core = ABU
 add_core = NEJ
 trade_goods = fish
 terrain = mountain
 life_rating = 31
+core = NEJ
