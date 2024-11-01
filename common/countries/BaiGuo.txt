@@ -1,4 +1,5 @@
 color = {184 57 194}
+feudal_kingdom = {220 202 96}
 graphical_culture = ChineseGC
 
 party = {

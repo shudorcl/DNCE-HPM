@@ -172,3 +172,14 @@ tianchao_monarchy = {
 	appoint_ruling_party = yes
 	flagType = monarchy
 }
+
+feudal_kingdom = {
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+
+	election = no
+	appoint_ruling_party = yes
+	flagType = monarchy
+}
