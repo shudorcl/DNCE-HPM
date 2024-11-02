@@ -4,7 +4,7 @@ religion = mahayana
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality
-literacy = 0.3
+literacy = 0.6
 civilized = yes
 prestige = 10
 
@@ -12,13 +12,13 @@ prestige = 10
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
+upper_house_composition = state_equal_weight
+vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = free_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -30,11 +30,11 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = four_year_draft
+conscription = two_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
 child_labor = child_labor_legal
-citizens_rights = culture_voting_only
+citizens_rights = primary_culture_only
 border_policy = quota_immigration
 
 set_country_flag = mahayana_country
@@ -45,7 +45,7 @@ govt_flag = {
 	flag = theocracy
 }
 
-ruling_party = GAN_conservative_3
+ruling_party = GAN_conservative_1
 upper_house = {
 	fascist = 0
 	liberal = 10

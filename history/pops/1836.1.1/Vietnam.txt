@@ -848,51 +848,51 @@
 #Saigon (848000/212000 POPS)
 1380 = {
 	aristocrats = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 3600
 	}
 
 	bureaucrats = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 325
 	}
 
 	officers = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 300
 	}
 
 	clergymen = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 1775
 	}
 
 	artisans = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 7500
 	}
 
 	soldiers = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size= 1775
 
 	}
 
 	farmers = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 161725
 	}
 
 	farmers = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 8000
 	}
 
@@ -1066,60 +1066,60 @@
 	}
 
 	clergymen = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 300
 	}
 
 	artisans = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 1450
 	}
 
 	soldiers = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size= 250
 
 	}
 
 	farmers = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 27000
 	}
 }
 #Vinhlong (120000/30000 POPS)
 1383 = {
 	aristocrats = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 300
 	}
 
 	clergymen = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 125
 	}
 
 	artisans = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 700
 	}
 
 	soldiers = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = champa
-		religion = hindu
+		culture = min
+		religion = mahayana
 		size = 11875
 	}
 

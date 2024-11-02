@@ -1269,26 +1269,26 @@
 #Batavia (2236000/559000 POPS)
 1413 = {
 	aristocrats = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size = 4000
 	}
 
 	bureaucrats = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size = 500
 	}
 
 	clergymen = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size = 2500
 	}
 
 	artisans = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size = 10000
 	}
 	
@@ -1306,8 +1306,8 @@
 	}
 
 	labourers = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size = 438500
 	}
 
@@ -1318,8 +1318,8 @@
 	}
 
 	clergymen = {
-		culture = javan
-		religion = animist
+		culture = min
+		religion = mahayana
 		size = 375
 	}
 
@@ -1336,20 +1336,20 @@
 	}
 
 	aristocrats = {
-		culture = dutch
-		religion = protestant
+		culture = min
+		religion = mahayana
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = dutch
-		religion = protestant
+		culture = min
+		religion = mahayana
 		size = 1750
 	}
 
 	clergymen = {
-		culture = dutch
-		religion = protestant
+		culture = min
+		religion = mahayana
 		size = 75
 	}
 
@@ -1399,52 +1399,58 @@
 	}
 
 	clergymen = {
-		culture = javan
-		religion = animist
+		culture = min
+		religion = mahayana
 		size = 150
 	}
 
 	artisans = {
-		culture = javan
-		religion = animist
+		culture = min
+		religion = mahayana
 		size = 1600
 	}
 
 	farmers = {
-		culture = javan
-		religion = animist
+		culture = min
+		religion = mahayana
 		size = 27950
 	}
 
 	aristocrats = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size = 1500
 	}
 
 	clergymen = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size = 1500
 	}
 
 	artisans = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size = 7500
 	}
 
 	soldiers = {
-		culture = javan
-		religion = sunni
+		culture = min
+		religion = mahayana
 		size= 6000
 
 	}
 
 	farmers = {
+		culture = min
+		religion = mahayana
+		size = 75000
+	}
+
+	farmers = {
 		culture = javan
 		religion = sunni
-		size = 145000
+		size = 7000
 	}
 }
 #Cirebon (968000/242000 POPS)
