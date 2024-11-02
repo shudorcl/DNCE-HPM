@@ -5,52 +5,46 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 1525
+		size = 6100
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 1325
+		size = 5300
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 6600
+		size = 26400
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1325
+		size = 5300
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 121225
+		size = 484900
 	}	
 
 	slaves = {
 		culture = beifaren
 		religion = mahayana
-		size = 20000
+		size = 80000
 	}
 
 	aristocrats = {
 		culture = min
 		religion = mahayana
-		size = 3500
+		size = 14000
 	}
 
 	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 2500
-	}
-
-	artisans = {
 		culture = min
 		religion = mahayana
 		size = 10000
@@ -59,85 +53,91 @@
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 2500
+		size = 40000
+	}
+
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 10000
 	}
 
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 2500
+		size = 10000
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 165000
+		size = 660000
 	}
 	farmers = {
 		culture = micronesian
 		religion = mahayana
-		size = 18150
+		size = 72600
 	}
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 18150
+		size = 72600
 	}	
 }
 #Taitung (67k - 268k) #now part of Taiwan  
 2562 = {
 	farmers = {
-		culture = micronesian
+		culture = min
 		religion = animist
-		size = 17000
+		size = 68000
 	}
 	
 	slaves = {
 		culture = micronesian
 		religion = animist
-		size = 20000
+		size = 80000
 	}
 	
 	soldiers = {
-		culture = micronesian
+		culture = min
 		religion = animist
-		size = 6000
+		size = 24000
 	}
 	
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 1000
+		size = 4000
 	}
 	
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 150
+		size = 600
 	}
 	
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 100
+		size = 400
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 750
+		size = 3000
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3300
+		size = 13200
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 12925
+		size = 51700
 	}
 }
 
@@ -146,31 +146,31 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 150
+		size = 600
 	}
 	
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 100
+		size = 400
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 750
+		size = 3000
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1300
+		size = 5200
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 12925
+		size = 51700
 	}
 
 }
@@ -180,79 +180,79 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 1500
+		size = 6000
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 450
+		size = 1800
 	}
 
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 750
+		size = 3000
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 1225
+		size = 4900
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 6150
+		size = 24600
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1300
+		size = 5200
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 110625
+		size = 442500
 	}
 
 	aristocrats = {
 		culture = min
 		religion = mahayana
-		size = 3000
+		size = 12000
 	}
 
 	clergymen = {
 		culture = min
 		religion = mahayana
-		size = 2400
+		size = 9600
 	}
 
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 10000
+		size = 40000
 	}
 
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 2000
+		size = 8000
 	}
 
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 2400
+		size = 9600
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 220200
+		size = 880800
 	}
 }
 

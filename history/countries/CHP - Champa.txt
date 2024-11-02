@@ -1,4 +1,4 @@
-capital = 1380
+capital = 1379
 primary_culture = champa
 religion = hindu
 government = absolute_monarchy 

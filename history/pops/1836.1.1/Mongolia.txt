@@ -5,97 +5,97 @@
     aristocrats = {
         culture = mongol
         religion = gelugpa
-        size = 6225
+        size = 12450
     }
 
     bureaucrats = {
         culture = mongol
         religion = gelugpa
-        size = 75
+        size = 150
     }
 
     officers = {
         culture = mongol
         religion = gelugpa
-        size = 325
+        size = 650
     }
 
     clergymen = {
         culture = mongol
         religion = gelugpa
-        size = 4000
+        size = 8000
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 4500
+        size = 9000
     }
 
     soldiers = {
         culture = mongol
         religion = gelugpa
-        size = 3175
+        size = 6350
     }
 
     farmers = {
         culture = mongol
         religion = gelugpa
-        size = 84350
+        size = 168700
     }
 
     bureaucrats = {
         culture = beifaren
         religion = mahayana
-        size = 125
+        size = 250
     }
 
     clergymen = {
         culture = beifaren
         religion = mahayana
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = beifaren
         religion = mahayana
-        size = 400
+        size = 800
     }
 
     soldiers = {
         culture = beifaren
         religion = mahayana
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = beifaren
         religion = mahayana
-        size = 3300
+        size = 6600
     }
 
     aristocrats = {
+        culture = yakut
+        religion = animist
+        size = 100
+    }
+
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
         culture = yakut
         religion = animist
         size = 50
     }
 
-    aristocrats = {
-        culture = kazak
-        religion = sunni
-        size = 200
-    }
-
-    soldiers = {
-        culture = yakut
-        religion = animist
-        size = 25
-    }
-
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 125
+        size = 250
     }
 }
 #Dalandzadgad (212000/53000 POPS)   
@@ -103,19 +103,19 @@
     clergymen = {
         culture = mongol
         religion = gelugpa
-        size = 550
+        size = 1100
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 2650
+        size = 5300
     }
 
     farmers = {
         culture = mongol
         religion = gelugpa
-        size = 48200
+        size = 96400
     }
 }
 #Bayan Tumen (176000/44000 POPS)   
@@ -123,37 +123,37 @@
     clergymen = {
         culture = mongol
         religion = gelugpa
-        size = 425
+        size = 850
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 2050
+        size = 4100
     }
 
     farmers = {
         culture = mongol
         religion = gelugpa
-        size = 37275
+        size = 74550
     }
 
     clergymen = {
         culture = yakut
         religion = animist
-        size = 50
+        size = 100
     }
 
     artisans = {
         culture = yakut
         religion = animist
-        size = 125
+        size = 250
     }
 
     farmers = {
         culture = yakut
         religion = animist
-        size = 2750
+        size = 5500
     }
 }
 #Uliastai (140000/35000 POPS)   
@@ -161,21 +161,108 @@
     aristocrats = {
         culture = oirat
         religion = gelugpa
-        size = 8000
+        size = 16000
     }
 
     bureaucrats = {
         culture = oirat
         religion = gelugpa
-        size = 100
+        size = 200
     }
 
     officers = {
         culture = oirat
         religion = gelugpa
-        size = 1000
+        size = 2000
     }
 
+    clergymen = {
+        culture = oirat
+        religion = gelugpa
+        size = 700
+    }
+
+    artisans = {
+        culture = oirat
+        religion = gelugpa
+        size = 3500
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = gelugpa
+        size = 8000
+    }
+
+    farmers = {
+        culture = oirat
+        religion = gelugpa
+        size = 63800
+    }
+}
+#Sainshand (71100/17775 POPS)   
+2207 = {
+    clergymen = {
+        culture = mongol
+        religion = gelugpa
+        size = 350
+    }
+
+    artisans = {
+        culture = mongol
+        religion = gelugpa
+        size = 1750
+    }
+
+    farmers = {
+        culture = mongol
+        religion = gelugpa
+        size = 32400
+    }
+}
+
+#Khatgal (152000/38000 POPS)   
+2608 = {
+    clergymen = {
+        culture = oirat
+        religion = gelugpa
+        size = 750
+    }
+
+    artisans = {
+        culture = oirat
+        religion = gelugpa
+        size = 3000
+    }
+
+    farmers = {
+        culture = oirat
+        religion = gelugpa
+        size = 70000
+    }
+}
+#Bulgan (84000/21000 POPS)   
+2678 = {
+    clergymen = {
+        culture = oirat
+        religion = gelugpa
+        size = 400
+    }
+
+    artisans = {
+        culture = oirat
+        religion = gelugpa
+        size = 2100
+    }
+
+    farmers = {
+        culture = oirat
+        religion = gelugpa
+        size = 34250
+    }
+}
+#Khovd (120000/30000 POPS)   
+2679 = {
     clergymen = {
         culture = oirat
         religion = gelugpa
@@ -185,118 +272,31 @@
     artisans = {
         culture = oirat
         religion = gelugpa
-        size = 1750
-    }
-
-    soldiers = {
-        culture = oirat
-        religion = gelugpa
-        size = 4000
+        size = 1800
     }
 
     farmers = {
         culture = oirat
         religion = gelugpa
-        size = 31900
+        size = 32800
     }
-}
-#Sainshand (71100/17775 POPS)   
-2207 = {
+
     clergymen = {
-        culture = mongol
-        religion = gelugpa
-        size = 175
-    }
-
-    artisans = {
-        culture = mongol
-        religion = gelugpa
-        size = 875
-    }
-
-    farmers = {
-        culture = mongol
-        religion = gelugpa
-        size = 16200
-    }
-}
-
-#Khatgal (152000/38000 POPS)   
-2608 = {
-    clergymen = {
-        culture = oirat
-        religion = gelugpa
-        size = 375
-    }
-
-    artisans = {
-        culture = oirat
-        religion = gelugpa
-        size = 1500
-    }
-
-    farmers = {
-        culture = oirat
-        religion = gelugpa
-        size = 35000
-    }
-}
-#Bulgan (84000/21000 POPS)   
-2678 = {
-    clergymen = {
-        culture = oirat
-        religion = gelugpa
+        culture = kazak
+        religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = oirat
-        religion = gelugpa
-        size = 1050
-    }
-
-    farmers = {
-        culture = oirat
-        religion = gelugpa
-        size = 17125
-    }
-}
-#Khovd (120000/30000 POPS)   
-2679 = {
-    clergymen = {
-        culture = oirat
-        religion = gelugpa
-        size = 175
-    }
-
-    artisans = {
-        culture = oirat
-        religion = gelugpa
-        size = 900
-    }
-
-    farmers = {
-        culture = oirat
-        religion = gelugpa
-        size = 16400
-    }
-
-    clergymen = {
         culture = kazak
         religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = kazak
-        religion = sunni
-        size = 600
+        size = 1200
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 10975
+        size = 21950
     }
 }
 #Uliatai / Uriankhai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
@@ -304,30 +304,30 @@
     aristocrats = {
         culture = tatar
         religion = gelugpa
-        size = 150
+        size = 300
     }
 
     clergymen = {
         culture = tatar
         religion = gelugpa
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = tatar
         religion = gelugpa
-        size = 400
+        size = 800
     }
 
     soldiers = {
         culture = tatar
         religion = gelugpa
-        size = 75
+        size = 150
     }
 
     farmers = {
         culture = tatar
         religion = gelugpa
-        size = 7300
+        size = 14600
     }
 }
