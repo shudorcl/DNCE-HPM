@@ -1,7 +1,7 @@
 color = {
-    21 118 209
+    211 240 84
 }
-graphical_culture = Generic
+graphical_culture = ChineseGC
 
 party = {
     name = "AAA_conservative_1" # Loyalists

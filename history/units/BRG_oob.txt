@@ -90,13 +90,6 @@ MNR = {
 	influence_value = 100
 }
 
-HYD = { 
-
-	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-
 
 leader = {
 	name = "Tristan Duras"
@@ -155,7 +148,7 @@ leader = {
 }
 
 leader = {
-	name = "André Monami"
+	name = "Andr„1¤7 Monami"
 	type = land
 	date = 1836.1.1
 	personality = soldierly
@@ -502,7 +495,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Montebello "
+		name= "Montebello„1¤7"
 		type = manowar
 	}
 

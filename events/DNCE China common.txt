@@ -1,0 +1,54 @@
+country_event = {
+    id = 701000
+    title = "EVTNAME701000"
+    desc = "EVTDESC701000"
+    #picture = Picture
+    
+    trigger = {
+        government = feudal_kingdom
+        has_global_flag = ming_collapse
+        NOT = { has_country_flag = leave_feudal_kingdom }
+    }
+    
+    mean_time_to_happen = {
+        days = 1 
+    }
+
+    option = {
+        name = "EVTOPTA701000"
+        government = absolute_monarchy
+        set_country_flag = leave_feudal_kingdom
+    }
+}
+
+country_event = {
+    id = 701001
+    title = "EVTNAME701001"
+    desc = "EVTDESC701001"
+    # picture = Picture
+    major = yes
+    trigger = {
+        tag = MIG
+        year = 1838
+        NOT = { has_global_flag = ming_collapse }
+    }
+    
+    mean_time_to_happen = {
+        days = 10
+    }
+
+    #fire_only_once = yes
+    option = {
+        name = "EVTOPTA701001"
+        CWU = {inherit = THIS}
+        set_global_flag = ming_collapse
+        ai_chance = { factor = 99 }
+    }
+    
+    option = {
+        name = "EVTOPTB701001"
+        set_global_flag = ming_collapse
+        ai_chance = { factor = 1 }
+    }
+    
+}
