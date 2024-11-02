@@ -1,7 +1,7 @@
-owner = SHU
-controller = SHU
 add_core = CHI
 trade_goods = tea
 life_rating = 32
 naval_base = 1
-add_core = SHU
+owner = CPN
+controller = CPN
+add_core = CPN
