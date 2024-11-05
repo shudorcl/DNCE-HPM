@@ -194,6 +194,20 @@ country_migration_target = {
             government = hms_government
         }
     }
+    modifier = {
+		factor = 0.2
+	    AND = {
+           THIS = { is_culture_group = chinese }
+	       NOT = { is_culture_group = oversea_chinese }
+	    }
+	}
+	modifier = {
+		factor = 4
+	    AND = {
+           THIS = { is_culture_group = chinese }
+	       is_culture_group = oversea_chinese
+	    }
+	}
 }
 
 migration_target = {
