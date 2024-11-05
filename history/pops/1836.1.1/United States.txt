@@ -400,19 +400,19 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 150
+		size = 300
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 175
+		size = 350
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 5650
+		size = 11300
 	}
 
 	soldiers = {
@@ -425,7 +425,7 @@
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 42700
+		size = 85400
 	}
 }
 #Spokane (4000/1000 POPS)
@@ -464,31 +464,31 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 50
+		size = 100
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 3200
+		size = 6400
 	}
 
 	soldiers = {
 		culture = qingqiuan	
 		religion = mahayana
-		size = 700
+		size = 1400
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 16200
+		size = 32400
 	}
 
 	clergymen = {
@@ -545,31 +545,31 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 100
+		size = 200
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 2340
+		size = 4680
 	}
 
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 300
+		size = 600
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 16450
+		size = 32900
 	}
 }
 #Oregon Region (20000)
@@ -579,13 +579,13 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 350
+		size = 700
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 375
+		size = 750
 	}
 
 	soldiers = {
@@ -597,7 +597,7 @@
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 42700
+		size = 85400
 	}
 }
 #Baker City (4000/1000 POPS)
@@ -605,13 +605,13 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 310
+		size = 620
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 145
+		size = 290
 	}
 
 	soldiers = {
@@ -623,7 +623,7 @@
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 9900
+		size = 19800
 	}
 
 	clergymen = {
@@ -655,13 +655,13 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 110
+		size = 220
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 235
+		size = 470
 	}
 
 	soldiers = {
@@ -674,7 +674,7 @@
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 10900
+		size = 21800
 	}
 
 	clergymen = {
@@ -708,55 +708,55 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 610
+		size = 1220
 	}
 
 	bureaucrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	officers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	} 
 
 	craftsmen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 7000
+		size = 14000
 	}
   
   capitalists = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 300
+		size = 600
 	}
   
   clerks = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 850
+		size = 1700
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 810
+		size = 1620
+	}
+
+	artisans = {
+		culture = qingqiuan
+		religion = mahayana
+		size = 20000
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
 		size = 10000
-	}
-
-	artisans = {
-		culture = qingqiuan
-		religion = mahayana
-		size = 5000
 	}
 
 	soldiers = {
@@ -768,7 +768,7 @@
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 47550
+		size = 95100
 	}
 }
 #Eureka (4000/1000 POPS)
@@ -776,31 +776,31 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 210
+		size = 420
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 7600
+		size = 15200
 	}
 
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 43200
+		size = 86400
 	}
 }
 #Sacramento (12000/3000 POPS)
@@ -809,31 +809,31 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 3400
+		size = 6800
 	}
 
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 23450
+		size = 46900
 	}
 
 	aristocrats = {
@@ -878,31 +878,31 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 140
+		size = 280
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 5600
+		size = 11200
 	}
 
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 34200
+		size = 68400
 	}
 }
 #Mariposa (8000/2000 POPS)
@@ -910,37 +910,37 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	}
 
 	officers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 50
+		size = 100
 	}
 
 	bureaucrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 4500
+		size = 9000
 	}
 
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 400
+		size = 800
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 23200
+		size = 46400
 	}
 
 	aristocrats = {
@@ -984,31 +984,31 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 310
+		size = 620
 	}
 
 	officers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 50
+		size = 100
 	}
 
 	bureaucrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 225
+		size = 450
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 5600
+		size = 11200
 	}
 
 	soldiers = {
@@ -1021,7 +1021,7 @@
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 43900
+		size = 87800
 	}
 }
 #San Diego (12000/3000 POPS)
@@ -1179,25 +1179,25 @@
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 800
+		size = 1600
 	}
 
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 350
+		size = 700
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 5670
+		size = 11340
 	}
 }
 #Coeur d'Alene (4000/1000 POPS)
@@ -1230,19 +1230,19 @@
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 50
+		size = 100
 	}
 
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 400
+		size = 800
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 4500
+		size = 9000
 	}
 }
 #Pocatello (12000/3000 POPS)
@@ -1304,37 +1304,37 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 100
+		size = 200
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 2000
+		size = 4000
 	}
 
 	bureaucrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 50
+		size = 100
 	}
 
 	soldiers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 9200
+		size = 18400
 	}
 
 }
@@ -1367,25 +1367,25 @@
 	aristocrats = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 160
+		size = 320
 	}
 
 	artisans = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 1600
+		size = 3200
 	}
 
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 200
+		size = 400
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 5200
+		size = 10400
 	}
 }
 #Las Vegas (4000/1000 POPS)
@@ -1423,13 +1423,13 @@
 	clergymen = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 70
+		size = 140
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 2200
+		size = 4400
 	}
 
 }

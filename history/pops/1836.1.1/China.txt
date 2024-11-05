@@ -670,37 +670,37 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 500
+		size = 1000
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 500
+		size = 1000
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	artisans = {
@@ -718,13 +718,13 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 87900
+		size = 175800
 	}
 }
 #Jinzhou (680000/170000 POPS)
@@ -5433,7 +5433,7 @@
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 4500
+		size = 9000
 	}
 	aristocrats = {
 		culture = mongol
@@ -6745,49 +6745,49 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 4000
+		size = 8000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 500
+		size = 1000
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 2000
+		size = 4000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 109500
+		size = 219000
 	}
 	aristocrats = {
 		culture = beifaren
@@ -6959,49 +6959,49 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 4000
+		size = 8000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 500
+		size = 1000
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 2000
+		size = 4000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 140000
+		size = 280000
 	}
 	aristocrats = {
 		culture = beifaren
@@ -7135,55 +7135,55 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1500
+		size = 3000
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 2000
+		size = 4000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 6000
+		size = 12000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 6000
+		size = 12000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 6000
+		size = 12000
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 119000
+		size = 238000
 	}
 }
 #Jilin (1136000/284000 POPS)
@@ -7264,55 +7264,55 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 6000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1500
+		size = 3000
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 1000
+		size = 2000
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 2000
+		size = 4000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 6000
+		size = 12000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 6000
+		size = 12000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 6000
+		size = 12000
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 152200
+		size = 304400
 	}
 }
 #Manzhouli (251300/62825 POPS)
@@ -7320,22 +7320,22 @@
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 112
+		size = 224
 	}
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 375
+		size = 750
 	}
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 550
+		size = 1100
 	}
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 17900
+		size = 35800
 	}
 
 	artisans = {
