@@ -28,7 +28,6 @@ float4x4 ViewMatrix		: View;
 float4x4 ProjectionMatrix	: Projection; 
 float4x4 AbsoluteWorldMatrix;
 float3	 LightDirection;
-float3	CameraPosition;
 float	 vAlpha;
 
 float	ColorMapHeight;
@@ -48,7 +47,8 @@ const float3 GREYIFY = float3( 0.212671, 0.715160, 0.072169 );
 float3 ApplyFOWColor( float3 c, float FOW ) 
 {
 	float Grey = dot( c.rgb, GREYIFY );
-	return lerp( Grey.rrr * 0.4, c.rgb, FOW > 0.8 ? 1.0 : 0.3 );
+	// return lerp( Grey.rrr * 0.4, c.rgb, FOW > 0.8 ? 1.0 : 0.3 );
+	return c;
 }
 
 sampler BaseTexture  =
@@ -157,7 +157,7 @@ sampler_state
 sampler TerrainAlphaTexture  =
 sampler_state
 {
-    Texture = <tex3>;
+    Texture = <tex2>;
     MinFilter = Point;
     MagFilter = Point;
     MipFilter = None;
@@ -171,7 +171,7 @@ sampler_state
     Texture = <tex6>;
     MinFilter = Linear;
     MagFilter = Linear;
-    MipFilter = None;
+    MipFilter = None; //None;
     AddressU = Clamp;
     AddressV = Clamp;
 };
@@ -223,7 +223,7 @@ sampler_state
 sampler TerraIncognitaTextureTerrain =
 sampler_state
 {
-    Texture = <tex7>;
+    Texture = <tex2>;
     MinFilter = Linear;
     MagFilter = Linear;
     MipFilter = None;
@@ -289,7 +289,6 @@ struct VS_MAP_OUTPUT
 	float2	vProvinceId : TEXCOORD3;
     float2  vTerrainTexCoord : TEXCOORD4; 
     float4	vTerrainIndexColor : TEXCOORD5;
-	float4 vPosTex : TEXCOORD6; // workarounds
 };
 
 struct VS_OUTPUT_BEACH
@@ -362,7 +361,6 @@ struct TILE_STRUCT
     float2  vColorTexCoord : TEXCOORD2;
     float4 vTerrainIndexColor : COLOR0;
 };
-
 
 float4 GenerateTiles( TILE_STRUCT v )
 {
@@ -437,107 +435,8 @@ float4 GenerateTiles( TILE_STRUCT v )
 	return y1;
 }
 
-float GenerateHeight( TILE_STRUCT v )
-{
-	float4 IndexColor = tex2Dlod( QuadIndexTexture, float4(v.vTerrainIndexColor.xy, 0, 0) ); //Coordinates for for quad texture of index colors
-	
-	float2 noisecoord = v.vTexCoord0+0.5;
-	float3 noisy = tex2Dlod(NoiseTexture, float4( noisecoord, 0, 0 ) ).rgb;
-	
-	IndexColor *= 256.0; //size of colorbyte
-
-	float4 IndexCoordX = fmod(IndexColor, NUM_TERRAINS_FACTOR); //x coord in tiles sheet
-	IndexCoordX = trunc(IndexCoordX);
-	float4 vIndexCoordX = IndexCoordX / NUM_TERRAINS_FACTOR;
-	
-	float4 IndexCoordY = IndexColor / NUM_TERRAINS_FACTOR; //y coord in tiles sheet
-	IndexCoordY = trunc(IndexCoordY);
-	float4 vIndexCoordY = IndexCoordY * NUM_TILES_Y;
-	
-	float2 TexCoord = v.vColorTexCoord + 0.5;
-	TexCoord = frac( TexCoord ); // 0 => 1 range.. only thing we need is the decimal part.
-	TexCoord.x = 1.0 - TexCoord.x;
-	
-	float2 PixelTexCoord = v.vTexCoord0;
-	PixelTexCoord = frac( PixelTexCoord ); // 0 => 1 range.. only thing we need is the decimal part.
-	
-	TexCoord.x *= NUM_TILES_X;
-	TexCoord.y *= (NUM_TILES_Y - 0.001);
-	
-	TexCoord.x = clamp( TexCoord.x, 0.001, X_CLAMP );
-	TexCoord.y = clamp( TexCoord.y, 0.001, Y_CLAMP );
-	
-	float2 uvThis;
-	uvThis.x = vIndexCoordX.x;
-	uvThis.y = vIndexCoordY.x;
-
-	float4 LeftTerrain = tex2Dlod( TextureSheet, float4(TexCoord + uvThis, 0, 0) );
-	
-	uvThis.x = vIndexCoordX.y;
-	uvThis.y = vIndexCoordY.y;
-	
-	float4 UpLeftTerrain = tex2Dlod( TextureSheet, float4(TexCoord + uvThis, 0, 0) );
-	
-	uvThis.x = vIndexCoordX.z;
-	uvThis.y = vIndexCoordY.z;
-
-	float4 Terrain = tex2Dlod( TextureSheet, float4(TexCoord + uvThis, 0, 0) ); //->left
-	
-	//return Terrain;	
-	uvThis.x = vIndexCoordX.w;
-	uvThis.y = vIndexCoordY.w;
-	
-	float4 UpTerrain = tex2Dlod( TextureSheet, float4(TexCoord + uvThis, 0, 0) ); //->upleft
-	
-	float x1 = lerp( LeftTerrain.a, Terrain.a, saturate( PixelTexCoord.x + noisy.x) );
-	float x2 = lerp( UpLeftTerrain.a, UpTerrain.a, saturate( PixelTexCoord.x + noisy.y) );
-	float y1 = lerp( x1, x2, saturate( PixelTexCoord.y + noisy.z) );
-	
-	return y1;
-	
-}
-
-float4x4 inverse(float4x4 m) {
-    float n11 = m[0][0], n12 = m[1][0], n13 = m[2][0], n14 = m[3][0];
-    float n21 = m[0][1], n22 = m[1][1], n23 = m[2][1], n24 = m[3][1];
-    float n31 = m[0][2], n32 = m[1][2], n33 = m[2][2], n34 = m[3][2];
-    float n41 = m[0][3], n42 = m[1][3], n43 = m[2][3], n44 = m[3][3];
-
-    float t11 = n23 * n34 * n42 - n24 * n33 * n42 + n24 * n32 * n43 - n22 * n34 * n43 - n23 * n32 * n44 + n22 * n33 * n44;
-    float t12 = n14 * n33 * n42 - n13 * n34 * n42 - n14 * n32 * n43 + n12 * n34 * n43 + n13 * n32 * n44 - n12 * n33 * n44;
-    float t13 = n13 * n24 * n42 - n14 * n23 * n42 + n14 * n22 * n43 - n12 * n24 * n43 - n13 * n22 * n44 + n12 * n23 * n44;
-    float t14 = n14 * n23 * n32 - n13 * n24 * n32 - n14 * n22 * n33 + n12 * n24 * n33 + n13 * n22 * n34 - n12 * n23 * n34;
-
-    float det = n11 * t11 + n21 * t12 + n31 * t13 + n41 * t14;
-    float idet = 1.0f / det;
-
-    float4x4 ret;
-
-    ret[0][0] = t11 * idet;
-    ret[0][1] = (n24 * n33 * n41 - n23 * n34 * n41 - n24 * n31 * n43 + n21 * n34 * n43 + n23 * n31 * n44 - n21 * n33 * n44) * idet;
-    ret[0][2] = (n22 * n34 * n41 - n24 * n32 * n41 + n24 * n31 * n42 - n21 * n34 * n42 - n22 * n31 * n44 + n21 * n32 * n44) * idet;
-    ret[0][3] = (n23 * n32 * n41 - n22 * n33 * n41 - n23 * n31 * n42 + n21 * n33 * n42 + n22 * n31 * n43 - n21 * n32 * n43) * idet;
-
-    ret[1][0] = t12 * idet;
-    ret[1][1] = (n13 * n34 * n41 - n14 * n33 * n41 + n14 * n31 * n43 - n11 * n34 * n43 - n13 * n31 * n44 + n11 * n33 * n44) * idet;
-    ret[1][2] = (n14 * n32 * n41 - n12 * n34 * n41 - n14 * n31 * n42 + n11 * n34 * n42 + n12 * n31 * n44 - n11 * n32 * n44) * idet;
-    ret[1][3] = (n12 * n33 * n41 - n13 * n32 * n41 + n13 * n31 * n42 - n11 * n33 * n42 - n12 * n31 * n43 + n11 * n32 * n43) * idet;
-
-    ret[2][0] = t13 * idet;
-    ret[2][1] = (n14 * n23 * n41 - n13 * n24 * n41 - n14 * n21 * n43 + n11 * n24 * n43 + n13 * n21 * n44 - n11 * n23 * n44) * idet;
-    ret[2][2] = (n12 * n24 * n41 - n14 * n22 * n41 + n14 * n21 * n42 - n11 * n24 * n42 - n12 * n21 * n44 + n11 * n22 * n44) * idet;
-    ret[2][3] = (n13 * n22 * n41 - n12 * n23 * n41 - n13 * n21 * n42 + n11 * n23 * n42 + n12 * n21 * n43 - n11 * n22 * n43) * idet;
-
-    ret[3][0] = t14 * idet;
-    ret[3][1] = (n13 * n24 * n31 - n14 * n23 * n31 + n14 * n21 * n33 - n11 * n24 * n33 - n13 * n21 * n34 + n11 * n23 * n34) * idet;
-    ret[3][2] = (n14 * n22 * n31 - n12 * n24 * n31 - n14 * n21 * n32 + n11 * n24 * n32 + n12 * n21 * n34 - n11 * n22 * n34) * idet;
-    ret[3][3] = (n12 * n23 * n31 - n13 * n22 * n31 + n13 * n21 * n32 - n11 * n23 * n32 - n12 * n21 * n33 + n11 * n22 * n33) * idet;
-
-    return ret;
-}
-
-const float vXStretch = 16; //higher gives textures more stretch change both values
-const float vYStretch = 16;
+const float vXStretch = 32; //higher gives textures more stretch change both values Note Performance
+const float vYStretch = 32;
 
 ///////////////////////////////////////////////////////////////////////////////////////
 // Map vertex shaders
@@ -552,12 +451,11 @@ VS_MAP_OUTPUT VertexShader_Map_General(const VS_INPUT v )
 	float4x4 WorldView = mul(WorldMatrix, ViewMatrix);
 	float3 P = mul(vPosition, (float4x3)WorldView);
 	Out.vPosition  = mul(float4(P, 1), ProjectionMatrix);
-	Out.vPosTex = Out.vPosition;
 
 
 	float4 WorldPosition = mul( vPosition, AbsoluteWorldMatrix );
 
-	///////New Stuff
+	///////New Stufff
 
 	float WorldX = WorldPosition.x;
 	float WorldY = WorldPosition.z;
@@ -597,7 +495,6 @@ VS_MAP_OUTPUT VertexShader_Map_General_Low(const VS_INPUT v )
 	float4x4 WorldView = mul(WorldMatrix, ViewMatrix);
 	float3 P = mul(vPosition, (float4x3)WorldView);
 	Out.vPosition  = mul(float4(P, 1), ProjectionMatrix);
-	Out.vPosTex = Out.vPosition;
 
 
 	float4 WorldPosition = mul( vPosition, AbsoluteWorldMatrix );
@@ -607,7 +504,7 @@ VS_MAP_OUTPUT VertexShader_Map_General_Low(const VS_INPUT v )
 	float WorldX = WorldPosition.x;
 	float WorldY = WorldPosition.z;
 	
-	Out.vColorTexCoord.xy = float2( WorldX/512.0, WorldY/512.0 );
+	Out.vColorTexCoord.xy = float2( WorldX/vXStretch, WorldY/vYStretch );
 	Out.vTexCoord0.xy = float2( WorldX, WorldY );
 	//Out.vColorTexCoord.xy = float2( WorldX, WorldY );
 	
@@ -636,32 +533,44 @@ VS_MAP_OUTPUT VertexShader_Map_General_Low(const VS_INPUT v )
 VS_MAP_OUTPUT VertexShader_Map(const VS_INPUT v )
 {
 	VS_MAP_OUTPUT Out = (VS_MAP_OUTPUT)0;
-	
+
 	float4 vPosition = float4( v.vPosition.x, LAND_ALT, v.vPosition.y, 1 );
 	
 	float4x4 WorldView = mul(WorldMatrix, ViewMatrix);
 	float3 P = mul(vPosition, (float4x3)WorldView);
 	Out.vPosition  = mul(float4(P, 1), ProjectionMatrix);
-	Out.vPosTex = Out.vPosition;
 
-	Out.vProvinceId = v.vProvinceId;
 
 	float4 WorldPosition = mul( vPosition, AbsoluteWorldMatrix );
-	
+
+	///////New Stuff
+
 	float WorldX = WorldPosition.x;
 	float WorldY = WorldPosition.z;
 	
-	Out.vColorTexCoord.xy = float2( WorldX/16.0, WorldY/16.0 );
+	Out.vColorTexCoord.xy = float2( WorldX/vXStretch, WorldY/vYStretch );
 	Out.vTexCoord0.xy = float2( WorldX, WorldY );
+	//Out.vColorTexCoord.xy = float2( WorldX, WorldY );
 	
 	WorldX = (ColorMapWidth * WorldPosition.x) / MapWidth;
 	WorldY = (ColorMapHeight * WorldPosition.z) / MapHeight;
 	Out.vTexCoord1.xy = float2( ( WorldX + X_OFFSET)/ColorMapTextureWidth, (WorldY + Z_OFFSET)/ColorMapTextureHeight );
 
 	Out.vTerrainIndexColor.x = ((WorldPosition.x - TerrainIndexOffsetX) + X_MAGIC ) / TerrainIndexSizeX;
-	Out.vTerrainIndexColor.y = ((WorldPosition.z - TerrainIndexOffsetY) + Y_MAGIC ) / TerrainIndexSizeY;		
+	Out.vTerrainIndexColor.y = ((WorldPosition.z - TerrainIndexOffsetY) + Y_MAGIC ) / TerrainIndexSizeY;
 	
 	Out.vTerrainIndexColor = clamp(Out.vTerrainIndexColor,0.0,1.0);
+	
+	//// End new stuff
+
+
+	float2 TerrainCoord = WorldPosition.xz;
+	TerrainCoord += 0.5;
+	TerrainCoord /= 8.0;
+	Out.vTerrainTexCoord  = TerrainCoord;
+
+	Out.vProvinceId = v.vProvinceId;
+	
 	return Out;
 }
 
@@ -674,220 +583,130 @@ VS_MAP_OUTPUT VertexShader_Map(const VS_INPUT v )
 
 float4 White = float4( 1, 1, 1, 1 );
 
-TILE_STRUCT ParallaxMapping( TILE_STRUCT v, float3 viewDir ){
-
-	float cameraHeight = viewDir.y;
-	viewDir = normalize(viewDir);
-	const float numLayers = 10;
-	float layerHeight = 1.0 / numLayers;
-	float currentLayerHeight = 0.0;
-	float2 P = float2(viewDir.x, (viewDir.z - 1.0)*0.5) * 0.1;
-	float2 deltaTexCoords = P / numLayers;
-	
-	// get initial values
-	float2 currentTexCoords = v.vColorTexCoord;
-	float currentHeightMapValue = GenerateHeight(v);
-	float deltaHeightMapValue = 0;
-	float layer = 1;
-	float refineRate = trunc(smoothstep(0, -300, cameraHeight) * 2 + 1);
-	float refine = trunc(2.0/refineRate);
-  
-	while( refine )
-	{
-		while(currentLayerHeight < currentHeightMapValue)
-		{
-			// shift texture coordinates along direction of P
-			currentTexCoords += deltaTexCoords;
-			v.vColorTexCoord = currentTexCoords;
-			// get depthmap value at current texture coordinates
-			deltaHeightMapValue = GenerateHeight( v ) - currentHeightMapValue;
-			currentHeightMapValue += deltaHeightMapValue;
-			// get depth of next layer
-			currentLayerHeight += layerHeight;
-			layer+=1; 
-		}
-		currentTexCoords -= deltaTexCoords;
-		currentLayerHeight -= layerHeight;
-		currentHeightMapValue -= deltaHeightMapValue;
-		deltaTexCoords /= layer;
-		layerHeight /= layer;
-		refine--;
-		//layer = 1;
-	}
-	
-	return v;
-}
-
-float SelfShadow( TILE_STRUCT v, float3 lightDir, float3 viewDir )
-{
-	float numLayers = 10;
-	float layerHeight = 1.0 / 1000;
-	float currentLayerHeight = GenerateHeight(v);
-	float currentHeightMapValue = 0.0;
-	float2 P = normalize(lightDir).xy * 0.1;
-	float2 deltaTexCoords = P / numLayers;
-	float2 currentTexCoords = v.vColorTexCoord;
-	float penumbraFactor = 0.0;
-	float layerRate = clamp(length(viewDir)/200, 1.0, 10.0);
-	
-	while( step(0, numLayers)*step(layerRate, 10)  ){
-		// shift texture coordinates along direction of P
-		currentTexCoords += deltaTexCoords/(step(5.5, numLayers)*30 + step(numLayers, 5.5));
-		v.vColorTexCoord = currentTexCoords;
-		// get depthmap value at current texture coordinates
-		currentHeightMapValue = GenerateHeight( v );
-		currentLayerHeight += layerHeight;
-		penumbraFactor += step(currentLayerHeight, currentHeightMapValue)*(currentHeightMapValue - currentLayerHeight)/(11-numLayers) * 2;
-		// get depth of next layer
-		numLayers -= layerRate;
-	}
-	
-	return clamp(penumbraFactor, 0.0, 0.65);
-}
-
-float3 Hue(float H)
-{
-    float R = abs(H * 6 - 3) - 1;
-    float G = 2 - abs(H * 6 - 2);
-    float B = 2 - abs(H * 6 - 4);
-    return saturate(float3(R,G,B));
-}
-
-float3 HSVtoRGB(float3 HSV)
-{
-    return ((Hue(HSV.x) - 1) * HSV.y + 1) * HSV.z;
-}
-
-float3 RGBtoHSV(float3 RGB)
-{
-    float3 HSV = 0;
-    
-	HSV.z = max(RGB.r, max(RGB.g, RGB.b));
-    float M = min(RGB.r, min(RGB.g, RGB.b));
-    float C = HSV.z - M;
-
-    if (C != 0)
-    {
-        HSV.y = C / HSV.z;
-        float3 Delta = (HSV.z - RGB) / C;
-        Delta.rgb -= Delta.brg;
-        Delta.rg += float2(2,4);
-        if (RGB.r >= HSV.z)
-            HSV.x = Delta.b;
-        else if (RGB.g >= HSV.z)
-            HSV.x = Delta.r;
-        else
-            HSV.x = Delta.g;
-        HSV.x = frac(HSV.x / 6);
-    }
-    return HSV;
-}
-
 float4 PixelShader_Map2_0_General( VS_MAP_OUTPUT v ) : COLOR
 {
 	
-	//The map is a flat plane with normal in the y direction. This is always the truth. Thus the TBN Matrix is always as follows:
-	//float3x3 WorldMat3 = float3x3(WorldMatrix._11_12_13, WorldMatrix._21_22_23, WorldMatrix._31_32_33);
-	//float3 T = normalize(mul(WorldMat3, float3(1, 0, 0)));
-	//float3 B = normalize(mul(WorldMat3, float3(0, 0, 1)));
-	//float3 N = normalize(mul(WorldMat3, float3(0, 1, 0)));
-	//float3x3 TBN = transpose(float3x3(T, B, N));
-	
-	//float3 TanLightPos = mul(TBN, float3(0.7, 0.7, 0.2));
-	//float3 TanViewPos = mul(TBN, CameraPosition);
-	//float3 TanFragPos = mul(TBN, v.vPosTex);
-	
-	//float3 viewDir = TanViewPos - TanFragPos;
-	//float3 lightDir = TanLightPos - TanFragPos;
-	
-    TILE_STRUCT s;
+	TILE_STRUCT s;
     s.vTexCoord1 = v.vTexCoord1;
     s.vColorTexCoord = v.vColorTexCoord;
     s.vTerrainIndexColor = v.vTerrainIndexColor;
     s.vTexCoord0 = v.vTexCoord0.xy;
 	
-	//s = ParallaxMapping( s, viewDir );
-	//float penumbraFactor = SelfShadow( s, lightDir, viewDir );
-	
-
+	float3 ParchmentColor = float3(0.95, 0.93, 0.85);
+	float3 FOWColor = float3(0.25, 0.25, 0.25);
+    
     float4 TerrainColor = GenerateTiles( s );
-
-    float Grey = dot( TerrainColor.rgb, GREYIFY ); 
- 	TerrainColor.rgb = Grey;
-	TerrainColor *= White;
+	float Grey = dot(TerrainColor.rgb, GREYIFY);  // Universal Grey
 	
 	float2 vProvinceUV = v.vProvinceId + 0.5f;
     vProvinceUV /= PROVINCE_LOOKUP_SIZE;
+	
   
-  	float4 Color1 = tex2D( GeneralTexture, vProvinceUV ) - 0.7;
-	float4 Color2 = tex2D( GeneralTexture2, vProvinceUV ) - 0.7;
-
-	float vColor = tex2D( StripesTexture, v.vTerrainTexCoord ).a;
-	float4 Color = lerp(Color1, Color2, vColor);
+	// Country Effects
+	float4 ReducedBaseColor = tex2D(GeneralTexture, vProvinceUV) - 0.7;
+    float4 ReducedOccupierColor = tex2D(GeneralTexture2, vProvinceUV) - 0.7;
+    float vColor = tex2D(StripesTexture, v.vTerrainTexCoord).a;
+    float4 ProvinceColor = lerp(ReducedBaseColor, ReducedOccupierColor, vColor);
 	
-	Color.rgb = lerp(TerrainColor.rgb, Color.rgb, 0.3);
-	Color.rgb *= COLOR_LIGHTNESS;
-	//Color.rgb *= (1.0 - penumbraFactor/1.6);
+	float4 GreyTerrain = float4(Grey, Grey, Grey, 1.0);
+	GreyTerrain.rgb = lerp(GreyTerrain.rgb, float3( 1.0, 1.0, 1.0 ), 0.6);
+	float4 MetaColor = lerp(GreyTerrain, ProvinceColor, 0.4);
+	MetaColor.rgb *= 1.45;
 	
-	return Color;
+	
+	// Uncolonised Non FOW Effects
+  	float4 BaseColor = tex2D( GeneralTexture, vProvinceUV );
+	float4 OccupierColor = tex2D( GeneralTexture2, vProvinceUV );
+	float tvColor = tex2D( StripesTexture, v.vTerrainTexCoord ).a;
+    float4 tProvinceColor = lerp(BaseColor, OccupierColor, tvColor);
+	
+	float3 UncolonisedRGB = float3(1.0, 1.0, 1.0); // Uncolonised
+	float UncolonisedColorTolerance = 0.02; // Adjust this value to control the strictness of the color match
+	float3 UncolonisedColorDifference = abs(tProvinceColor.rgb - UncolonisedRGB);
+	float UncolonisedColorMatch = step(max(UncolonisedColorDifference.r, max(UncolonisedColorDifference.g, UncolonisedColorDifference.b)), UncolonisedColorTolerance);
+	
+	float4 UncolonisedTerrainColor = TerrainColor;
+	UncolonisedTerrainColor.rgb = lerp(TerrainColor.rgb, ParchmentColor, 0.6);
+	
+	
+	//Uncolonised FOW Effects
+	float3 UncolonisedFOWRGB1 = float3(76.0 / 255.0, 76.0 / 255.0, 76.0 / 255.0); // Uncolonised with FOW
+	float3 UncolonisedFOWRGB2 = float3(254.0 / 255.0, 245.0 / 255.0, 245.0 / 255.0); // Uncolonised with FOW when clicked
+	
+	float UncolonisedFOWColorTolerance = 0.01; // Adjust this value to control the strictness of the color match
+	
+	float3 UncolonisedFOWColorDifference1 = abs(tProvinceColor.rgb - UncolonisedFOWRGB1);
+	float3 UncolonisedFOWColorDifference2 = abs(tProvinceColor.rgb - UncolonisedFOWRGB2);
+	
+	float UncolonisedFOWColorMatch1 = step(max(UncolonisedFOWColorDifference1.r, max(UncolonisedFOWColorDifference1.g, UncolonisedFOWColorDifference1.b)), UncolonisedFOWColorTolerance);
+	float UncolonisedFOWColorMatch2 = step(max(UncolonisedFOWColorDifference2.r, max(UncolonisedFOWColorDifference2.g, UncolonisedFOWColorDifference2.b)), UncolonisedFOWColorTolerance);
+	
+	float UncolonisedFOWColorMatch = max(UncolonisedFOWColorMatch1, UncolonisedFOWColorMatch2);
+	
+	float4 UncolonisedFOWTerrainColor = TerrainColor;
+	UncolonisedFOWTerrainColor.rgb = lerp(TerrainColor.rgb, ParchmentColor, 0.6);
+	UncolonisedFOWTerrainColor.rgb = lerp(TerrainColor.rgb, FOWColor, 0.6);
+   
+	
+	// Tie it together
+	float4 FinalColor = lerp(MetaColor, UncolonisedTerrainColor, UncolonisedColorMatch);
+	FinalColor = lerp(FinalColor, UncolonisedFOWTerrainColor, UncolonisedFOWColorMatch);
+    //float4 FinalColor = lerp(MetaColor, TerrainColor, ColorMatch);
+	
+	//FinalColor.rgb *= COLOR_LIGHTNESS;
+    
+    return FinalColor;
 }
 
-
-float4 PixelShader_Map2_0_General_Low( VS_MAP_OUTPUT v ) : COLOR
+float4 PixelShader_Map2_0_General_Low(VS_MAP_OUTPUT v) : COLOR
 {
-	
-	float4 OverlayColor = tex2D( OverlayTexture, v.vColorTexCoord );
-	
-	float2 vProvinceUV = v.vProvinceId + 0.5f;
+    TILE_STRUCT s;
+    s.vTexCoord1 = v.vTexCoord1;
+    s.vColorTexCoord = v.vColorTexCoord;
+    s.vTerrainIndexColor = v.vTerrainIndexColor;
+    s.vTexCoord0 = v.vTexCoord0.xy;
+    
+    float4 TerrainColor = GenerateTiles(s);
+    
+    float2 vProvinceUV = v.vProvinceId + 0.5f;
     vProvinceUV /= PROVINCE_LOOKUP_SIZE;
+	
+	//float3 spaceColor = float3(Grey, Grey, Grey); // 0.95, 0.93, 0.85
   
-  	float4 Color1 = tex2D( GeneralTexture, vProvinceUV ) - 0.7;
-	float4 Color2 = tex2D( GeneralTexture2, vProvinceUV ) - 0.7;
+    float4 Color1 = tex2D(GeneralTexture, vProvinceUV) - 0.7;
+    float4 Color2 = tex2D(GeneralTexture2, vProvinceUV) - 0.7;
+    float vColor = tex2D(StripesTexture, v.vTerrainTexCoord).a;
+    float4 ProvinceColor = lerp(Color1, Color2, vColor);
 
-	float vColor = tex2D( StripesTexture, v.vTerrainTexCoord ).a;
-	float4 Color = Color2 * vColor + Color1 * ( 1.0 - vColor );
-	float4 ColorColor = tex2D( ColorTexture, v.vTexCoord1 ); //Coordinates for colormap
+    // Define the target RGB color
+    float3 TargetRGB = float3(254.0 / 255.0, 254.0 / 255.0, 254.0 / 255.0); // Example: medium grey. Adjust as needed.
+    
+    // Define the tolerance for color matching
+    float ColorTolerance = 0.75; // Adjust this value to control the strictness of the color match
+    
+    // Calculate the difference between the province color and the target RGB
+    float3 ColorDifference = abs(ProvinceColor.rgb - TargetRGB);
+    
+    // Check if the color difference is within the tolerance for all channels
+    float ColorMatch = step(max(ColorDifference.r, max(ColorDifference.g, ColorDifference.b)), ColorTolerance);
 	
+	float3 parchmentColor = float3(0.95, 0.93, 0.85);
 	
-	Color.rgb = lerp(Color.rgb, ColorColor.rgb, 0.3);
-	//Color.rgb *= float3( 1.0, 0.95, 0.90 );
-	//Color.rgb *= COLOR_LIGHTNESS;
-	float3 ColorHSV = RGBtoHSV(Color.rgb);
-	ColorHSV.y *= max(0.85, ColorHSV.z);
-	ColorHSV.z *= 1.6;
-	Color.rgb = HSVtoRGB(ColorHSV);
-	Color.rgb = lerp(Color.rgb, OverlayColor.rgb, 0.5);
-	Color.rgb *= 1.17;
-	//Color.r *= 1.10;
-	//Color.g *= 1.05;
-	Color.rgb = lerp(Color.rgb, float3(0.83, 0.78, 0.44), 0.1);
-	Color.rgb = lerp(Color.rgb, Color.rrr, 0.15);
-	Color.g = lerp(Color.g, Color.r, 0.075);
-	Color.b = lerp(Color.b, 1.0 - Color.r, 0.1);
-	Color.r *= 1.03;
+    // Province Effects
+	float Grey = dot(TerrainColor.rgb, GREYIFY);
+	float4 GreyTerrain = lerp(float4(Grey, Grey, Grey, 1.0), TerrainColor, ColorMatch);
+	GreyTerrain.rgb = lerp(GreyTerrain.rgb, float3( 1.0, 1.0, 1.0 ), 0.85);
+	float4 MetaColor = lerp(GreyTerrain, ProvinceColor, 0.4);
+	MetaColor.rgb *= 1.4;	// Color Lightness
+	TerrainColor.rgb = lerp(TerrainColor.rgb, parchmentColor, 0.3);
+    float4 FinalColor = lerp(MetaColor, TerrainColor, ColorMatch);
 	
-
-	return Color;
-	
+    return FinalColor;
+    
 }
-
 
 float4 PixelShader_Map2_0( VS_MAP_OUTPUT v ) : COLOR
 {
-
-	//The map is a flat plane with normal in the y direction. This is always the truth. Thus the TBN Matrix is always as follows:
-	//float3x3 WorldMat3 = float3x3(WorldMatrix._11_12_13, WorldMatrix._21_22_23, WorldMatrix._31_32_33);
-	//float3 T = normalize(mul(WorldMat3, float3(1, 0, 0)));
-	//float3 B = normalize(mul(WorldMat3, float3(0, 0, 1)));
-	//float3 N = normalize(mul(WorldMat3, float3(0, 1, 0)));
-	//float3x3 TBN = transpose(float3x3(T, B, N));
-	
-	//float3 TanLightPos = mul(TBN, float3(0.7, 0.7, 0.2));
-	//float3 TanViewPos = mul(TBN, CameraPosition);
-	//float3 TanFragPos = mul(TBN, v.vPosTex);
-	
-	//float3 viewDir = TanViewPos - TanFragPos;
-	//float3 lightDir = TanLightPos - TanFragPos;
 	
     TILE_STRUCT s;
     s.vTexCoord1 = v.vTexCoord1;
@@ -895,27 +714,25 @@ float4 PixelShader_Map2_0( VS_MAP_OUTPUT v ) : COLOR
     s.vTerrainIndexColor = v.vTerrainIndexColor;
     s.vTexCoord0 = v.vTexCoord0.xy;
 	
-	//s = ParallaxMapping( s, viewDir );
-	//float penumbraFactor = SelfShadow( s, lightDir, viewDir );
-
-    float4 OutColor = GenerateTiles( s );
-	OutColor.rgb *= LIGHTNESS;
-	
 	float2 vProvinceUV = v.vProvinceId + 0.5f;
     vProvinceUV /= PROVINCE_LOOKUP_SIZE;
+
+    float4 TestOutColor = GenerateTiles( s);
+	TestOutColor.rgb *= LIGHTNESS;
+	float4 OutColor = GenerateTiles( s);
+	OutColor.rgb *= LIGHTNESS;
+	
   
 	float4 FogColor = tex2D( GeneralTexture, vProvinceUV );
 
 	//Winter
-	float Grey = dot( OutColor.rgb, GREYIFY );
+	float Grey = dot( OutColor.rgb, float3( 1.0, 1.0, 1.0 ) );
 	OutColor.rgb = lerp( OutColor.rgb, Grey.rrr, FogColor.b );
 	OutColor.rgb += float3(FogColor.b,FogColor.b,FogColor.b)*0.3;
 	
 	// FOW /////////////////
-	//OutColor.rgb *= lerp(0.4, 1.0, FogColor.r);
-	OutColor.rgb = ApplyFOWColor( OutColor.rgb, FogColor.r);
+	OutColor.rgb *= lerp(0.75, 1.0, FogColor.r);
 	OutColor.rgb += FogColor.g;
-	//OutColor.rgb *= (1.0 - penumbraFactor/1.5);
 	///////////////////
 	
 	return OutColor;
@@ -985,32 +802,72 @@ float4 PixelShader_Beach_General( VS_OUTPUT_BEACH v ) : COLOR
 	s.vColorTexCoord = v.vBorderTexCoord0;
 	s.vTerrainIndexColor = v.vTerrainIndexColor;
 	s.vTexCoord0 = v.vTexCoordBase;
-
-	float4 y1 = GenerateTiles( s );
 	
-	/////////////////
-	
-	float Grey = dot( y1.rgb, GREYIFY ); 
- 	y1.rgb = Grey * White;
-
 	float2 borderoffset = v.vBorderOffsetColor.rg + float2(-0.001/256,0);
-	float4 Color1 = tex2D( GeneralTexture, borderoffset );
-	float4 Color2 = tex2D( GeneralTexture2, borderoffset );
+	
+	float3 ParchmentColor = float3(0.95, 0.93, 0.85);
+	float3 FOWColor = float3(0.25, 0.25, 0.25);
 
-	float vColor = tex2D( StripesTexture, v.vTerrainIndexColor ).a;
-	float4 Color = lerp( Color1, Color2, vColor ) - 0.7;
+	float4 TerrainColor = GenerateTiles( s );
+	float Grey = dot(TerrainColor.rgb, GREYIFY);  // Universal Grey
 
-	Color.rgb = lerp(y1.rgb, Color.rgb, 0.3);
-	Color.rgb *= COLOR_LIGHTNESS;
-	Color.a = 1;
-
-	return Color;
+	// Country Effects
+	float4 ReducedBaseColor = tex2D(GeneralTexture, borderoffset);
+    float4 ReducedOccupierColor = tex2D(GeneralTexture2, borderoffset);
+    float vColor = tex2D(StripesTexture, v.vTerrainIndexColor).a;
+    float4 ProvinceColor = lerp(ReducedBaseColor, ReducedOccupierColor, vColor) - 0.7;
+	
+		// Uncolonised Non FOW Effects
+  	float4 BaseColor = tex2D( GeneralTexture, borderoffset );
+	float4 OccupierColor = tex2D( GeneralTexture2, borderoffset );
+	float tvColor = tex2D( StripesTexture, v.vTerrainIndexColor ).a;
+    float4 tProvinceColor = lerp(BaseColor, OccupierColor, tvColor);
+	
+	float4 GreyTerrain = float4(Grey, Grey, Grey, 1.0);
+	GreyTerrain.rgb = lerp(GreyTerrain.rgb, float3( 1.0, 1.0, 1.0 ), 0.6);
+	float4 MetaColor = lerp(GreyTerrain, ProvinceColor, 0.4);
+	MetaColor.rgb *= 1.45;
+	
+	
+	float3 UncolonisedRGB = float3(1.0, 1.0, 1.0); // Uncolonised
+	float UncolonisedColorTolerance = 0.02; // Adjust this value to control the strictness of the color match
+	float3 UncolonisedColorDifference = abs(tProvinceColor.rgb - UncolonisedRGB);
+	float UncolonisedColorMatch = step(max(UncolonisedColorDifference.r, max(UncolonisedColorDifference.g, UncolonisedColorDifference.b)), UncolonisedColorTolerance);
+	
+	//Uncolonised Effects
+	float4 UncolonisedTerrainColor = TerrainColor;
+	UncolonisedTerrainColor.rgb = lerp(TerrainColor.rgb, ParchmentColor, 0.6);
+	
+	
+	//Uncolonised FOW Effects
+	float3 UncolonisedFOWRGB1 = float3(76.0 / 255.0, 76.0 / 255.0, 76.0 / 255.0); // Uncolonised with FOW
+	float3 UncolonisedFOWRGB2 = float3(254.0 / 255.0, 245.0 / 255.0, 245.0 / 255.0); // Uncolonised with FOW when clicked
+	
+	float UncolonisedFOWColorTolerance = 0.01; // Adjust this value to control the strictness of the color match
+	
+	float3 UncolonisedFOWColorDifference1 = abs(tProvinceColor.rgb - UncolonisedFOWRGB1);
+	float3 UncolonisedFOWColorDifference2 = abs(tProvinceColor.rgb - UncolonisedFOWRGB2);
+	
+	float UncolonisedFOWColorMatch1 = step(max(UncolonisedFOWColorDifference1.r, max(UncolonisedFOWColorDifference1.g, UncolonisedFOWColorDifference1.b)), UncolonisedFOWColorTolerance);
+	float UncolonisedFOWColorMatch2 = step(max(UncolonisedFOWColorDifference2.r, max(UncolonisedFOWColorDifference2.g, UncolonisedFOWColorDifference2.b)), UncolonisedFOWColorTolerance);
+	float UncolonisedFOWColorMatch = max(UncolonisedFOWColorMatch1, UncolonisedFOWColorMatch2);
+	
+	float4 UncolonisedFOWTerrainColor = TerrainColor;
+	UncolonisedFOWTerrainColor.rgb = lerp(TerrainColor.rgb, ParchmentColor, 0.6);
+	UncolonisedFOWTerrainColor.rgb = lerp(TerrainColor.rgb, FOWColor, 0.6);
+   
+	
+	// Tie it together
+	float4 FinalColor = lerp(MetaColor, UncolonisedTerrainColor, UncolonisedColorMatch);
+	FinalColor = lerp(FinalColor, UncolonisedFOWTerrainColor, UncolonisedFOWColorMatch);
+	FinalColor.a = 1;
+	
+	return FinalColor;
 }
-
 
 float4 PixelShader_Beach_General_Low( VS_OUTPUT_BEACH v ) : COLOR
 {
-	float4 Color = tex2D( GeneralTexture, v.vProvinceIndexCoord ) - 0.7;
+	float4 Color = tex2D( GeneralTexture, v.vProvinceIndexCoord ); //  - 0.7
 	
 	float4 OutColor;
 	OutColor.rgb = Color.rgb;
@@ -1021,7 +878,7 @@ float4 PixelShader_Beach_General_Low( VS_OUTPUT_BEACH v ) : COLOR
 	//float4 OutColor = float4( COLOR_VALUE,COLOR_VALUE,COLOR_VALUE,1);
 	OutColor.rgb = lerp(ColorColor.rgb, float3(OutColor.r,OutColor.g,OutColor.b), 0.3);
 	
-	OutColor.rgb *= COLOR_LIGHTNESS;
+	// OutColor.rgb *= COLOR_LIGHTNESS;
 
 	//float vAlpha = 1;
 	//if ( v.vLightIntensity.z < 0.3f )
@@ -1144,6 +1001,7 @@ float4 PixelShader_Map2_0_Border( VS_BORDER_OUTPUT v ) : COLOR
 	return OutColor;
 }
 
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -1210,7 +1068,6 @@ float4 PixelShader_Beach( VS_OUTPUT_BEACH v ) : COLOR
 	OutColor.rgb += float3(FogColor.b,FogColor.b,FogColor.b)*0.3;
 	
 	OutColor.rgb *= LIGHTNESS;
-	OutColor.a = 1;
     
 	return OutColor;
 }
@@ -1230,7 +1087,7 @@ VS_OUTPUT_PTI VertexShader_PTI(const VS_INPUT_PTI v )
 
 float4 PixelShader_PTI( VS_OUTPUT_PTI v ) : COLOR
 {
-	return float4( 1, 1, 1, 1 );
+	return float4( 0.1, 0.5, 1, 1 );
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1258,7 +1115,7 @@ float4 PixelShader_TREE( VS_OUTPUT_TREE v ) : COLOR
 //	float vFOW = ( tex2D( TerraIncognitaTextureTree, v.vTexCoordTI ).g - 0.25 )*1.33;
 //	if ( vFOW < 0 )
 	//	OutColor.rgb += vFOW;
-	OutColor.a *= vAlpha;
+	//OutColor.a *= vAlpha;
 	
 	//float Grey = dot( OutColor.rgb, GREYIFY );
 	//float winter = 1.2;
@@ -1307,8 +1164,8 @@ technique TerrainShader_Border
 		SrcBlend = SRCALPHA;
 		DestBlend = INVSRCALPHA;
 		
-		VertexShader = compile vs_1_1 VertexShader_Map_Border();
-		PixelShader = compile ps_2_0 PixelShader_Map2_0_Border();
+		VertexShader = compile vs_3_0 VertexShader_Map_Border();
+		PixelShader = compile ps_3_0 PixelShader_Map2_0_Border();
 	}
 }
 
@@ -1323,8 +1180,8 @@ technique BeachShader_Graphical
 		SrcBlend = SRCALPHA;
 		DestBlend = INVSRCALPHA;
 			
-		VertexShader = compile vs_1_1 VertexShader_Beach();
-		PixelShader = compile ps_2_0 PixelShader_Beach();
+		VertexShader = compile vs_3_0 VertexShader_Beach();
+		PixelShader = compile ps_3_0 PixelShader_Beach();
 	}
 }
 
@@ -1339,8 +1196,8 @@ technique BeachShader_General
 		//SrcBlend = SRCALPHA;
 		//§DestBlend = INVSRCALPHA;
 				
-		VertexShader = compile vs_1_1 VertexShader_Beach_General();
-		PixelShader = compile ps_2_0 PixelShader_Beach_General();
+		VertexShader = compile vs_3_0 VertexShader_Beach_General();
+		PixelShader = compile ps_3_0 PixelShader_Beach_General();
 	}
 }
 
@@ -1348,8 +1205,8 @@ technique BeachShader_General_Low
 {
 	pass p0
 	{
-		VertexShader = compile vs_1_1 VertexShader_Beach_General();
-		PixelShader = compile ps_2_0 PixelShader_Beach_General_Low();
+		VertexShader = compile vs_3_0 VertexShader_Beach_General();
+		PixelShader = compile ps_3_0 PixelShader_Beach_General_Low();
 	}
 }
 
@@ -1371,8 +1228,8 @@ technique PTIShader
 		ColorOp[1] = Disable;
 		AlphaOp[1] = Disable;
 
-		VertexShader = compile vs_1_1 VertexShader_PTI();
-		PixelShader = compile ps_2_0 PixelShader_PTI();
+		VertexShader = compile vs_3_0 VertexShader_PTI();
+		PixelShader = compile ps_3_0 PixelShader_PTI();
 	}
 }
 
@@ -1383,7 +1240,7 @@ technique TreeShader
 		ALPHABLENDENABLE = True;
 		ALPHATESTENABLE = True;
 
-		VertexShader = compile vs_1_1 VertexShader_TREE();
-		PixelShader = compile ps_2_0 PixelShader_TREE();
+		VertexShader = compile vs_3_0 VertexShader_TREE();
+		PixelShader = compile ps_3_0 PixelShader_TREE();
 	}
 }
