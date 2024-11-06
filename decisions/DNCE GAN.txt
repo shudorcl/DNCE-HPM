@@ -1,0 +1,25 @@
+political_decisions = {
+    GAN_Nusandara = {
+        # picture = GAN_Nusandara
+    
+        potential = { 
+            tag = GAN
+            is_greater_power = yes
+        }
+    
+        allow = {
+            revolution_n_counterrevolution = 1
+        }
+    
+        effect = {
+            NUS = {
+                all_core = { add_core = THIS }
+            }
+            add_accepted_culture = min
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

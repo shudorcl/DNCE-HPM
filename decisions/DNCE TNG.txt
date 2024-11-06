@@ -1,0 +1,104 @@
+political_decisions = {
+    TNG_annex_SIA = {
+        # picture = TNG_annex_SIA
+    
+        potential = { 
+            tag = TNG
+        }
+    
+        allow = {
+            is_our_vassal = SIA
+            nationalism_n_imperialism = 1
+        }
+    
+        effect = {
+            inherit = SIA
+            add_accepted_culture = thai
+            SIA = {
+                all_core = { add_core = THIS }
+            }
+            CHP = {
+                all_core = { add_core = THIS }
+            }
+            LUA = {
+                all_core = { add_core = THIS }
+            }
+            CAM = {
+                all_core = { add_core = THIS }
+            }
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    TNG_annex_SEA = {
+        # picture = TNG_annex_SEA
+    
+        potential = { 
+            tag = TNG
+        }
+    
+        allow = {
+            nationalism_n_imperialism = 1
+            is_our_vassal = PLM
+            is_our_vassal = JAV
+            is_our_vassal = MKS
+            is_our_vassal = BAL
+        }
+    
+        effect = {
+            inherit = PLM
+            inherit = JAV
+            inherit = MKS
+            inherit = BAL
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    TNG_annex_LFG = {
+        # picture = TNG_annex_LFG
+    
+        potential = { 
+            tag = TNG
+        }
+    
+        allow = {
+            state_n_government = 1
+            is_our_vassal = LFG
+        }
+    
+        effect = {
+            inherit = LFG
+            LFG = {
+                all_core = { add_core = THIS }
+            }
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    TNG_annex_BEN = {
+        # picture = TNG_annex_LFG
+    
+        potential = { 
+            tag = TNG
+            is_our_vassal = BEN
+        }
+    
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+    
+        effect = {
+            inherit = BEN
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

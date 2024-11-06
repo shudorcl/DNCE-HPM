@@ -11,7 +11,13 @@ political_decisions = {
         allow = {
             NOT = { war = yes }
             NOT = { part_of_sphere = yes }
-            is_greater_power = yes
+            OR = {
+                is_greater_power = yes
+                AND = {
+                    year = 1870
+                    is_secondary_power = yes
+                }
+            }
             OR = {
                 AND = {
                     tag = MUS
