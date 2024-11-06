@@ -2781,20 +2781,20 @@ austronesian = {
 southeast_asian = {
     leader = asian
     unit = AsianGC
-    vietnamese = {
-        color = {
-            23 99 12
-        }
-        first_names = {
-            "Nguyen Phuoc" "Ton That" "Noang Cao" "Bui An" Nguyen Truong Tran
-        }
+    # vietnamese = {
+    #     color = {
+    #         23 99 12
+    #     }
+    #     first_names = {
+    #         "Nguyen Phuoc" "Ton That" "Noang Cao" "Bui An" Nguyen Truong Tran
+    #     }
 
-        last_names = {
-            "vinh Thuy" Han Tuan "Vinh San" Cuong Khai Nien Than Quang "Trong Hiep"
-            "Mien Lam" "Mien Trinh" "Buu Lan"
-        }
-        radicalism = 5
-    }
+    #     last_names = {
+    #         "vinh Thuy" Han Tuan "Vinh San" Cuong Khai Nien Than Quang "Trong Hiep"
+    #         "Mien Lam" "Mien Trinh" "Buu Lan"
+    #     }
+    #     radicalism = 5
+    # }
     dayak = {
         color = {
             0 35 65
@@ -3110,6 +3110,20 @@ chinese = {
             Zhao Wu Sun Ma Hu Peng Dong Ye L� Tian
             Jiang Wei Ting Shen Fang Jin Qiu
         }
+    }
+    vietnamese = {
+        color = {
+            23 99 12
+        }
+        first_names = {
+            "Nguyen Phuoc" "Ton That" "Noang Cao" "Bui An" Nguyen Truong Tran
+        }
+
+        last_names = {
+            "vinh Thuy" Han Tuan "Vinh San" Cuong Khai Nien Than Quang "Trong Hiep"
+            "Mien Lam" "Mien Trinh" "Buu Lan"
+        }
+        radicalism = 5
     }
     union = CHI
 }
