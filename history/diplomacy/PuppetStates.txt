@@ -156,6 +156,13 @@ vassal = {
 	end_date = 1937.1.1
 }
 
+vassal = {
+	first = TNG
+	second = BEN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 ### Ming Empire
 substate = {
     first = MIG
@@ -334,6 +341,12 @@ substate = {
 substate = {
     first = MIG
     second = XBI
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+substate = {
+    first = MIG
+    second = DAI
     start_date = 1836.1.1
     end_date = 1937.1.1
 }
