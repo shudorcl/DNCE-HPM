@@ -4,3 +4,4 @@ life_rating = 32
 owner = CLO
 controller = CLO
 add_core = CLO
+add_core = MCK

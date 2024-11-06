@@ -1,8 +1,6 @@
 owner = CQN
 controller = CQN
 add_core = CHI
-add_core = DAX
-add_core = DAI
 trade_goods = tea
 life_rating = 32
 add_core = CQN

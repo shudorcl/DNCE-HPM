@@ -2,5 +2,5 @@ add_core = TAI
 add_core = CHI
 trade_goods = tea
 life_rating = 35
-owner = TNG
-controller = TNG
+owner = TAI
+controller = TAI

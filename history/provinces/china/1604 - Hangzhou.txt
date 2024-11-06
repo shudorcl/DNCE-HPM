@@ -1,6 +1,5 @@
 owner = CYU
 controller = CYU
-add_core = TNG
 add_core = MIG
 add_core = CHI
 trade_goods = silk

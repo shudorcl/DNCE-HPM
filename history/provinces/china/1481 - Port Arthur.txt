@@ -5,3 +5,4 @@ naval_base = 1
 owner = CLO
 controller = CLO
 add_core = CLO
+add_core = MCK

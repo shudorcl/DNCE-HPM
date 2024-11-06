@@ -1,6 +1,5 @@
 owner = CBI
 controller = CBI
-add_core = DAX
 add_core = CHI
 trade_goods = grain
 life_rating = 32

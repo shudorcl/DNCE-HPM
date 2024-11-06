@@ -1,5 +1,5 @@
-owner = TNG
-controller = TNG
+owner = CGU
+controller = CGU
 add_core = CHI
 add_core = CGU
 trade_goods = silk

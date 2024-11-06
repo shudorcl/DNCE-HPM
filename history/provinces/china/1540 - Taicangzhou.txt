@@ -1,6 +1,5 @@
 owner = CWU
 controller = CWU
-add_core = TNG
 add_core = MIG
 add_core = CHI
 trade_goods = fish

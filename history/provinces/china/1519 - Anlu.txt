@@ -1,6 +1,5 @@
 owner = CTN
 controller = CTN
-add_core = DAX
 add_core = CHI
 trade_goods = tea
 life_rating = 32

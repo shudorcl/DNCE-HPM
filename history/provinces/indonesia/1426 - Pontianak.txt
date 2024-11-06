@@ -4,3 +4,23 @@ add_core = LFG
 add_core = NUS
 trade_goods = grain
 life_rating = 32
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}

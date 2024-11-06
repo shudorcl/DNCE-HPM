@@ -1,7 +1,6 @@
 owner = CSU
 controller = CSU
 add_core = MIG
-add_core = TNG
 add_core = CHI
 trade_goods = tea
 life_rating = 32
