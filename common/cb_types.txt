@@ -3613,6 +3613,9 @@ china_acquire_state_2 = {
                 tag = MCK
                 tag = MGL
                 tag = CHG
+                tag = KOR
+                tag = TIB
+                tag = UYG
             }
             number_of_states = 2
             NOT = {
@@ -7317,7 +7320,11 @@ annex_india_AI = {
         number_of_states = 2
         THIS = {
             #ai = yes
-            capital_scope = { continent = europe }
+            OR = {
+                capital_scope = { continent = europe }
+                is_culture_group = oversea_chinese
+                is_culture_group = chinese
+            }
             OR = {
                 is_greater_power = yes
                 is_secondary_power = yes
@@ -7441,7 +7448,11 @@ annex_india_full_AI = {
         NOT = { is_our_vassal = THIS }
         NOT = { number_of_states = 2 }
         THIS = {
-            capital_scope = { continent = europe }
+            OR = {
+                capital_scope = { continent = europe }
+                is_culture_group = oversea_chinese
+                is_culture_group = chinese
+            }
             OR = {
                 is_greater_power = yes
                 is_secondary_power = yes
