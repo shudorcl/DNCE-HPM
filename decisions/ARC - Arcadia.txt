@@ -904,4 +904,37 @@ afro_latin_citizenship = {
             set_country_flag = manifest_destiny_arc
         }
     }
+    ARC_inherit_DNG = {
+        picture = Qingqiu2
+    
+        potential = { 
+			tag = ARC
+			NOT = { has_country_flag = ARC_inherit_DNG }
+            DNG = { 
+                owns = 84  
+            }
+        }
+    
+        allow = {
+            THIS = {
+					is_greater_power = yes
+					all_core = {
+							owned_by = THIS
+					}
+				}
+            DNG = { 
+                owns = 84  
+            }
+        }
+    
+        effect = {
+            badboy = 5
+			set_country_flag = ARC_inherit_DNG
+			DNG = {country_event = 333561}
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
 }
