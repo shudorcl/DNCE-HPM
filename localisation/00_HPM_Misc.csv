@@ -252,7 +252,7 @@ NOT_IN_POLITICAL_MOVEMENT;没有正在发生的政治改革运动\n;;;;;;;;;;;;x
 NEUTRALITY_EFFECT;目标国家将中立化，解除所有联盟关系，释放所有卫星国家恢复独立。;;;;;;;;;;;;x
 INFLUENCE_CHANGE;$ACTIVE$对$PASSIVE$的影响力改变$MUCH$\n;;;;;;;;;;;;x
 THE_CAPITAL_IS_NOT;首都并非;;;;;;;;;;;;x
-ENDGAME_DESC;关键的一百年已经过去，我们进入了现代社会。转眼间世界已与过往大不相同，你的国家将如何面对新的时代呢？;;;;;;;;;;;;x
+ENDGAME_DESC;关键的一百年已经过去，我们进入了现代社会。转眼间世界已与过往大不相同，你的国家将如何面对\n新的时代呢？;;;;;;;;;;;;x
 DIPLOMACY_FILTER_NORTH_AMERICA;北美;;;;;;;;;;;;x
 DIPLOMACY_FILTER_OCEANIA;近东;;;;;;;;;;;;x
 DIPLOMACY_FILTER_OCEANIA_TOOLTIP;列出近东国家;;;;;;;;;;;;x
