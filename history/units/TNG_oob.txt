@@ -23,151 +23,1142 @@ leader = {
 }
 
 army = {
-	name = "Army of the Phoenix Emperor"
-	location = 1610 
-  
+	name = "±¦µºÄÏ¾ü"
+	location = 1455
 	regiment = {
-		name= "1st Modern infantry"
+		name= "1.Dong Ning Royal regular"
 		type = infantry
-		home = 2562
+		home = 1455
 	}
-
 	regiment = {
-		name= "2nd Modern infantry"
+		name= "2.Dong Ning Royal regular"
 		type = infantry
-		home = 2562
+		home = 1455
 	}
-
 	regiment = {
-		name= "3rd Modern infantry"
+		name= "3.Dong Ning Royal regular"
 		type = infantry
-		home = 1487
+		home = 1455
 	}
-	
-	regiment = {
-		name= "4th Modern infantry"
-		type = infantry
-		home = 1487
-	}
-	
-	regiment = {
-		name= "1st Artillery"
-		type = artillery
-		home = 1611
-	}
-	
-	regiment = {
-		name= "1. Hussar"
+		regiment = {
+		name= "4.Dong Ning Royal regular"
 		type = hussar
-		home = 1611
+		home = 1455
 	}
-	
 	regiment = {
-		name= "1. Brigade"
-		type = infantry
-		home = 1494
-	}
-
-	regiment = {
-		name= "2. Brigade"
-		type = infantry
-		home = 1494
-	}
-
-	regiment = {
-		name= "3. Brigade"
-		type = infantry
-		home = 1494
-	}
-
-	regiment = {
-		name= "4. Brigade"
-		type = infantry
-		home = 1497
-	}
-
-	regiment = {
-		name= "2nd Artillery"
-		type = artillery
-		home = 1497
-	}
-	
-	regiment = {
-		name= "2nd hussar"
+		name= "5.Dong Ning Royal regular"
 		type = hussar
-		home = 1482
+		home = 1455
+	}
+}
+army = {
+	name = "±¦µº±±¾ü"
+	location = 1485
+	regiment = {
+		name= "1.1Dong Ning Royal regular"
+		type = infantry
+		home = 1485
+	}
+	regiment = {
+		name= "2.1Dong Ning Royal regular"
+		type = infantry
+		home = 1485
+	}
+	regiment = {
+		name= "3.1Dong Ning Royal regular"
+		type = infantry
+		home = 1485
+	}
+		regiment = {
+		name= "4.1Dong Ning Royal regular"
+		type = hussar
+		home = 1485
+	}
+	regiment = {
+		name= "5.1Dong Ning Royal regular"
+		type = hussar
+		home = 1485
 	}
 }
 
+army = {
+	name = "ÃÏ¼ÓÀ­¾ü"
+	location = 1251
+	regiment = {
+		name= "1.Royal Horse"
+		type = hussar
+		home = 1251
+	}
+
+	regiment = {
+		name= "2.Royal Horse"
+		type = hussar
+		home = 1251
+	}
+
+	regiment = {
+		name= "3.Royal Horse"
+		type = hussar
+		home = 1251
+	}
+
+	regiment = {
+		name= "1.Sultan's Men"
+		type = regular
+		home = 1251
+	}
+
+	regiment = {
+		name= "2.Sultan's Men"
+		type = regular
+		home = 1251
+	}
+
+	regiment = {
+		name= "3.Sultan's Men"
+		type = regular
+		home = 1251
+	}
+	
+	regiment = {
+		name= "1.Bengali infantry"
+		type = regular
+		home = 1251
+	}
+
+	regiment = {
+		name= "2.Bengali infantry"
+		type = regular
+		home = 1251
+	}
+
+	regiment = {
+		name= "3.Bengali infantry"
+		type = regular
+		home = 1251
+	}
+
+	regiment = {
+		name= "1.Royal Artillery"
+		type = artillery
+		home = 1251
+	}
+}
+
+army = {
+	name = "°ÂÀïÈø¾ü"
+	location = 1261
+
+	regiment = {
+		name= "1.Orissa Contingent"
+		type = infantry
+		home = 1261
+	}
+
+	regiment = {
+		name= "2.Orissa Contingent"
+		type = infantry
+		home = 1261
+	}
+
+	regiment = {
+		name= "3.Orissa Contingent"
+		type = infantry
+		home = 1261
+	}
+
+	regiment = {
+		name= "4.Orissa Contingent"
+		type = artillery
+		home = 1261
+	}
+
+	regiment = {
+		name= "5.Orissa Contingent"
+		type = artillery
+		home = 1261
+	}
+}
+
+army = {
+	name = "ÎýÀ¼¾ü"
+	location = 1322
+	regiment = {
+		name= "1.11Dong Ning Royal regular"
+		type = infantry
+		home = 1322
+	}
+	regiment = {
+		name= "2.11Dong Ning Royal regular"
+		type = infantry
+		home = 1322
+	}
+	regiment = {
+		name= "3.11Dong Ning Royal regular"
+		type = infantry
+		home = 1322
+	}
+		regiment = {
+		name= "4.11Dong Ning Royal regular"
+		type = hussar
+		home = 1322
+	}
+	regiment = {
+		name= "5.11Dong Ning Royal regular"
+		type = hussar
+		home = 1322
+	}
+}
+army = {
+	name = "ÐÇÖÞ¾ü"
+	location = 1384
+	regiment = {
+		name= "1.Dong Ning Royal regular"
+		type = infantry
+		home = 1384
+	}
+	regiment = {
+		name= "2.Dong Ning Royal regular"
+		type = infantry
+		home = 1384
+	}
+	regiment = {
+		name= "3.Dong Ning Royal regular"
+		type = infantry
+		home = 1384
+	}
+		regiment = {
+		name= "4.Dong Ning Royal regular"
+		type = hussar
+		home = 1384
+	}
+	regiment = {
+		name= "5.Dong Ning Royal regular"
+		type = hussar
+		home = 1384
+	}
+}
 navy = {
-	name = "Fleet of the Phoenix Emperor"
-	location = 1482
-  
-  ship = {
-		name= "Shanghai"
+	name = "ÆÅÂÞ½¢¶Ó"
+	location = 1426
+
+	ship = {
+		name= "Heimdal"
 		type = manowar
-	}           
-  
-  ship = {
-		name= "Beijing"
+	}
+
+	ship = {
+		name= "Valkyrien"
 		type = manowar
 	}
 	
 	ship = {
-		name= "Fei Hung"
-		type = frigate
+		name= "Fé‹Žerneslandet"
+		type = manowar
 	}
 
 	ship = {
-		name= "Hai Yung"
-		type = frigate
-	}
-  
-  ship = {
-		name= "Nanjing"
-		type = frigate
+		name= "Manligheten"
+		type = manowar
 	}
 
 	ship = {
-		name= "Ming"
-		type = frigate
+		name= "Dristigheten"
+		type = manowar
 	}
 
 	ship = {
-		name= "Jiangsu"
-		type = frigate
+		name= "Heimdal"
+		type = manowar
 	}
 
 	ship = {
-		name= "Guangzhou"
-		type = frigate
-	}
-
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "1st Transport"
-		type = clipper_transport
+		name= "Valkyrien"
+		type = manowar
 	}
 	
 	ship = {
-		name= "2nd Transport"
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st Transport Flotilla"
 		type = clipper_transport
 	}
 
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+navy = {
+	name = "±¦µº½¢¶Ó"
+	location = 1485
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+navy = {
+	name = "ÎýÀ¼½¢¶Ó"
+	location = 1322
+
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+navy = {
+	name = "Ó¡¶È½¢¶Ó"
+	location = 1251
+	ship = {
+		name= "Bengal"
+		type = frigate
+	}
+
+	ship = {
+		name= "India"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tiger"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sultanate"
+		type = frigate
+	}	
+	
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+navy = {
+	name = "ÂÀËÎ½¢¶Ó"
+	location = 1455
+
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+navy = {
+	name = "ÐÇÖÞ½¢¶Ó"
+	location = 1384
+
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Heimdal"
+		type = manowar
+	}
+
+	ship = {
+		name= "Valkyrien"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Fé‹Žerneslandet"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dristigheten"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Coventry"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
 }
 
 
@@ -179,11 +1170,6 @@ TAI = {
 MIG = { 
 	value = -150 		#relation
 	truce_until = "1848.1.1"
-}
-
-HYD = { 
-	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
 }
 
 CQO = { 
