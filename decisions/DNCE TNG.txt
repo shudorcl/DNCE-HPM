@@ -1,6 +1,6 @@
 political_decisions = {
     TNG_annex_SIA = {
-        # picture = TNG_annex_SIA
+        picture = Zhengxin
     
         potential = { 
             tag = TNG

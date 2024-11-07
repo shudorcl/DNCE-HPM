@@ -2288,3 +2288,121 @@ country_event = {
     }
   }
 }
+
+country_event = {
+	id = 333560
+	title = "EVTNAME333560"
+	desc = "EVTDESC333560"
+	picture = "Celebration"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA333560"
+		any_country = {
+			limit = {
+				OR = {
+					is_sphere_leader_of = THIS
+					is_our_vassal = THIS
+				}
+				NOT = { tag = DNG }
+			}
+			relation = {
+				who = DNG
+				value = -25
+			}
+			casus_belli = {
+				target = DNG
+				type = humiliate
+				months = 24
+			}
+			casus_belli = {
+				target = DNG
+				type = free_peoples
+				months = 24
+			}
+		}
+		any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_core = DNG
+		}
+		DNG = { inherit = THIS }	
+		ai_chance = {
+			factor = 75
+			modifier = {
+				factor = 0
+				is_greater_power = yes
+				NOT = { has_country_flag = wants_to_unify }
+			}
+			modifier = {
+				factor = 0.1
+				government = fascist_dictatorship
+				DNG = { government = proletarian_dictatorship }
+			}
+			modifier = {
+				factor = 0.1
+				government = proletarian_dictatorship
+				DNG = { government = fascist_dictatorship }
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB333560"
+		clr_country_flag = wants_to_unify
+		prestige = 10
+		leave_alliance = DNG
+		relation = {
+			who = DNG
+			value = -200
+		}
+		DNG = {
+			diplomatic_influence = {
+				who = THIS
+				value = -200
+			}
+			badboy = 5
+		}
+		any_pop = {
+			limit = { is_primary_culture = yes }
+			militancy = -5
+			consciousness = -3
+		}
+		DNG = {
+		war = {
+				target = THIS
+				attacker_goal = {
+					casus_belli = conquest
+				}
+
+				defender_goal = {
+					casus_belli = cut_down_to_size
+				}
+		}
+		}
+		ai_chance = {
+			factor = 25
+			modifier = {
+				factor = 1000
+				is_greater_power = yes
+				}
+			modifier = {
+				factor = 2
+				is_secondary_power = yes
+				} 
+			modifier = {
+				factor = 0.5
+				OR = {
+					alliance_with = DNG
+					relation = { who = DNG value = 100 }
+				}
+			}
+			modifier = {
+				factor = 0.1
+				in_sphere = DNG
+			}
+			}
+		}
+}

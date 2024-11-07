@@ -1,10 +1,11 @@
 political_decisions = {
     GAN_Nusandara = {
-        # picture = GAN_Nusandara
+        picture = Zhourao2
     
         potential = { 
             tag = GAN
             is_greater_power = yes
+            NOT = { has_country_flag = GAN_Nusandara}
         }
     
         allow = {
@@ -16,6 +17,7 @@ political_decisions = {
                 all_core = { add_core = THIS }
             }
             add_accepted_culture = min
+            set_country_flag = GAN_Nusandara
         }
     
         ai_will_do = {

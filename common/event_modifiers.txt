@@ -3112,3 +3112,11 @@ colombian_clergy_privilege = {
     education_efficiency_modifier = -0.1
     icon = 7
 }
+
+yindian = {
+	badboy = 0.1
+	non_accepted_pop_militancy_modifier = 0.1
+	global_assimilation_rate = 0.5
+	global_immigrant_attract = -0.05
+	icon = 1
+}
