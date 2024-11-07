@@ -1,11 +1,11 @@
 # DNCE HPM
 
-A fan fork version of [Divergences-HPM](https://github.com/Capitanloco6/Divergences-HPM) mixed content from [·ÖÆçÐÂ´ºÇï](https://tieba.baidu.com/p/5899342996).
+A fan fork version of [Divergences-HPM](https://github.com/Capitanloco6/Divergences-HPM) mixed content from [åˆ†æ­§æ–°æ˜¥ç§‹](https://tieba.baidu.com/p/5899342996).
 
 ## Credit
 
 [Divergences-HPM](https://github.com/Capitanloco6/Divergences-HPM)
 
-[·ÖÆçÐÂ´ºÇï](https://tieba.baidu.com/p/5899342996)
+[åˆ†æ­§æ–°æ˜¥ç§‹](https://tieba.baidu.com/p/5899342996)
 
 Bob Cartography from Bob Bobington
