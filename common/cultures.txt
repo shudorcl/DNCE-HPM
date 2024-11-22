@@ -2388,6 +2388,18 @@ central_asian = {
             Beg Khan
         }
     }
+    manchu = {
+        color = {
+            245 255 160
+        }
+        first_names = {
+            Ma Deng Zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu
+            Nalan Fu Hesehn Changlin
+        }
+        last_names = {
+            Zhanshan Tiemei Shangzhi Linge Xiangying Xingde Kang'an
+        }
+    }
 }
 
 dravidian = {
@@ -2992,18 +3004,6 @@ east_asian = {
 chinese = {
     leader = asian
     unit = ChineseGC
-    manchu = {
-        color = {
-            245 255 160
-        }
-        first_names = {
-            Ma Deng Zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu
-            Nalan Fu Hesehn Changlin
-        }
-        last_names = {
-            Zhanshan Tiemei Shangzhi Linge Xiangying Xingde Kang'an
-        }
-    }
     beifaren = {
         color = {
             145 30 30
@@ -3149,7 +3149,7 @@ oversea_chinese = {
 
     qingqiuan = {
         color = {
-            181 106 106
+            211 196 107
         }
         first_names = {
             Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia
