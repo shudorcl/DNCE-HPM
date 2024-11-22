@@ -40,7 +40,6 @@ political_decisions = {
   		effect = {
   			prestige = 30
   			add_accepted_culture = beifaren
-			add_accepted_culture = beifaren
 			add_accepted_culture = hui			
   			change_tag = CHI
 			any_country = {
@@ -101,8 +100,7 @@ political_decisions = {
   		}
   		effect = {
   			prestige = 30
-  			add_accepted_culture = beifaren
-			add_accepted_culture = beifaren	
+  			add_accepted_culture = beifaren	
   			change_tag = CHI  
   			any_country = {
   				limit = {
@@ -164,8 +162,7 @@ political_decisions = {
 		
   		effect = {
   			prestige = 30
-  			add_accepted_culture = beifaren
-			add_accepted_culture = beifaren	
+  			add_accepted_culture = beifaren	
   			change_tag = CHI 
   			any_country = {
   				limit = {
@@ -228,8 +225,7 @@ political_decisions = {
   		}
   		effect = {
   			prestige = 30
-  			add_accepted_culture = beifaren
-			add_accepted_culture = beifaren	
+  			add_accepted_culture = beifaren	
 			remove_country_modifier = tungning_nerf
   			change_tag = CHI   
 			any_country = {
@@ -280,8 +276,7 @@ political_decisions = {
   		}
   		effect = {
   			prestige = 30
-  			add_accepted_culture = beifaren
-			add_accepted_culture = beifaren	
+  			add_accepted_culture = beifaren	
   			change_tag = CHI 
 			any_country = {
 				limit = {
@@ -339,8 +334,66 @@ political_decisions = {
   		}
   		effect = {
   			prestige = 30
-  			add_accepted_culture = beifaren
-			add_accepted_culture = beifaren	
+  			add_accepted_culture = beifaren	
+  			change_tag = CHI 
+			any_country = {
+				limit = {
+					is_culture_group = chinese
+					
+					in_sphere = THIS
+					
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			capital = 2221
+		}
+  		ai_will_do = {
+  			factor = 1
+  		}
+	}
+	form_china_japan = {  
+      picture = form_china
+  		potential = {
+  			tag = JAP
+  			NOT = {
+				exists = CHI
+  			}
+  		}
+  		
+  		allow = { 
+        civilized = yes
+  			NOT = { war = yes }
+  			CHI = {
+				all_core = {
+					OR = {
+  						owned_by = THIS
+  						owner = {
+  							in_sphere = THIS
+  						}
+						province_id = 1538 #Shanghai
+						province_id = 1566 #Qingdao
+						province_id = 1481 #Dalian
+						province_id = 1485 #Tainan
+						province_id = 1498 #Macao
+						province_id = 1499 #Hainan
+						province_id = 1569 #Weihaiwei
+						province_id = 1606 #Jiaxing
+						province_id = 1608 #Ningbo
+						province_id = 1496 #Xianggang
+						province_id = 2406 #Penghu
+						province_id = 2562 #Taitung
+						province_id = 2632 #Kwangchowan
+						province_id = 2681 #Taipei
+  					}
+				}
+			}
+  		}
+  		effect = {
+  			prestige = 30
+  			add_accepted_culture = beifaren	
   			change_tag = CHI 
 			any_country = {
 				limit = {
