@@ -1,0 +1,37 @@
+political_decisions = {
+lord_of_china = {
+			picture = Dengji
+			potential = {
+				OR = {
+				AND = {
+                    tag = JAP
+                    has_country_flag = chinese_yamato_dynasty
+                }
+				tag = MGL
+                tag = CHG
+				tag = MCK
+				tag = UGH
+				tag = TIB
+				tag = KOR
+			}
+				NOT = { has_country_flag = empire_del_lord_of_china }
+		}
+			allow = {
+				NOT = { war = yes }
+				controls = 1508
+				controls = 1510
+				controls = 1559
+			}
+			effect = {
+				prestige = 20
+				add_accepted_culture = beifaren
+				CHI = {
+                    all_core = { add_core = THIS }
+                }
+			    set_country_flag = empire_del_lord_of_china
+			}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+}
