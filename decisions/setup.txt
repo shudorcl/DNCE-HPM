@@ -158,7 +158,7 @@ political_decisions = {
             }
 
             TUS = { country_event = 36720 }
-			
+			JAP = {set_country_flag = jap_nitto}
             ###################### Uncivs Stuff #######################
             any_country = {
                 limit = {

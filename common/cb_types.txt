@@ -3616,7 +3616,10 @@ china_acquire_state_2 = {
                 tag = KOR
                 tag = TIB
                 tag = UYG
+                AND = {
                 tag = JAP
+                has_country_flag = jap_nitto
+                }
             }
             number_of_states = 2
             NOT = {
