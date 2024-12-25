@@ -1,0 +1,147 @@
+political_decisions = {
+    natural_chinese_borders = {
+        picture = natural_chinese_borders
+    
+        potential = { 
+            OR = {
+                tag = CHI
+                has_country_flag = empire_del_lord_of_china
+            }
+            NOT = {has_country_flag = natural_chinese_borders}
+        }
+    
+        allow = {
+            rank = 8
+        }
+    
+        effect = {
+            set_country_flag = natural_chinese_borders
+            prestige = 30
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    conquer_tibet_CHI = {
+        picture = conquer_tibet_CHI
+    
+        potential = { 
+            has_country_flag = natural_chinese_borders
+            NOT = {has_country_flag = conquer_tibet_CHI}
+        }
+    
+        allow = {
+            rank = 12
+        }
+    
+        effect = {
+            set_country_flag = conquer_tibet_CHI
+            TIB = {
+                all_core = { add_core = THIS }
+            }
+            prestige = 10
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    end_jurchens = {
+        picture = conquer_tibet_CHI
+    
+        potential = { 
+            has_country_flag = natural_chinese_borders
+            NOT = {has_country_flag = end_jurchens}
+        }
+    
+        allow = {
+            rank = 12
+        }
+    
+        effect = {
+            set_country_flag = end_jurchens
+            MCK = {
+                all_core = { add_core = THIS }
+            }
+            prestige = 10
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    conquer_mongolia_CHI = {
+        picture = conquer_tibet_CHI
+    
+        potential = { 
+            has_country_flag = natural_chinese_borders
+        }
+    
+        allow = {
+            rank = 12
+            NOT = {has_country_flag = conquer_mongolia_CHI}
+        }
+    
+        effect = {
+            set_country_flag = conquer_mongolia_CHI
+            MGL = {
+                all_core = { add_core = THIS }
+            }
+            prestige = 10
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    conquer_uyghurs_CHI = {
+        picture = conquer_tibet_CHI
+    
+        potential = { 
+            has_country_flag = natural_chinese_borders
+            NOT = {has_country_flag = conquer_uyghurs_CHI}
+        }
+    
+        allow = {
+            rank = 12
+        }
+    
+        effect = {
+            set_country_flag = conquer_uyghurs_CHI
+            UYG = {
+                all_core = { add_core = THIS }
+            }
+            prestige = 10
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    conquer_dzungar_CHI = {
+        picture = conquer_tibet_CHI
+    
+        potential = { 
+            has_country_flag = natural_chinese_borders
+            NOT = {has_country_flag = conquer_dzungar_CHI}
+        }
+    
+        allow = {
+            rank = 12
+        }
+    
+        effect = {
+            set_country_flag = conquer_dzungar_CHI
+            CHG = {
+                all_core = { add_core = THIS }
+            }
+            prestige = 10
+        }
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}
