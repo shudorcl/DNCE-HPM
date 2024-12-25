@@ -1,0 +1,21 @@
+country_event = {
+    id = 720001
+    title = "EVTNAME720001"
+    desc = "EVTDESC720001"
+    picture = Picture
+    
+    is_triggered_only = yes
+
+    #fire_only_once = yes
+    option = {
+        name = "EVTOPTA720001"
+        set_country_flag = jap_nitto
+        prestige = -5
+    }
+    
+    option = {
+        name = "EVTOPTB720001"
+        prestige = 20
+    }
+    
+}

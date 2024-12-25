@@ -42,13 +42,49 @@ country_event = {
         name = "EVTOPTA701001"
         CWU = {inherit = THIS}
         set_global_flag = ming_collapse
-        ai_chance = { factor = 99 }
+        ai_chance = { factor = 50 }
+    }
+
+    option = {
+        name = "EVTOPTC701001"
+        CXU = {inherit = THIS}
+        set_global_flag = ming_collapse
+        ai_chance = { factor = 49 }
     }
     
     option = {
         name = "EVTOPTB701001"
+        government = democracy
+        political_reform = wealth_voting
+        political_reform = population_equal_weight
+        political_reform = yes_meeting
+        political_reform = free_press
+        political_reform = non_socialist
+        political_reform = secret_ballots
+        ruling_party_ideology = liberal
         set_global_flag = ming_collapse
+        any_country = {
+            limit = { substate_of = THIS }
+            country_event = 701002
+        }
         ai_chance = { factor = 1 }
+    }
+    
+}
+
+country_event = {
+    id = 701002
+    title = "EVTNAME701002"
+    desc = "EVTDESC701002"
+    picture = Picture
+    
+    is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA701002"
+        MIG = {
+            release_vassal = THIS
+        }
     }
     
 }

@@ -1,10 +1,9 @@
 capital = 1600
 primary_culture = oirat
 culture = mongol
-culture = uzbek
 culture = uighur
 culture = kazak
-religion = sunni
+religion = gelugpa
 government = khanate
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -57,9 +56,12 @@ upper_house = {
 # Unciv Reforms
 admin_reform = yes_admin_reform
 monetary_reform = yes_monetary_reform
-research_reform = yes_education_reform
-
-set_country_flag = sunni_country
+land_reform = yes_land_reform
+education_reform = yes_western_science
+firearms_production = firearms_production_two
+army_schools = yes_army_schools
+foreign_weapons = yes_foreign_weapons
+foreign_training = foreign_training_two
 
 # Starting Consciousness
 consciousness = 0

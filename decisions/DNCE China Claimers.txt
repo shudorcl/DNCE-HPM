@@ -5,7 +5,7 @@ lord_of_china = {
 				OR = {
 				AND = {
                     tag = JAP
-                    has_country_flag = chinese_yamato_dynasty
+                    has_country_flag = jap_nitto
                 }
 				tag = MGL
                 tag = CHG
