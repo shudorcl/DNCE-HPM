@@ -363,31 +363,31 @@
 	
 	aristocrats = {
 		culture = oromo
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 
 	clergymen = {
 		culture = oromo
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 
 	artisans = {
 		culture = oromo
-		religion = coptic
+		religion = coptic_religion
 		size = 250
 	}
 
 	soldiers = {
 		culture = oromo
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 
 	farmers = {
 		culture = oromo
-		religion = coptic
+		religion = coptic_religion
 		size = 4575
 	}
 }

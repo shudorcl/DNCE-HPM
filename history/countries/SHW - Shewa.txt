@@ -1,7 +1,7 @@
 capital = 1859
 primary_culture = oromo
 culture = cushitic
-religion = coptic
+religion = coptic_religion
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

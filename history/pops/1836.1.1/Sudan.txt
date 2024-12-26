@@ -108,13 +108,13 @@
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 1500
 	}
 	
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 500
 	}
 
@@ -172,7 +172,7 @@
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 500
 	}
 
@@ -235,7 +235,7 @@
 
 	artisans = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 200
 	}
 
@@ -253,7 +253,7 @@
 
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 1225
 	}
 
@@ -328,7 +328,7 @@
 
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 200
 	}
 	
@@ -652,7 +652,7 @@
 
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 
@@ -849,7 +849,7 @@
 	
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 300
 	}
 }
@@ -944,13 +944,13 @@
 	
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 400
 	}
 
@@ -1085,7 +1085,7 @@
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 }
@@ -1189,13 +1189,13 @@
 	
 	farmers = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 250
 	}
 	
 	slaves = {
 		culture = nubian
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 }

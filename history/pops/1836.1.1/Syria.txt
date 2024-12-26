@@ -132,19 +132,19 @@
 
 	clergymen = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 90
 	}
 
 	artisans = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 780
 	}
 
 	farmers = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 7175
 	}
 
@@ -465,19 +465,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 200
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 5800
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 18325
 	}
 
@@ -559,19 +559,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 75
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 345
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 3575
 	}
 }
@@ -641,19 +641,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 50
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 150
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 6975
 	}
 }
@@ -692,19 +692,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 75
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 400
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 7525
 	}
 
@@ -774,19 +774,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 75
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 200
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 3725
 	}
 

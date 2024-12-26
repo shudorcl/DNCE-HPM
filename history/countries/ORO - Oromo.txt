@@ -1,6 +1,6 @@
 capital = 1852
 primary_culture = oromo
-religion = coptic
+religion = coptic_religion
 government = feudal_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

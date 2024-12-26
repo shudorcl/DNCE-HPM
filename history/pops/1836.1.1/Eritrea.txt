@@ -141,43 +141,43 @@
 1848 = {
 	aristocrats = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 450
 	}
 
 	bureaucrats = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 75
 	}
 
 	officers = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 125
 	}
 
 	clergymen = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 285
 	}
 
 	artisans = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 1250
 	}
 
 	soldiers = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 3500
 	}
 
 	farmers = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 38925
 	}
 
@@ -220,31 +220,31 @@
 1850 = {
 	aristocrats = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 250
 	}
 
 	clergymen = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 210
 	}
 
 	artisans = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 1350
 	}
 
 	soldiers = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size= 750
 	}
 
 	farmers = {
 		culture = tigray
-		religion = coptic
+		religion = coptic_religion
 		size = 32575
 	}
 

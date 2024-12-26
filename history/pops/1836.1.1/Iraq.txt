@@ -174,19 +174,19 @@
 	
 	clergymen = {
 	    culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 20
 	}
 	
 	artisans = {
 	    culture = armenian 
-		religion = coptic 
+		religion = coptic_religion 
 		size = 150
 	}
 
 	farmers = {
 	    culture = armenian 
-		religion = coptic 
+		religion = coptic_religion 
 		size = 1000
 	}
 

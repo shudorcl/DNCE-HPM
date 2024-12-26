@@ -78,32 +78,32 @@
 
 	aristocrats = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 110
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 120
 	}
 
 	artisans = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 605
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size= 75
 
 	}
 
 	farmers = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 5000
 	}
 
@@ -364,31 +364,31 @@
 
 	aristocrats = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 16
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 27
 	}
 
 	artisans = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 45
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size= 30
 	}
 
 	farmers = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 830
 	}
 
@@ -630,25 +630,25 @@
 
 	aristocrats = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 75
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 75
 	}
 
 	artisans = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 450
 	}
 
 	serfs = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 3700
 	}
 
@@ -985,31 +985,31 @@
 
 	aristocrats = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 40
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 38
 	}
 
 	artisans = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 136
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size= 40
 	}
 
 	farmers = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 1830
 	}
 

@@ -8932,32 +8932,32 @@
 
 	aristocrats = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 150
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 175
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 2000
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size= 250
 
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 28425
 	}
 
@@ -9084,32 +9084,32 @@
 
 	aristocrats = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 125
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 750
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size= 100
 
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 12925
 	}
 
@@ -9254,32 +9254,32 @@
 
 	aristocrats = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 125
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 850
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size= 100
 
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = coptic
+		religion = coptic_religion
 		size = 12825
 	}
 

@@ -53,19 +53,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 50
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 300
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 4925
 	}
 
@@ -136,19 +136,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 75
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 250
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 4075
 	}
 
@@ -196,19 +196,19 @@
 
 	clergymen = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 25
 	}
 
 	artisans = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 100
 	}
 
 	farmers = {
 		culture = armenian
-		religion = coptic
+		religion = coptic_religion
 		size = 1875
 	}
 
@@ -259,19 +259,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 60
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 300
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 5875
 	}
 }
@@ -310,19 +310,19 @@
 
 	clergymen = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 50
 	}
 
 	artisans = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 195
 	}
 
 	farmers = {
 		culture = syriac
-		religion = coptic
+		religion = coptic_religion
 		size = 6625
 	}
 
