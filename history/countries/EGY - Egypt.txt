@@ -1,8 +1,8 @@
-capital = 1745
-primary_culture = misri
-culture = mashriqi
+capital = 1751
+primary_culture = coptic
+culture = misri
 culture = bedouin
-religion = sunni
+religion = coptic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

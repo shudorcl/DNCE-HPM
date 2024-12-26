@@ -1,5 +1,5 @@
 color = {
-    255 205 155
+    38 38 57
 }
 graphical_culture = MiddleEasternGC
 
