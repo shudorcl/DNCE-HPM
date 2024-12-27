@@ -36,7 +36,7 @@ claim_bahrain_desc;²¨Ë¹ÍåÉÏµÄÕâ¸öÐ¡µº³¤¾ÃÒÔÀ´¶¼±»°¢À­²®¼Ò×åºÍÐ¡Ð»ºÕ¹úÃÇÕÆ¿Ø×Å¡£Ë
 basotho_asks_for_protection_title;Ñ°Çó±£»¤;;;;;;;;;;;;x
 basotho_asks_for_protection_desc;ÎÒÃÇµÄ¹ú¼ÒÒÑ¾­Óë¹ýÈ¥²»Í¬ÁË£¬ÏÖÔÚÖÜÎ§Ç¿µÐ»·ËÅ£¬ÎÒÃÇ¹úÄÚµÄÒ»Ð©ÈËÏàÐÅÎªÁËÎÒÃÇµÄÉú´æ£¬ÎÒÃÇ±ØÐë·ÅÆú¶ÀÁ¢²¢Ñ°Çó±£»¤£¬×÷Îª¿ªÆÕÖ³ÃñµØµÄ¸½Êô¹ú¡£;;;;;;;;;;;;x
 montenegro_borders_title;ºÚÉ½µÄ¹ú½ç;;;;;;;;;;;;x
-montenegro_borders_desc;ËäÈ»³¤Ê±¼ä´¦ÓÚ¶ÀÁ¢£¬µ«ºÚÉ½µÄ¹ú½ç´ÓÀ´Ã»ÓÐ±»ÕýÊ½µØ³ÐÈÏ£¬Õâµ¼ÖÂÁË¿ËÂÞµØÑÇºÍ²¨Ë¹ÄáÑÇµÄÐû³Æ¡£ÊÇÊ±ºò¸Ä±äÕâÒ»µãÁË¡£;;;;;;;;;;;;x
+montenegro_borders_desc;ËäÈ»³¤Ê±¼ä´¦ÓÚ¶ÀÁ¢£¬µ«ºÚÉ½µÄ¹ú½ç´ÓÀ´Ã»ÓÐ±»ÕýÊ½µØ³ÐÈÏ£¬Õâµ¼ÖÂÁË¿ËÂÞ°£Î÷ÑÇºÍ²¨Ë¹ÄáÑÇµÄÐû³Æ¡£ÊÇÊ±ºò¸Ä±äÕâÒ»µãÁË¡£;;;;;;;;;;;;x
 renovate_capital_title;·­ÐÂ$CAPITAL$;;;;;;;;;;;;x
 renovate_capital_desc;$CAPITAL$ÊÇÒ»×ù¹ÅÀÏµÄ³ÇÊÐ£¬ÏÁÕ­µÄÖÐÊÀ¼Í·ç¸ñ½ÖµÀºÍ½¨Öþ¾ø¶Ô²»»á¶ÔËü´øÀ´Ê²Ã´ºÃ´¦¡£ÎªÁËÒýÈëÏÖ´ú½»Í¨ÍøÒÔ¼°Ïû³ý¿ÉÄÜµÄÎÀÉúÎÊÌâ£¬ÎÒÃÇ¿ÉÒÔÍ¶×Ê¶Ô$CAPITAL$½øÐÐ·­ÐÂÀ´ÈÃËü±ä³ÉÒ»×ù¸üÅäµÃÉÏ×÷Îª$COUNTRY$Ê×¶¼µÄ³ÇÊÐ¡£;;;;;;;;;;;;x
 bulgarian_miracle_title;±£¼ÓÀûÑÇÆæ¼£;;;;;;;;;;;;x
@@ -445,7 +445,7 @@ effective_occupation_western_sahara_desc;°ØÁÖ»áÒéÉÏ£¬Å·ÖÞ¸÷¹úÕýÔÚÖÆ¶¨ÔÚ·ÇÖÞ½¨Á¢Ê
 austro_hungarian_border_treaty_title;°ÂµØÀû-ÐÙÑÀÀû±ß½çÌõÔ¼;;;;;;;;;;;;x
 austro_hungarian_border_treaty_desc;ÎÒÃÇµÄÍâ½»¹ÙÕýÔÚÆð²ÝÒ»·ÝÎÒÃÇºÍÁÚ¹úÖ®¼äµÄÓÑºÃ±ß½çÌõÔ¼£¬ÒÔ½â¾öÁ½¹úÖ®¼äÁìÍÁÐü¶øÎ´¾öµÄÎÊÌâ¡£ÌõÔ¼½«°üÀ¨ÈË¿Ú½»»»£¬È·¶¨±ß½çºÍÓÑÒêÉùÃ÷¡£Èç¹ûÎÒÃÇÇ©ÊðÕâ·ÝÐ­¶¨£¬»¹ÄÜÏòÊÀ½çÕ¹Ê¾ÎÒÃÇÔÚÍâ½»ÉÏ½øÐÐºÍ½âºÍÕþ¸®×ðÖØÈËÃñÒâÔ¸µÄ×ðÖØ¡£;;;;;;;;;;;;x
 claim_fiume_title;¸·Ä·ÎÊÌâ;;;;;;;;;;;;x
-claim_fiume_desc;¿ËÂÞµØÑÇÏíÓÐÐÙÑÀÀûÄÚµÄÏÜ·¨×ÔÖ÷È¨¡£×÷ÎªÐÙÑÀÀûÎ¨Ò»µÄ¹ú¼Ê¸Û¿Ú£¬¸·Ä·ÊÐÔ­±¾ÊÇ¶ÀÁ¢µÄ£¬Ö±½ÓÓÉ²¼´ïÅåË¹ÈÎÃüµÄÖÝ³¤×÷Îª¶ÀÁ¢¸öÌå¹ÜÀí¡£ÎÒÃÇÓë¸·Ä·¹ØÏµÃÜÇÐ£¬Æäº£¾ü»ùµØºÍ¸Û¿ÚÔÚÎÒÃÇÊÖÖÐ½«·¢»ÓÖØÒª×÷ÓÃ¡£;;;;;;;;;;;;x
+claim_fiume_desc;¿ËÂÞ°£Î÷ÑÇÏíÓÐÐÙÑÀÀûÄÚµÄÏÜ·¨×ÔÖ÷È¨¡£×÷ÎªÐÙÑÀÀûÎ¨Ò»µÄ¹ú¼Ê¸Û¿Ú£¬¸·Ä·ÊÐÔ­±¾ÊÇ¶ÀÁ¢µÄ£¬Ö±½ÓÓÉ²¼´ïÅåË¹ÈÎÃüµÄÖÝ³¤×÷Îª¶ÀÁ¢¸öÌå¹ÜÀí¡£ÎÒÃÇÓë¸·Ä·¹ØÏµÃÜÇÐ£¬Æäº£¾ü»ùµØºÍ¸Û¿ÚÔÚÎÒÃÇÊÖÖÐ½«·¢»ÓÖØÒª×÷ÓÃ¡£;;;;;;;;;;;;x
 abolish_italian_minors_title;Òâ´óÀû³Ç°î;;;;;;;;;;;;x
 abolish_italian_minors_desc;Òâ´óÀûµÄÍ³Ò»²¢²»ÊÇÒ»¸öË³ÀûµÄ¹ý³Ì£¬Ô­À´Òâ´óÀû³Ç°îµÄµØ·½×ÔÖÎÈÔÈ»´æÔÚ¡£ÎÒÃÇÐèÒªÒ»¸öÍÅ½áÒ»ÖÂµÄ¹ú¼Ò£¬ËùÒÔÎÒÃÇ±ØÐë·Ï³ýµØ·½×ÔÖÎºÍÌØÈ¨¡£;;;;;;;;;;;;x
 canadian_lands_title;¼ÓÄÃ´óÁìµØ;;;;;;;;;;;;x
@@ -488,8 +488,8 @@ formosa_independence_title;Ðû²¼¶ÀÁ¢;;;;;;;;;;;;x
 formosa_independence_desc;´óÂ½µÄÎ±Õþ¸®ÊÔÍ¼ÈëÇÖÌ¨ÍåÒÔ´Ý»ÙÎÒÃÇÕýÍ³µÄÕþ¸®£¬µ«ËûÃÇÊ§°ÜÁË¡£ÎÒÃÇÓ¦¸ÃÐû²¼¶ÀÁ¢£¬ÓëÁÐÇ¿ºÍÎ±Õþ¸®½»ÉæÒÔÈ·±£ÎÒÃÇ×÷Îª¶ÀÁ¢×ÔÖ÷µÄ¹ú¼ÒµÄµØÎ»µÃµ½ÈÏ¿É¡£;;;;;;;;;;;;x
 occupy_kita_ezo_title;Õ÷·þ±±ÏºÒÄ;;;;;;;;;;;;x
 occupy_kita_ezo_desc;Íâ¹úÁÐÇ¿Õý¶ÔÎÒ¹ú»¢ÊÓíñíñ£¬ÎÒÃÇÐèÒª¹®¹ÌÔÚ±±ÏºÒÄµÄÍ³ÖÎ£¬´Ó²½²½±Æ½üµÄ¶í¹úÈËÊÖÀïÕü¾ÈÕâÀïµÄÔ­×¡Ãñ£¬ÒÔ´ËÕ¹Ê¾ÎÒÃÇµÄÁ¦Á¿¡£;;;;;;;;;;;;x
-greater_croatia_title;´ó¿ËÂÞµØÑÇ£¨Velika Hrvatska£©;;;;;;;;;;;;x
-greater_croatia_desc;´ó¿ËÂÞµØÑÇÕâ¸ö¸ÅÄîµÄÏÖ´úÆðÔ´À´×ÔÒÁÀûÀïÑÇÔË¶¯£¬Ò»¸öÏÖ´úÔçÆÚÐËÆðµÄ·ºÄÏË¹À­·òÎÄ»¯ºÍÕþÖÎÔË¶¯£¬ºóÀ´ÓÖ±»Ò»ÈºÄêÇáµÄ¿ËÂÞµØÑÇÖªÊ¶·Ö×ÓÔÚ19ÊÀ¼ÍÇ°ÆÚ¸´ÐËÁË¡£¾¡¹ÜÕâ¸öÔË¶¯ÊÇÔÚµ±Ê±Å·ÖÞÃñ×åÖ÷Òå·ç³±µÄ´ó±³¾°ÏÂÐËÆðµÄ£¬µ«ËüÓÈÆäÔÚµ±Ê±Í³ÖÎ¿ËÂÞµØÑÇµÄÐÙÑÀÀûÍõ¹ú×ÌÉú³öÇ¿ÁÒµÄÃñ×åÖ÷Òå¡£;;;;;;;;;;;;x
+greater_croatia_title;´ó¿ËÂÞ°£Î÷ÑÇ£¨Velika Hrvatska£©;;;;;;;;;;;;x
+greater_croatia_desc;´ó¿ËÂÞ°£Î÷ÑÇÕâ¸ö¸ÅÄîµÄÏÖ´úÆðÔ´À´×ÔÒÁÀûÀïÑÇÔË¶¯£¬Ò»¸öÏÖ´úÔçÆÚÐËÆðµÄ·ºÄÏË¹À­·òÎÄ»¯ºÍÕþÖÎÔË¶¯£¬ºóÀ´ÓÖ±»Ò»ÈºÄêÇáµÄ¿ËÂÞ°£Î÷ÑÇÖªÊ¶·Ö×ÓÔÚ19ÊÀ¼ÍÇ°ÆÚ¸´ÐËÁË¡£¾¡¹ÜÕâ¸öÔË¶¯ÊÇÔÚµ±Ê±Å·ÖÞÃñ×åÖ÷Òå·ç³±µÄ´ó±³¾°ÏÂÐËÆðµÄ£¬µ«ËüÓÈÆäÔÚµ±Ê±Í³ÖÎ¿ËÂÞ°£Î÷ÑÇµÄÐÙÑÀÀûÍõ¹ú×ÌÉú³öÇ¿ÁÒµÄÃñ×åÖ÷Òå¡£;;;;;;;;;;;;x
 annex_sigmaringen_title;½¨Á¢»ôºàË÷Â×Ê¡;;;;;;;;;;;;x
 annex_sigmaringen_desc;»ôºàË÷Â×-Î÷¸ñÂêÁÖ¸ùºî¹úÓë»ôºàË÷Â×-ºÚÐÀ¸ùºî¹úÊÇÁ½¸öÓÉ»ôºàË÷Â×¼Ò×åµÄÌìÖ÷½ÌÖ§ÏµÍ³ÖÎµÄ¶ÀÁ¢ºî¹ú£¬ÓëÎÒÃÇÑªÂöÏàÁ¬¡£ÏÖÔÚ×ÔÓÉÖ÷Òå¸ïÃüµÄ²»°²Æø·ÕÈÃÌìÖ÷½ÌÖîºîÃÇÀÖÒâÌ¸ÅÐ²¢½«Ö÷È¨ÒÆ½»¸øÎÒÃÇ¡£;;;;;;;;;;;;x
 establish_the_majles_title;½¨Á¢ÒÁË¹À¼Òé»á;;;;;;;;;;;;x
@@ -664,8 +664,8 @@ christian_question_armenia_title;ÑÇÃÀÄáÑÇÎÊÌâ;;;;;;;;;;;;x
 christian_question_armenia_desc;19ÊÀ¼ÍÖÐÒ¶£¬Ó¢·¨¶íÈý¹ú¿ªÊ¼ÖÊÒÉµÛ¹ú¶Ô´ý»ù¶½½ÌÉÙÊýÃñ×åµÄÌ¬¶È£¬²¢ÆÈÊ¹ÎÒÃÇ¸øÓèËûÃÇÆ½µÈµÄÈ¨Àû¡£ÓÉÓÚÎÒÃÇ¾íÈëÁËµÚÒ»´ÎÊÀ½ç´óÕ½£¬ÎÒÃÇµÄµÐÈËÕýÔÚÌÖÂÛ·Ö¸îÎÒÃÇµÄÁìÍÁµÄ¿ÉÄÜÐÔ¡£ËûÃÇÏë°ÑÓµÓÐ´óÁ¿»ù¶½Í½µÄÍÁµØ·ÖÀë³öµÛ¹ú²¢½¨Á¢Æð¶ÀÁ¢µÄ¹ú¼Ò£¬ÌØ±ðÊÇÏ£ÍûÍ¨¹ýÑÇÃÀÄáÑÇÎÊÌâ£¬À´·ÖÁÑºÍÏ÷ÈõÎÒÃÇµÄµÛ¹ú¡£ÎÒÃÇÓÐ»ú»á½â¾öÕâ¸öÎÊÌâ£¬²¢ÍêÈ«´¦ÀíµôÑÇÃÀÄáÑÇÈË¶ÔÎÒÃÇÍÁµØµÄÒªÇó¡£;;;;;;;;;;;;x
 drain_the_pinsk_marshes_title;¸ÄÉÆÆ½¿ËË¹ÕÓÔó;;;;;;;;;;;;x
 drain_the_pinsk_marshes_desc;Æ½Ë¹¿ËÕÓÔóµÄÃæ»ý³¬¹ýÁË269400Æ½·½¹«Àï£¬ÆäÖÜÎ§»·ÈÆ×ÅÃÜ¼¯µÄºÓÁ÷ºÍÉ³ÖÊµÍµØ¡£ÆÕÀïÆ¤ÑÇºÓµÄÁ½²àÐÎ³ÉÁËÒ»ÌõºÓ£¬ÕâÌõºÓÊÇµ¤çêºÓµÄÖ÷ÒªÖ§Á÷Ö®Ò»¡£Æ½Ë¹¿ËÕÓÔóÔÚÒ»ÄêËÄ¼¾¶¼ÓÐ¼«´óµÄ¾Þ´óµÄ±ä»¯£¬´ºÌì±ùÑ©ÈÚ»¯£¬ÇïÌì½µÓê»áÊ¹ÆäºéË®·ºÀÄ¡£ÓëÅ·ÖÞ´ó¶àÊýÊªµØÒ»Ñù£¬Æ½Ë¹¿ËÕÓÔóÊÇÒ»¸ö¼²²¡¶à·¢µØÇø¡£ËùÒÔ£¬ÔÚÒ»ÄêÖÐµÄ´ó²¿·ÖÊ±¼äÀï£¬¾ü¶Ó¶¼ÎÞ·¨½øÈëÕâ¸öµØÇø£¬Òò´ËÓ°ÏìÁË¸ÃµØÇøËùÓÐ¾üÊÂÐÐ¶¯µÄÕ½ÂÔ¹æ»®¡£;;;;;;;;;;;;x
-croatian_independence_title;¿ËÂÞµØÑÇ¶ÀÁ¢ÐûÑÔ;;;;;;;;;;;;x
-croatian_independence_desc;¿ËÂÞµØÑÇÒé»á×÷Îª¿ËÂÞµØÑÇÖ÷È¨µÄ´ú±í£¬ÔÚ½ñÌì¾ö¶¨Í£Ö¹Óë°ÂµØÀûµÛ¹úÊ¥Ë¹µÙ·ÒÍõ³¯µÄ¹ú¼ÒºÍ·¨ÂÉÁªÏµ¡££¨ÕâÊÇµ¥·½ÃæÐû²¼¶ÀÁ¢µÄ¾ö¶¨£©;;;;;;;;;;;;x
+croatian_independence_title;¿ËÂÞ°£Î÷ÑÇ¶ÀÁ¢ÐûÑÔ;;;;;;;;;;;;x
+croatian_independence_desc;¿ËÂÞ°£Î÷ÑÇÒé»á×÷Îª¿ËÂÞ°£Î÷ÑÇÖ÷È¨µÄ´ú±í£¬ÔÚ½ñÌì¾ö¶¨Í£Ö¹Óë°ÂµØÀûµÛ¹úÊ¥Ë¹µÙ·ÒÍõ³¯µÄ¹ú¼ÒºÍ·¨ÂÉÁªÏµ¡££¨ÕâÊÇµ¥·½ÃæÐû²¼¶ÀÁ¢µÄ¾ö¶¨£©;;;;;;;;;;;;x
 encourage_the_skoda_works_title;Ö§³ÖË¹¿Â´ïÆóÒµ;;;;;;;;;;;;x
 encourage_the_skoda_works_desc;ÒÔÇ°£¬ÍßÂ×Ë¹Ì¹-Íßëø±´¶û¿ËÔÚ±È¶ûÉ­½¨Á¢ÁË×Ô¼ºµÄÖýÔì³§ºÍ¹¤³Ì²¿ÃÅ¡£¹¤³§µÄ¹æÄ£³¬¹ý100Ãû¹¤ÈË£¬ÆäÖÐ°üÀ¨ÖÆÌÇ³§¡¢Æ¡¾Æ³§¡¢¿óÉ½¡¢ÕôÆû»ú¡¢¹øÂ¯¡¢ÌúÇÅ½á¹¹ºÍÌúÂ·ÉèÊ©¡£Ë¹¿Â´ïËæºó½Ó¹ÜÁË°£Ã×¶ûºËµçÕ¾,ËûÊÇÒ»¸öÇÚÀÍµÄ¹¤³ÌÊ¦ºÍ¶¯Ì¬µÄÆóÒµ¼Ò¡£ÏÖÔÚ,Ò»¸öÓÅÒìµÄ¾ü¹¤¸´ºÏÌåÔÚ±È¶ûÉ­Ê¡ÐËÆð,Ë¹¿Â´ïÕýÍ¬ÎÒÃÇºÏ×÷·¢Õ¹ÎÒÃÇµÄ¾üÊÂºÍ¹¤ÒµÄÜÁ¦¡£;;;;;;;;;;;;x
 second_tonghak_reforms_title;µÚ¶þ´Î¶«Ñ§µ³¸Ä¸ï;;;;;;;;;;;;x
@@ -987,8 +987,8 @@ embrace_czech_minority_title;½ÓÊÜ½Ý¿ËÉÙÊýÃñ×å;;;;;;;;;;;;x
 embrace_czech_minority_desc;ÎÒÃÇÓ¦¸Ã½ÓÊÜÎÒÃÇµÄ½Ý¿Ë¹«Ãñ£¬½«ËûÃÇµÄµØÎ»ÌáÉýÖÁÓëÐÙÑÀÀûÈËÏàµ±¡£;;;;;;;;;;;;x
 embrace_slovene_minority_title;½ÓÊÜË¹ÂåÎÄÄáÑÇÉÙÊýÃñ×å;;;;;;;;;;;;x
 embrace_slovene_minority_desc;ÎÒÃÇÓ¦¸Ã½ÓÊÜÎÒÃÇµÄË¹ÂåÎÄÄáÑÇ¹«Ãñ£¬½«ËûÃÇµÄµØÎ»ÌáÉýÖÁÓëÐÙÑÀÀûÈËÏàµ±¡£;;;;;;;;;;;;x
-embrace_croat_minority_title;½ÓÊÜ¿ËÂÞµØÑÇÉÙÊýÃñ×å;;;;;;;;;;;;x
-embrace_croat_minority_desc;ÎÒÃÇÓ¦¸Ã½ÓÊÜÎÒÃÇµÄ¿ËÂÞµØÑÇ¹«Ãñ£¬½«ËûÃÇµÄµØÎ»ÌáÉýÖÁÓëÐÙÑÀÀûÈËÏàµ±¡£;;;;;;;;;;;;x
+embrace_croat_minority_title;½ÓÊÜ¿ËÂÞ°£Î÷ÑÇÉÙÊýÃñ×å;;;;;;;;;;;;x
+embrace_croat_minority_desc;ÎÒÃÇÓ¦¸Ã½ÓÊÜÎÒÃÇµÄ¿ËÂÞ°£Î÷ÑÇ¹«Ãñ£¬½«ËûÃÇµÄµØÎ»ÌáÉýÖÁÓëÐÙÑÀÀûÈËÏàµ±¡£;;;;;;;;;;;;x
 propose_danube_federation_title;ÌáÒé¶àè§Áª°î;;;;;;;;;;;;x
 propose_danube_federation_desc;Ò»¸öÐÂ¸ÅÄîÔÚÎÒÃÇ¹ú¼ÒÐËÆð¡ª¡ªÒ»¸ö½«ÏÖÔÚÐÙÑÀÀûÈËËùÏíÊÜµÄÈ¨ÀûÀ©Õ¹µ½ÆäËû¶àè§Ãñ×åµÄ¼Æ»®¡£±Ï¾¹ÎÒÃÇ²»ÄÜÖ¸ÍûÎÒÃÇÄÜºÍÐ³µØ¼ÌÐøÓÃÁ½ÖÖÎÄ»¯Ö§ÅäÆäËûÄÇÃ´¶àµÄÎÄ»¯¡£Èç¹ûÐÙÑÀÀûÈËÍ¬ÒâµÄ»°£¬ÎÒÃÇ±ã¿ÉÒÔ½«¹úÄÚ¸÷¸öÃñ×å¶¼Í³Ò»ÔÚÒ»¸ö¸ü´ó¡¢¸üºÍÐ³µÄ¶àè§Áª°îÖ®ÏÂ¡£;;;;;;;;;;;;x
 become_danube_federation_title;½¨Á¢¶àè§Áª°î;;;;;;;;;;;;x
@@ -1006,7 +1006,7 @@ bosnian_annexation_desc;¼´Ê¹¿ÉÄÜ´øÔâµ½¹ú¼ÊÓßÂÛ·´¶Ô£¬Õþ¸®Ò²ÈÏÎª½«²¨Ë¹ÄáÑÇÍêÈ«ÄÉÈë
 release_silesia_title;ÊÍ·ÅÎ÷ÀïÎ÷ÑÇ;;;;;;;;;;;;x
 release_silesia_desc;ÓÉÓÚÎÒÃÇÔÚÎ÷ÀïÎ÷ÑÇµÄÁìÍÁÓë°ÂµØÀûµÄÆäËû²¿·ÖÏà·ÖÀë£¬ÎÒÃÇÖ»ÄÜ¸³Óèµ±µØÈË¸ü¶à×ÔÖ÷È¨¡£ÈÃÎÒÃÇÔÊÐíÄÇÐ©²¨À¼ÈË½¨Á¢×Ô¼ºµÄ¾ü¶Ó°É¡ª¡ªÖ»ÒªËûÃÇÀÖÒâÖÒÓÚ°ÂµØÀûµÛ¹úµÄÈ¨Íþ¾ÍÐÐ¡£;;;;;;;;;;;;x
 release_dalmatia_title;ÊÍ·Å´ï¶ûÂíÌáÑÇ;;;;;;;;;;;;x
-release_dalmatia_desc;ÓÉÓÚÎÒÃÇÔÚ´ï¶ûÂíÌáÑÇµÄÁìÍÁÓë°ÂµØÀûµÄÆäËû²¿·ÖÏà·ÖÀë£¬ÎÒÃÇÖ»ÄÜ¸³Óèµ±µØÈË¸ü¶à×ÔÖ÷È¨¡£ÈÃÎÒÃÇÔÊÐíÄÇÐ©¿ËÂÞµØÑÇÈË½¨Á¢×Ô¼ºµÄ¾ü¶Ó°É¡ª¡ªÖ»ÒªËûÃÇÀÖÒâÖÒÓÚ°ÂµØÀûµÛ¹úµÄÈ¨Íþ¾ÍÐÐ¡£;;;;;;;;;;;;x
+release_dalmatia_desc;ÓÉÓÚÎÒÃÇÔÚ´ï¶ûÂíÌáÑÇµÄÁìÍÁÓë°ÂµØÀûµÄÆäËû²¿·ÖÏà·ÖÀë£¬ÎÒÃÇÖ»ÄÜ¸³Óèµ±µØÈË¸ü¶à×ÔÖ÷È¨¡£ÈÃÎÒÃÇÔÊÐíÄÇÐ©¿ËÂÞ°£Î÷ÑÇÈË½¨Á¢×Ô¼ºµÄ¾ü¶Ó°É¡ª¡ªÖ»ÒªËûÃÇÀÖÒâÖÒÓÚ°ÂµØÀûµÛ¹úµÄÈ¨Íþ¾ÍÐÐ¡£;;;;;;;;;;;;x
 claim_austrian_silesia_title;Ðû³ÆÎ÷ÀïÎ÷ÑÇ;;;;;;;;;;;;x
 claim_austrian_silesia_desc;±ð¶ûË¹¿ËÓëÇÐÉêÁ½Ê¡Ôø¾­ÊôÓÚ²¨Ï£Ã×ÑÇ£¬ËüÃÇÀíÓ¦ÊÇ½Ý¿ËÈËµÄÍÁµØ¡£ÎÒÃÇÒ»¶¨ÒªÖØÐÂÐû³ÆÕâ¿éÊôÓÚÎÒÃÇµÄµØ·½¡£;;;;;;;;;;;;x
 begin_hungarian_revolution_title;·¢¶¯¸ïÃü£¡;;;;;;;;;;;;x
@@ -1161,8 +1161,8 @@ greater_nepal_title;Ðû³Æ´óÄá²´¶û;;;;;;;;;;;;x
 greater_nepal_desc;ÊÇÎÒÃÇËº»Ù¡¶Éª¸ßÀûÌõÔ¼¡·£¨Sugauli Treaty£©²¢¶á»ØËü´ÓÎÒÃÇÄÇ¶áÈ¡µÄÒ»ÇÐµÄÊ±ºòÁË¡£Ò»¶¨ÒªÖØ½¨´óÄá²´¶û£¡;;;;;;;;;;;;x
 greater_serbia_title;Ðû³Æ´óÈû¶ûÎ¬ÑÇ;;;;;;;;;;;;x
 greater_serbia_desc;Èû×åÈËÉú»îÔÚÕû¸ö°Í¶û¸É¡£½«ËûÃÇËùÓÐÈË¶¼ÍÅ½áÔÚÒ»ÃæÈû¶ûÎ¬ÑÇÆìÖÄÖ®ÏÂÊÇÎÒÃÇµÄÊ¹Ãü£¡;;;;;;;;;;;;x
-reclaim_croatia_title;ÊÕ¸´¿ËÂÞµØÑÇ;;;;;;;;;;;;x
-reclaim_croatia_desc;ÔÚÌØÀïÆ¤Ã×ÂÞÎ¬ÆæÍõ³¯ÃðÍöºóµÄ»ìÂÒÄê´ú£¬¿ËÂÞµØÑÇÍõ¹úÓëÐÙÑÀÀû½¨Á¢ÁË¸öÈËÁªÃË£¬ÕâÖÖÇé¿öÒ»Ö±³ÖÐøµ½ÂÞÄ·µÛ¹úÕ÷·þÐÙÑÀÀû¡£´ÓÄÇÒÔºó£¬¿ËÂÞµØÑÇµÄÍõÎ»Ò»Ö±¿ÕÈ±£¬¿ËÂÞµØÑÇµÄ¸ïÃüÕß±³ÆúÁËËûÃÇµÄÖÐÊÀ¼ÍÒÅ²ú£¬×ª¶ø½¨Á¢ÁËÒÁÀûÀïÑÇÍõ¹ú£¬Ê¹ËûÃÇµÄ·ºË¹À­·òÒ°ÐÄ³¬Ô½ÁË¿ËÂÞµØÑÇµÄ¾É±ß½ç¡£Ê¥Ë¹µÙ·ÒÊ¥¹ÚµÄ»Ö¸´Ê¹ÐÂÐÙÑÀÀûÍõ¹ú³ÉÎª°¢À­ÅÁµÂÍõ³¯µÄ¼Ì³ÐÕß£¬²¢Òò´Ë³ÉÎªÆäÔÚÐÙÑÀÀûºÍ¿ËÂÞµØÑÇµÄÁìÍÁµÄºÏ·¨¼Ì³ÐÕß¡£Õ÷·þ¿ËÂÞµØÑÇ½«ÖØÐÂÈ·Á¢ÂíÔú¶ûÈË×÷ÎªÅ·ÖÞÖØÒªÃñ×åÖ®Ò»µÄµØÎ»£¬²¢Ê¹ÎÒÃÇÑØ×Å´ï¶ûÂíÌáÑÇº£°¶½øÈëµØÖÐº££¬¶øÕâÕýÊÇÎÒÃÇËù¼±ÐèµÄ¡£;;;;;;;;;;;;x
+reclaim_croatia_title;ÊÕ¸´¿ËÂÞ°£Î÷ÑÇ;;;;;;;;;;;;x
+reclaim_croatia_desc;ÔÚÌØÀïÆ¤Ã×ÂÞÎ¬ÆæÍõ³¯ÃðÍöºóµÄ»ìÂÒÄê´ú£¬¿ËÂÞ°£Î÷ÑÇÍõ¹úÓëÐÙÑÀÀû½¨Á¢ÁË¸öÈËÁªÃË£¬ÕâÖÖÇé¿öÒ»Ö±³ÖÐøµ½ÂÞÄ·µÛ¹úÕ÷·þÐÙÑÀÀû¡£´ÓÄÇÒÔºó£¬¿ËÂÞ°£Î÷ÑÇµÄÍõÎ»Ò»Ö±¿ÕÈ±£¬¿ËÂÞ°£Î÷ÑÇµÄ¸ïÃüÕß±³ÆúÁËËûÃÇµÄÖÐÊÀ¼ÍÒÅ²ú£¬×ª¶ø½¨Á¢ÁËÒÁÀûÀïÑÇÍõ¹ú£¬Ê¹ËûÃÇµÄ·ºË¹À­·òÒ°ÐÄ³¬Ô½ÁË¿ËÂÞ°£Î÷ÑÇµÄ¾É±ß½ç¡£Ê¥Ë¹µÙ·ÒÊ¥¹ÚµÄ»Ö¸´Ê¹ÐÂÐÙÑÀÀûÍõ¹ú³ÉÎª°¢À­ÅÁµÂÍõ³¯µÄ¼Ì³ÐÕß£¬²¢Òò´Ë³ÉÎªÆäÔÚÐÙÑÀÀûºÍ¿ËÂÞ°£Î÷ÑÇµÄÁìÍÁµÄºÏ·¨¼Ì³ÐÕß¡£Õ÷·þ¿ËÂÞ°£Î÷ÑÇ½«ÖØÐÂÈ·Á¢ÂíÔú¶ûÈË×÷ÎªÅ·ÖÞÖØÒªÃñ×åÖ®Ò»µÄµØÎ»£¬²¢Ê¹ÎÒÃÇÑØ×Å´ï¶ûÂíÌáÑÇº£°¶½øÈëµØÖÐº££¬¶øÕâÕýÊÇÎÒÃÇËù¼±ÐèµÄ¡£;;;;;;;;;;;;x
 greater_ukraine_title;Ðû³Æ´óÎÚ¿ËÀ¼;;;;;;;;;;;;x
 greater_ukraine_desc;ËùÓÐµÄÎÚ¿ËÀ¼ÈËÀíÓ¦Éú»îÔÚÎÚ¿ËÀ¼µÄ¹úÆìÖ®ÏÂ£¡;;;;;;;;;;;;x
 greater_macedonia_title;Ðû³Æ´óÂíÆä¶Ù;;;;;;;;;;;;x
@@ -1327,14 +1327,14 @@ become_poland_lithuania_title;Áª°îµÄÖØÉú;;;;;;;;;;;;x
 become_poland_lithuania_desc;ÎÒÃÇÖØ½¨ÁË¹ÅÀÏµÄµÛ¹ú¡£²¨À¼-Á¢ÌÕÍð½«ÔÙ´Î´£Á¢ÓÚÊÀ¼ä£¬ÈÃÎÒÃÇµÄËÞµÐ²ü¶¶°É£¡;;;;;;;;;;;;x
 stop_poland_lithuania_title;Áª°îµÄÖÕ½á;;;;;;;;;;;;x
 stop_poland_lithuania_desc;²¨À¼-Á¢ÌÕÍðÁª°îÊÙÖÕÕýÇÞ¡£ÎÒÃÇ±ØÐë·ÅÆú²»ÇÐÊµ¼ÊµÄÀíÏë£¬²¢½ÅÌ¤ÊµµØÖØÐÂ»Øµ½²¨À¼×Ô¼ºµÄµÀÂ·ÉÏ¡£;;;;;;;;;;;;x
-unite_with_croatia_title;»Ø¹é¿ËÂÞµØÑÇ;;;;;;;;;;;;x
-unite_with_croatia_desc;¿ËÂÞµØÑÇÒÑ¾­³ÉÁ¢£¬ÏÖÔÚÊÇÊ±ºò»Ø¹éÎÒÃÇµÄ×æ¹úÁË¡£;;;;;;;;;;;;x
+unite_with_croatia_title;»Ø¹é¿ËÂÞ°£Î÷ÑÇ;;;;;;;;;;;;x
+unite_with_croatia_desc;¿ËÂÞ°£Î÷ÑÇÒÑ¾­³ÉÁ¢£¬ÏÖÔÚÊÇÊ±ºò»Ø¹éÎÒÃÇµÄ×æ¹úÁË¡£;;;;;;;;;;;;x
 invite_slovenia_to_YUG_title;ÑûÇëË¹ÂåÎÄÄáÑÇ¼ÓÈëÄÏË¹À­·ò;;;;;;;;;;;;x
 invite_slovenia_to_YUG_desc;ÎÒÃÇµÄÁÚ¹úË¹ÂåÎÄÄáÑÇ¿Ï¶¨Ê®·ÖÀÖÒâ¼ÓÈëÎÒÃÇµÄË¹À­·òÁª°î¡£»òÐíÎÒÃÇÓ¦¸ÃÏòËûÃÇÉì³öéÏé­Ö¦£¿;;;;;;;;;;;;x
 invite_bosnia_to_YUG_title;ÑûÇë²¨Ë¹ÄáÑÇ¼ÓÈëÄÏË¹À­·ò;;;;;;;;;;;;x
 invite_bosnia_to_YUG_desc;ÎÒÃÇµÄÁÚ¹ú²¨Ë¹ÄáÑÇ¿Ï¶¨Ê®·ÖÀÖÒâ¼ÓÈëÎÒÃÇµÄË¹À­·òÁª°î¡£»òÐíÎÒÃÇÓ¦¸ÃÏòËûÃÇÉì³öéÏé­Ö¦£¿;;;;;;;;;;;;x
-invite_croatia_to_YUG_title;ÑûÇë¿ËÂÞµØÑÇ¼ÓÈëÄÏË¹À­·ò;;;;;;;;;;;;x
-invite_croatia_to_YUG_desc;ÎÒÃÇµÄÁÚ¹ú¿ËÂÞµØÑÇ¿Ï¶¨Ê®·ÖÀÖÒâ¼ÓÈëÎÒÃÇµÄË¹À­·òÁª°î¡£»òÐíÎÒÃÇÓ¦¸ÃÏòËûÃÇÉì³öéÏé­Ö¦£¿;;;;;;;;;;;;x
+invite_croatia_to_YUG_title;ÑûÇë¿ËÂÞ°£Î÷ÑÇ¼ÓÈëÄÏË¹À­·ò;;;;;;;;;;;;x
+invite_croatia_to_YUG_desc;ÎÒÃÇµÄÁÚ¹ú¿ËÂÞ°£Î÷ÑÇ¿Ï¶¨Ê®·ÖÀÖÒâ¼ÓÈëÎÒÃÇµÄË¹À­·òÁª°î¡£»òÐíÎÒÃÇÓ¦¸ÃÏòËûÃÇÉì³öéÏé­Ö¦£¿;;;;;;;;;;;;x
 invite_montenegro_to_YUG_title;ÑûÇëºÚÉ½¼ÓÈëÄÏË¹À­·ò;;;;;;;;;;;;x
 invite_montenegro_to_YUG_desc;ÎÒÃÇµÄÁÚ¹úºÚÉ½¿Ï¶¨Ê®·ÖÀÖÒâ¼ÓÈëÎÒÃÇµÄË¹À­·òÁª°î¡£»òÐíÎÒÃÇÓ¦¸ÃÏòËûÃÇÉì³öéÏé­Ö¦£¿;;;;;;;;;;;;x
 invite_serbia_to_YUG_title;ÑûÇëÈû¶ûÎ¬ÑÇ¼ÓÈëÄÏË¹À­·ò;;;;;;;;;;;;x
@@ -2189,7 +2189,7 @@ claim_bulgaria_title;Ðû³Æ±£¼ÓÀûÑÇ;;;;;;;;;;;;x
 claim_bulgaria_desc;±£¼ÓÀûÑÇÈËÒ²ÊÇÄÏË¹À­·òÈË!Èç¹ûÁ¬ÄÏË¹À­·òËùÓÐµÄ¹ú¼ÒºÍÍÁµØ¶¼²»ÍÅ½áÆðÀ´£¬ÄÇÃ´ÁªºÏÆðÀ´µÄÄÏË¹À­·ò»¹ÏñÊ²Ã´Ñù×Ó?ÈÃËûÃÇ»ñµÃ×ÔÓÉ£¬²¢¼ÓÈëÎÒÃÇÕýÔÚáÈÆðµÄµÛ¹ú¡£;;;;;;;;;;;;x
 claim_greeks_title;Ðû³ÆÈû¶ûÎ¬ÑÇµÛ¹úµÄÍÁµØ;;;;;;;;;;;;x
 claim_greeks_desc;Èû¶ûÎ¬ÑÇÉ³»Ê¹úÊÇÒ»¸öÎ»ÓÚ°Í¶û¸É°ëµºµÄÖÐÊÀ¼ÍµÛ¹ú£¬ÆðÔ´ÓÚ14ÊÀ¼ÍÖÐÊÀ¼ÍµÄÈû¶ûÎ¬ÑÇÍõ¹ú£¬´æÔÚÓÚ1346Äêµ½1371Äê¡£Èû¶ûÎ¬ÑÇµÄË¹ÌØ·²³ÉÎªÈû¶ûÎ¬ÑÇÈËºÍÏ£À°ÈËµÄ»ÊµÛ£¬Í³ÖÎ×Å´ÓÈûÈøÂåÄá»ùµ½ÅµÎ¬ÈøµÂµÄÒ»ÇÐ¡£ËäÈ»µÛ¹úÓë´´½¨Õß¶¼ÒÑ¾­ÏûÊÅ£¬µ«ËüµÄÒÅ²úÓÀ´æ¡­¡­;;;;;;;;;;;;x
-integrate_serbia_title;Èû¶ûÎ¬ÑÇ-¿ËÂÞµØÑÇÁªÃË;;;;;;;;;;;;x
+integrate_serbia_title;Èû¶ûÎ¬ÑÇ-¿ËÂÞ°£Î÷ÑÇÁªÃË;;;;;;;;;;;;x
 integrate_serbia_desc;×Ô´ÓÎÒÃÇÓÃÎÒÃÇµÄ¹úÍõÍ³ÖÎÈû¶ûÎ¬ÑÇÈË²¢½â·ÅËûÃÇÒÔÀ´£¬Èû¶ûÎ¬ÑÇÒÑ¾­³ÉÎªÁËÒ»¸öÃñ×åÁªÃËµÄ¹ú¼Ò¡£ÏÖÔÚÊÇÊ±ºò°ÑËûÃÇÖ±½ÓÄÉÈëÎÒÃÇµÄ¹ú¼Ò£¬ÒÔÍ³Ò»ÄÏË¹À­·òÃñ×åÁË!;;;;;;;;;;;;x
 create_yugoslavia_title;´´½¨ÄÏË¹À­·ò;;;;;;;;;;;;x
 create_yugoslavia_desc;Èç¹û°Í¶û¸ÉµÄË¹À­·òÈË¶¼ÍÅ½áÔÚÒ»Ãæ¹úÆìÖ®ÏÂ£¬ËûÃÇ½«³ÉÎª¸üÓÐÓÃµÄÍ¬ÃË£¬ÖÁÉÙÒª±È×÷ÎªÒ»¸ö·ÖÁÑ×´Ì¬ÏÂÑÓÃà²»¾øµÄ³åÍ»µØÇøÒªºÃµÃ¶à¡£;;;;;;;;;;;;x
@@ -3052,7 +3052,7 @@ extand_the_arsenal_desc;¼¸¸öÊÀ¼ÍÒÔÀ´£¬ÍþÄáË¹µÄ±ø¹¤³§Ò»Ö±ÊÇÅ·ÖÞ×î´óµÄÔì´¬³§£¬°ïÖú
 integrate_athesians_title;ÕûºÏ°¢ÈûÎ÷ÑÇ;;;;;;;;;;;;x
 integrate_athesians_desc;°¢ÈûÎ÷ÑÇºÍÒÁÁøÈûÀ­µÄÖ³ÃñµØÓëÍþÄáË¹³ÇÓÐ×Å¸´ÔÓµÄ¹ØÏµ¡£¶à¿÷ÁËÍþÄáË¹£¬¶¨¾ÓÕßÃÇ²ÅµÃÒÔÃâÊÜÈûÃ×Åµ²¿ÂäµÄÇÖÈÅ£¬µÃÒÔ½«°ëµººÍÈºµº·¢Õ¹µ½Ä¿Ç°µÄË®Æ½¡£µ«¸Ä¸ïµÄ±ØÒªÐÔÃ»ÓÐµÃµ½³ÐÈÏ£¬ÆðÒåÒ²ÏûåôÁË°¢ÈûË¹ÈËºÍÍþÄáË¹ÈËÖ®¼äµÄÐÅÈÎ¡£²»¹ý£¬ÎÒÃÇ¶Ô°¢ÈûÎ÷ÑÇµÄ³ÖÐø¿ØÖÆ½«Ê¹ÎÒÃÇµÄÍ³ÖÎ×îÖÕ»á±»µ±µØÈËËù½ÓÊÜ¡£;;;;;;;;;;;;x
 dalmatia_VEN_title;ÕûºÏ´ï¶ûÂíÌáÑÇ;;;;;;;;;;;;x
-dalmatia_VEN_desc;ÔÚÊ®ÈýÊÀ¼Í£¬´ï¶ûÂíÌáÑÇÊÇ¹²ºÍ¹úÀ©ÕÅµÄµÚÒ»¸öÄ¿±ê£¬¾¡¹Ü¾­ÀúÁËÊý´ÎÍÁ¶úÆäÕ½Õù£¬ÍþÄáË¹ÈÔÈ»¼áÊØ×ÅËü¡£ËäÈ»×î½üÒÁÀûÀïÑÇµÄ¶ÀÁ¢µ¼ÖÂµ±µØ¿ËÂÞµØÑÇÈËµÄÃñ×åÖ÷ÒåÇéÐ÷¸ßÕÇ£¬µ«ÎÒÃÇµÄÍ³ÖÎ»¹ÊÇµÃµ½ÁË³ÐÈÏ¡£;;;;;;;;;;;;x
+dalmatia_VEN_desc;ÔÚÊ®ÈýÊÀ¼Í£¬´ï¶ûÂíÌáÑÇÊÇ¹²ºÍ¹úÀ©ÕÅµÄµÚÒ»¸öÄ¿±ê£¬¾¡¹Ü¾­ÀúÁËÊý´ÎÍÁ¶úÆäÕ½Õù£¬ÍþÄáË¹ÈÔÈ»¼áÊØ×ÅËü¡£ËäÈ»×î½üÒÁÀûÀïÑÇµÄ¶ÀÁ¢µ¼ÖÂµ±µØ¿ËÂÞ°£Î÷ÑÇÈËµÄÃñ×åÖ÷ÒåÇéÐ÷¸ßÕÇ£¬µ«ÎÒÃÇµÄÍ³ÖÎ»¹ÊÇµÃµ½ÁË³ÐÈÏ¡£;;;;;;;;;;;;x
 japanese_korea_title;»Ö¸´³¯ÏÊµÄÖÈÐò;;;;;;;;;;;;x
 japanese_korea_desc;³¯ÏÊµÄÅÑÂÒÖÕÓÚ±»ÕòÑ¹ÁË£¬ÎÒÃÇ¶Ô°ëµºµÄºÍÆ½Í³ÖÎ¿ÉÄÜ»á¼ÌÐøÏÂÈ¥¡£;;;;;;;;;;;;x
 korean_korea_title;Í£»ðÐ­Òé;;;;;;;;;;;;x
@@ -3333,9 +3333,9 @@ reclaim_macedonia_title;ÊÕ¸´Ï£À°ºÍ±£¼ÓÀûÑÇ;;;;;;;;;;;;x
 reclaim_macedonia_desc;¼øÓÚÎÒÃÇÒÑ¾­¿ØÖÆÁËÏ£À°ºÍ±£¼ÓÀûÑÇµÄËùÓÐÁìÍÁ£¬ÎÒÃÇ¿ÉÒÔÔÙ´ÎÉù³ÆÕâÐ©ÍÁµØÊÇÎÒÃÇµÄºÏ·¨ÁìÍÁ¡£;;;;;;;;;;;;x
 reclaim_kurdistan_title;ÊÕ¸´ÒÁÀ­¿ËºÍ¿â¶ûµÂË¹Ì¹;;;;;;;;;;;;x
 reclaim_kurdistan_desc;¼øÓÚÎÒÃÇÒÑ¾­¿ØÖÆÁËÒÁÀ­¿ËºÍ¿â¶ûµÂË¹Ì¹µÄËùÓÐÁìÍÁ£¬ÎÒÃÇ¿ÉÒÔÔÙ´ÎÉù³ÆÕâÐ©ÍÁµØÊÇÎÒÃÇµÄºÏ·¨ÁìÍÁ¡£;;;;;;;;;;;;x
-egypt_levant_title;°£¼°µÄÀè·²ÌØ;;;;;;;;;;;;x
-egypt_levant_desc;ÔúÏ£¶ûÆðÒå³É¹¦ÒÔÀ´£¬°£¼°ÒÑÈ»³ÉÎª°¢À­²®ÊÀ½çµÄµÆËþ¡£ÎÒÃÇÕÆ¿Ø×ÅÊ¥³Ç£¬Å·ÖÞÁÐÇ¿Ò²³ÐÈÏÎÒÃÇµÄÊµÁ¦£¬¼ÈÈ»Èç´Ë£¬ÎÒÃÇ¿ÉÒÔ·ÅÐÄ´óµ¨µØÐû³Æ×Ô¼ºÊÇ°¢À­²®ÈËµÄ±£»¤Õß£¬½«Í»ØÊÈË¸Ï³öÂíÊ²Àï¿Ë£¡;;;;;;;;;;;;x
-unequal_treaty_CRO_title;AI×¨Êô¾öÒé£ºÂÞÄ·-¿ËÂÞµØÑÇÌõÔ¼;;;;;;;;;;;;x
+egypt_levant_title;¿ÆÃÜÌØµÄÀè·²ÌØ;;;;;;;;;;;;x
+egypt_levant_desc;ÈøÀ­·ÆË¹ÆðÒå³É¹¦ÒÔÀ´£¬¿ÆÃÜÌØÒÑÈ»³ÉÎªÖÐ½ü¶«µÄµÆËþ¡£ÎÒÃÇÕÆ¿Ø×ÅÊ¥³Ç£¬Å·ÖÞÁÐÇ¿Ò²³ÐÈÏÎÒÃÇµÄÊµÁ¦£¬¼ÈÈ»Èç´Ë£¬ÎÒÃÇ¿ÉÒÔ·ÅÐÄ´óµ¨µØÐû³Æ×Ô¼ºÊÇ°¢À­²®ÈËµÄ±£»¤Õß£¬½«Í»ØÊÈË¸Ï³öÂíÊ²Àï¿Ë£¡;;;;;;;;;;;;x
+unequal_treaty_CRO_title;AI×¨Êô¾öÒé£ºÂÞÄ·-¿ËÂÞ°£Î÷ÑÇÌõÔ¼;;;;;;;;;;;;x
 unequal_treaty_CRO_desc;...;;;;;;;;;;;;x
 unequal_treaty_HUN_title;AI×¨Êô¾öÒé£ºÂÞÄ·-ÐÙÑÀÀûÌõÔ¼;;;;;;;;;;;;x
 unequal_treaty_HUN_desc;...;;;;;;;;;;;;x
@@ -3444,11 +3444,11 @@ Beornian_Cone_desc;¼¸¸öÊÀ¼ÍÒÔÀ´£¬ ±´°ÂÄáÑÇÈËÒ»Ö±ÔÚÓëÂíÆÕÇÐµØÇøºÍÓ¡¼ÓÈËÕù¶áÄÏ·½µÄ
 sponsor_transcontinental_title;ÔÞÖú´óÂ½ÌúÂ·¼Æ»®;;;;;;;;;;;;x
 sponsor_transcontinental_desc;ÅµÎÖ¸ÛºÍÐÂÀïË¹±¾Ö®¼äµÄÁªÏµ·Ç³£±¡Èõ£¬ÔÚÂ¬Î÷ËþÄáÑÇ£¬ÈËÃÇ´ÓÒ»¸ö´óÑóµ½ÁíÒ»¸ö´óÑóµÄÂÃÐÐÒ²ºÜÀ§ÄÑ¡£µ«ÌúÂ·µÄ³öÏÖ¿ÉÒÔ½â¾öÕâ¸öÎÊÌâ£¬Èç¹ûÎÒÃÇÔÞÖúÒ»¸ö¹«Ë¾£¬²¢³É¹¦µØÁ¬½ÓÁ½¸ö³ÇÊÐºÍÁ½¸öº£Ñó£¬ÄÇÃ´Ëü½«½øÒ»²½¼ÓÇ¿ÎÒÃÇÓëÎ÷·½µÄÇàÇðºÍ¶«·½µÄ°¢¿¨µÏÑÇÖî°îÖ®¼äµÄÁªÏµ¡£;;;;;;;;;;;;x
 accept_SLO_title;ÕûºÏË¹ÂåÎÄÄáÑÇ;;;;;;;;;;;;x
-accept_SLO_desc;Ë¹ÂåÎÄÄáÑÇÈË¡ª¡ªÊÇÄÏË¹À­·òÈËÖÐµÄÒ»Ô±£¬¾¡¹ÜÆäÓïÑÔºÍ¿ËÂÞµØÑÇÓï´óÏà¾¶Í¥£¬µ«ËûÃÇÒÀÈ»ºÍÎÒÃÇ·Ç³£ÏàÏñ¡£ÓÖÓëÈû¶ûÎ¬ÑÇÈËºÍ²¨Ë¹ÄáÑÇÈË²»Í¬µÄÊÇ£¬ËûÃÇÍ¬ÑùÐÅ·îÌìÖ÷½Ì¡£Òò¶øÈÃËûÃÇ½ÓÄÉÎÒÃÇµÄÍ³ÖÎ²¢·ÇÄÑÊÂ£¬ÔÚ±±·½»¹ÓÐ°ÂµØÀûµÄÍþÐ²µÄÇé¿öÏÂ¸üÊÇÈç´Ë¡£;;;;;;;;;;;;x
+accept_SLO_desc;Ë¹ÂåÎÄÄáÑÇÈË¡ª¡ªÊÇÄÏË¹À­·òÈËÖÐµÄÒ»Ô±£¬¾¡¹ÜÆäÓïÑÔºÍ¿ËÂÞ°£Î÷ÑÇÓï´óÏà¾¶Í¥£¬µ«ËûÃÇÒÀÈ»ºÍÎÒÃÇ·Ç³£ÏàÏñ¡£ÓÖÓëÈû¶ûÎ¬ÑÇÈËºÍ²¨Ë¹ÄáÑÇÈË²»Í¬µÄÊÇ£¬ËûÃÇÍ¬ÑùÐÅ·îÌìÖ÷½Ì¡£Òò¶øÈÃËûÃÇ½ÓÄÉÎÒÃÇµÄÍ³ÖÎ²¢·ÇÄÑÊÂ£¬ÔÚ±±·½»¹ÓÐ°ÂµØÀûµÄÍþÐ²µÄÇé¿öÏÂ¸üÊÇÈç´Ë¡£;;;;;;;;;;;;x
 independent_SLO_title;Ë¹ÂåÎÄÄáÑÇ¶ÀÁ¢;;;;;;;;;;;;x
 independent_SLO_desc;¼øÓÚË¹ÂåÎÄÄáÑÇÒÑ»Øµ½Ë¹À­·òÈËµÄ´ó¼ÒÍ¥ÖÐ£¬µÂÒâÖ¾ÈË¶ÔÎÒÃÇÍÁµØµÄÐû³ÆÒ²ÒÑ¾­Ê§Ð§¡£;;;;;;;;;;;;x
 croatian_compromise_title;ÐÙ¿ËÍ×Ð­;;;;;;;;;;;;x
-croatian_compromise_desc;¿ËÂÞµØÑÇÈËÔÚÖÐÊÀ¼ÍÓëÐÙÑÀÀûµÄ¸öÈËÁªÃËÖÐÏíÓÐºÜ´óµÄ×ÔÖÎÈ¨¡£È»¶ø£¬ÔÚÂÞÄ·µÛ¹úÕ÷·þÖ®ºó£¬¿ËÂÞµØÑÇÈËºÍÂíÔú¶ûÈË±»·Ö¿ª£¬·ÖÊô²¨Î÷Ã×ÑÇ¡¢ÍþÄáË¹ºÍÍÁ¶úÆäµÄÊÆÁ¦·¶Î§£¬½â·Åºó£¬ÂíÔú¶ûÃñ×åÖ÷ÒåµÄ¸ßÕÇ¶¾»¯ÁËÕâ¶ÔÎôÈÕÐÖµÜÃñ×åÖ®¼äµÄ¹ØÏµ¡£$YEAR$Äê¿ËÂÞµØÑÇ-ÐÙÑÀÀûÍ×Ð­·½°¸½«¾ÀÕýÄ¿Ç°µÄ×´¿ö£¬³ÐÈÏ¿ËÂÞµØÑÇÔÚÐÙÑÀÀû¾³ÄÚµÄ³¤ÆÚ×ÔÖÎ´«Í³£¬Í¬Ê±³ÐÈÏ¿ËÂÞµØÑÇÈË×÷ÎªÎÒ¹úÕýÊ½¹«ÃñµÄµØÎ»£¬³ÐÈÏ¿ËÂÞµØÑÇÓïÓëÂíÔú¶ûÓïÍ¬Îª¹Ù·½ÓïÑÔ¡£;;;;;;;;;;;;x
+croatian_compromise_desc;¿ËÂÞ°£Î÷ÑÇÈËÔÚÖÐÊÀ¼ÍÓëÐÙÑÀÀûµÄ¸öÈËÁªÃËÖÐÏíÓÐºÜ´óµÄ×ÔÖÎÈ¨¡£È»¶ø£¬ÔÚÂÞÄ·µÛ¹úÕ÷·þÖ®ºó£¬¿ËÂÞ°£Î÷ÑÇÈËºÍÂíÔú¶ûÈË±»·Ö¿ª£¬·ÖÊô²¨Î÷Ã×ÑÇ¡¢ÍþÄáË¹ºÍÍÁ¶úÆäµÄÊÆÁ¦·¶Î§£¬½â·Åºó£¬ÂíÔú¶ûÃñ×åÖ÷ÒåµÄ¸ßÕÇ¶¾»¯ÁËÕâ¶ÔÎôÈÕÐÖµÜÃñ×åÖ®¼äµÄ¹ØÏµ¡£$YEAR$Äê¿ËÂÞ°£Î÷ÑÇ-ÐÙÑÀÀûÍ×Ð­·½°¸½«¾ÀÕýÄ¿Ç°µÄ×´¿ö£¬³ÐÈÏ¿ËÂÞ°£Î÷ÑÇÔÚÐÙÑÀÀû¾³ÄÚµÄ³¤ÆÚ×ÔÖÎ´«Í³£¬Í¬Ê±³ÐÈÏ¿ËÂÞ°£Î÷ÑÇÈË×÷ÎªÎÒ¹úÕýÊ½¹«ÃñµÄµØÎ»£¬³ÐÈÏ¿ËÂÞ°£Î÷ÑÇÓïÓëÂíÔú¶ûÓïÍ¬Îª¹Ù·½ÓïÑÔ¡£;;;;;;;;;;;;x
 Cuba_CLM_title;¼ÓÈë´ó¸çÂ×±ÈÑÇ;;;;;;;;;;;;x
 Cuba_CLM_desc;¾¡¹ÜÎÒÃÇÏÖÔÚÊÇ¶ÀÁ¢µÄ£¬µ«´ó¸çÂ×±ÈÑÇÈÔÈ»·Ç³£Ç¿´ó£¬ËùÒÔ¼ÓÈëËûÃÇ»òÐíÊÇÒ»¸ö¸üºÃµÄÖ÷Òâ¡£;;;;;;;;;;;;x
 romanian_cherson_title;ÂÞÂíÄáÑÇµÄµÂÄùË¹ÌØÀïÑÇ;;;;;;;;;;;;x
@@ -3524,7 +3524,7 @@ declare_permanent_jihad_desc;Ëæ×ÅÊ¥³ÇÖØ»ØÎÒÊÖ£¬ÎÒÃÇµÄ½ÌÖÚÐÖµÜÒ²ÍÅ½áÔÚÁËÒ»ÃæÆìÖÄÖ
 reclaim_montenegro_title;ÊÕ¸´¿¨À­´ï¸ñÎ¬ÀûÒ®;;;;;;;;;;;;x
 reclaim_montenegro_desc;ÂÞÄ·µÛ¹ú¶Ô¿¨À­´ï¸ñ´ÓÀ´¶¼Ö»ÓÐÃûÒåÉÏµÄ¿ØÖÆ£¬ºÚÉ½µÄ²¿×åÊµ¼ÊÉÏ¿ØÖÆ×ÅÆéá«ºÍÆ«Ô¶µÄÏç´å¡£ÏÖÔÚ£¬ÎÒÃÇµÄÎ°´óµÄ¹ú¼ÒÖÕÓÚ·ÛËéÁËÅÑÂÒ£¬ÖÎÓúÁË¼¸Ê®ÄêÄÚÕ½µÄ´´ÉË£¬ÊÇÊ±ºòÖØ½¨µÛ¹úÔÚ°Í¶û¸ÉµÄÍ³ÖÎÁË£¬½¨Á¢¶Ô¿¨À­´ï¸ñµÄÀÎ¹Ì¿ØÖÆ½«È·±£ÎÒÃÇÔÚÄÏÒíÏòÎ÷À©ÕÅ¡£;;;;;;;;;;;;x
 reclaim_illyria_title;ÊÕ¸´²©Ë¹ÄÉ°£ÑÇÀ³ÌØ;;;;;;;;;;;;x
-reclaim_illyria_desc;¼¸¸öÊÀ¼ÍÒÔÀ´£¬²©Ë¹ÄÉ°£ÑÇÀ³ÌØÒ»Ö±ÊÇÂÞÄ·µÛ¹úÔÚ°Í¶û¸ÉµØÇøµÄÈ¨Á¦ÖÐÐÄ£¬ÔÚÄÇÀï¾Ó×¡×Å´óÁ¿ÖÒÓÚÒÁË¹¿²µÂ¶ûÍõ³¯µÄÄÂË¹ÁÖ¡£È»¶ø£¬ÔÚÄÂË¹Ëþ·¨ËÄÊÀºÍËÕÀ³Âü¶þÊÀÊ±ÆÚµÛ¹úÄÚÕ½µÄ»ìÂÒÖÐ£¬¿ËÂÞµØÑÇÅÑ¾ü³É¹¦·¢¶¯ÁËÆðÒå£¬¾­¹ýÎåÄêµÄÑªÐÈ¶øÂþ³¤µÄÕ½Õù£¬ËÕÀ³Âü¶þÊÀ²»µÃ²»ÔÚ1815ÄêµÄÈøÀ­ÈÈÎÑÌõÔ¼ÖÐÄ¬ÐíÁËÒÁÀûÀïÑÇµÄ¶ÀÁ¢¡£ÒÁÀûÀïÑÇµÄ´æÔÚÊÇ¶ÔÂÞÄ·ÈÙ¹âµÄÎêÈè£¬Ò²ÊÇ¶Ô±¾ÊÀ¼ÍÇ°ÈýÊ®ÄêÎÒÃÇËùÊÜÇüÈèµÄÌáÐÑ¡£Ëæ×ÅÒÁË¹¿²µÂ¶ûÍõ³¯µÄÓÖÒ»´ÎÐËÆð£¬ÏÖÔÚÊÇÊ±ºò¶á»ØÊôÓÚÎÒÃÇµÄ¶«Î÷²¢ÎªÈøÀ­ÈÈÎÑÌõÔ¼¸´³ðÁË£¡;;;;;;;;;;;;x
+reclaim_illyria_desc;¼¸¸öÊÀ¼ÍÒÔÀ´£¬²©Ë¹ÄÉ°£ÑÇÀ³ÌØÒ»Ö±ÊÇÂÞÄ·µÛ¹úÔÚ°Í¶û¸ÉµØÇøµÄÈ¨Á¦ÖÐÐÄ£¬ÔÚÄÇÀï¾Ó×¡×Å´óÁ¿ÖÒÓÚÒÁË¹¿²µÂ¶ûÍõ³¯µÄÄÂË¹ÁÖ¡£È»¶ø£¬ÔÚÄÂË¹Ëþ·¨ËÄÊÀºÍËÕÀ³Âü¶þÊÀÊ±ÆÚµÛ¹úÄÚÕ½µÄ»ìÂÒÖÐ£¬¿ËÂÞ°£Î÷ÑÇÅÑ¾ü³É¹¦·¢¶¯ÁËÆðÒå£¬¾­¹ýÎåÄêµÄÑªÐÈ¶øÂþ³¤µÄÕ½Õù£¬ËÕÀ³Âü¶þÊÀ²»µÃ²»ÔÚ1815ÄêµÄÈøÀ­ÈÈÎÑÌõÔ¼ÖÐÄ¬ÐíÁËÒÁÀûÀïÑÇµÄ¶ÀÁ¢¡£ÒÁÀûÀïÑÇµÄ´æÔÚÊÇ¶ÔÂÞÄ·ÈÙ¹âµÄÎêÈè£¬Ò²ÊÇ¶Ô±¾ÊÀ¼ÍÇ°ÈýÊ®ÄêÎÒÃÇËùÊÜÇüÈèµÄÌáÐÑ¡£Ëæ×ÅÒÁË¹¿²µÂ¶ûÍõ³¯µÄÓÖÒ»´ÎÐËÆð£¬ÏÖÔÚÊÇÊ±ºò¶á»ØÊôÓÚÎÒÃÇµÄ¶«Î÷²¢ÎªÈøÀ­ÈÈÎÑÌõÔ¼¸´³ðÁË£¡;;;;;;;;;;;;x
 reclaim_madjaristan_title;ÊÕ¸´ÂíÔú¶ûË¹Ì¹;;;;;;;;;;;;x
 reclaim_madjaristan_desc;Õ÷·þÐÙÑÀÀûÊÇËÕÀ³Âü´óµÛÒ»ÉúÖÐµÄ×î¸ß³É¾Í£¬ÕâÁîÕû¸ö»ù¶½½ÌÊÀ½çÎªÖ®¾ª»Å£¬Ò²ÊÇÂÞÄ·µÛ¹úÔÚÅ·ÖÞµÄÈ¨Á¦ºÍÍþÍûµÄ¶¥µã¡£ÔÚ½üÈý°ÙÄêµÄÂþ³¤Ê±¼äÀï£¬ÔÚÓë²¨Î÷Ã×ÑÇºÍ²¨À¼Á¢ÌÕÍðµÄ¶Ï¶ÏÐøÐøµÄ³åÍ»ÖÐ£¬µÛ¹ú³É¹¦µØÊØ×¡ÁËÕâ¸öÂé·³µÄÊ¡·Ý£¬µ«ÔÚ1807ÄêµÄÂÞÄ·ÄÚÕ½ÖÐ£¬ËüÊÇµÚÒ»¸öÍÑÀëµÛ¹úµÄµØÇø¡£ÏÖÈç½ñ£¬Ëæ×ÅÎÒÃÇÓÖÒ»´ÎÕÆ¿ØÁË°Í¶û¸É£¬ÎÒÃÇÖÕÓÚ¿ÉÒÔ¼¯ÖÐ¾«Á¦½â¾ö×îºóÒ»¸öÍÑÀëÎÒÃÇºÏ·¨Í³ÖÎµÄÅÑÂÒµØÇø£¬²¢×îÖÕ³¹µ×ÐÞ¸´ÄÚÕ½ËùÔì³ÉµÄÆÆ»µ¡£;;;;;;;;;;;;x
 integrate_crimean_culture_title;ÕûºÏ¿ËÀïÃ×ÑÇ÷²÷°ÈË;;;;;;;;;;;;x
@@ -3812,7 +3812,7 @@ transylvania_integrate_romanians_desc;ÔÚÆð²ÝÌØÀ¼Î÷ÍßÄáÑÇÏÜ·¨µÄ¹ý³ÌÖÐ£¬¸¥À­ºÕÈË±»
 form_transcarpathia_title;ÐÙÑÀÀû-ÂÞÂíÄáÑÇÁªÃË;;;;;;;;;;;;x
 form_transcarpathia_desc;ÌØÀ¼Î÷ÍßÄáÑÇÀúÊ·ÉÏÒ»Ö±ÊÇÒ»¸ö¶àÔª»¯µÄµØÇø£¬ÎÄ»¯ÈÚºÏ£¬µÂÒâÖ¾¡¢ÂíÔú¶ûºÍÍßÀ­ºÕ£¬½«¸³ÓèÆä¶ÀÌØµÄÌØÉ«¡£Ëæ×ÅÅ·ÖÞ·ºÃñ×åÖ÷ÒåÒâÊ¶ÐÎÌ¬µÄÐËÆð£¬ÌØÀ¼Î÷ÍßÄáÑÇÏÖÔÚ·¢ÏÖ×Ô¼º´¦ÓÚÐÙÑÀÀûºÍÂÞÂíÄáÑÇµÈÏà»¥¾ºÕùµÄÃñ×åÍ³Ò»Ö®¼äµÄ±ßÔµ£¬ÕâÓÐ¿ÉÄÜÎªÁË¹ú¼Ò¹®¹Ì¶øÆÆ»µ¹«¹úÎ¢ÃîµÄÎÄ»¯ÉúÌ¬ÏµÍ³¡£ÁíÒ»ÌõµÀÂ·¿ÉÒÔ×èÖ¹ÕâÑùµÄÔÖÄÑ£¬½«ÂíÔú¶ûÈËºÍÍßÀ­¼¸ÑÇÈËÁªºÏÆðÀ´£¬½¨Á¢Ò»¸öº­¸Ç¿¦¶û°ÍÚäÁ½±ßµÄ¶àÓïÑÔ¹ú¼Ò¡£;;;;;;;;;;;;x
 dominate_south_slavs_title;Ö§ÅäÄÏË¹À­·ò;;;;;;;;;;;;x
-dominate_south_slavs_desc;ÖØÐÂÕ÷·þÖÐÊÀ¼Í¿ËÂÞµØÑÇÍõ¹úµÄ¾É±ß½ç£¬Ê¹Êý°ÙÍòË¹À­·ò³¼ÃñÖÃÓÚÎÒÃÇµÄÍ³ÖÎÖ®ÏÂ£¬µ«Õ÷·þ²¢²»ÍêÕû£¬ÒòÎªÈû¶ûÎ¬ÑÇÈËÃñÏÖÔÚ±»ÐÙÑÀÀû±ß¾³·ÖÁÑ¡£Èû¶ûÎ¬ÑÇÈËÖÐµÄÃñ×åÍ³Ò»Ö÷ÒåÊ¢ÐÐ£¬ËûÃÇ²»½ö¿ÊÍûÓë²¨Ë¹ÄáÑÇºÍ¿ËÀ­ÒÁÄÉµÄÐÖµÜÖØÐÂÍ³Ò»£¬¶øÇÒÃÎÏë½¨Á¢Ò»¸ö°üÀ¨¿ËÂÞµØÑÇÈËºÍ²¨Ë¹ÄáÑÇÈËµÄÄÏË¹À­·ò¹ú¼Ò¡£½üÄêÀ´£¬²¨Ë¹ÄáÑÇºÍ´ï¶ûÂíÌáÑÇµÄÈû¶ûÎ¬ÑÇÌØ¹¤ÈÕÒæÓÐÐ§µÄÉ¿¶¯´ì°ÜÁËÐÙÑÀÀû°²¸§Ïç´åºÍ½¨Á¢¸ÃµØÇøÊÊµ±¹ÜÀíµÄ³¢ÊÔ£¬ÏÖÔÚ¿ªÊ¼Ïò±±ÂûÑÓµ½Ë¹À­·òÄáÑÇºÍÌØÃ·Ë¹¿Æ×È£¬´Ó¶øÎ£¼°ÐÙÑÀÀûµÄÐÄÔàµØ´ø¡£Î¨Ò»µÄ½â¾ö·½°¸ÊÇ°´ÕÕÎÒÃÇ×Ô¼ºµÄÌõ¼þÍÅ½áÄÏË¹À­·òÈË£¬ÍÌ²¢ÎÒÃÇÁìÍÁÖ®ÍâµÄÈû¶ûÎ¬ÑÇÊ£ÓàÁìÍÁ£¬²¢½«ÆäÖØÐÂ×éÖ¯ÎªÂíÔú¶û¹úµÄ¸½ÊôÁìÍÁ¡£;;;;;;;;;;;;x
+dominate_south_slavs_desc;ÖØÐÂÕ÷·þÖÐÊÀ¼Í¿ËÂÞ°£Î÷ÑÇÍõ¹úµÄ¾É±ß½ç£¬Ê¹Êý°ÙÍòË¹À­·ò³¼ÃñÖÃÓÚÎÒÃÇµÄÍ³ÖÎÖ®ÏÂ£¬µ«Õ÷·þ²¢²»ÍêÕû£¬ÒòÎªÈû¶ûÎ¬ÑÇÈËÃñÏÖÔÚ±»ÐÙÑÀÀû±ß¾³·ÖÁÑ¡£Èû¶ûÎ¬ÑÇÈËÖÐµÄÃñ×åÍ³Ò»Ö÷ÒåÊ¢ÐÐ£¬ËûÃÇ²»½ö¿ÊÍûÓë²¨Ë¹ÄáÑÇºÍ¿ËÀ­ÒÁÄÉµÄÐÖµÜÖØÐÂÍ³Ò»£¬¶øÇÒÃÎÏë½¨Á¢Ò»¸ö°üÀ¨¿ËÂÞ°£Î÷ÑÇÈËºÍ²¨Ë¹ÄáÑÇÈËµÄÄÏË¹À­·ò¹ú¼Ò¡£½üÄêÀ´£¬²¨Ë¹ÄáÑÇºÍ´ï¶ûÂíÌáÑÇµÄÈû¶ûÎ¬ÑÇÌØ¹¤ÈÕÒæÓÐÐ§µÄÉ¿¶¯´ì°ÜÁËÐÙÑÀÀû°²¸§Ïç´åºÍ½¨Á¢¸ÃµØÇøÊÊµ±¹ÜÀíµÄ³¢ÊÔ£¬ÏÖÔÚ¿ªÊ¼Ïò±±ÂûÑÓµ½Ë¹À­·òÄáÑÇºÍÌØÃ·Ë¹¿Æ×È£¬´Ó¶øÎ£¼°ÐÙÑÀÀûµÄÐÄÔàµØ´ø¡£Î¨Ò»µÄ½â¾ö·½°¸ÊÇ°´ÕÕÎÒÃÇ×Ô¼ºµÄÌõ¼þÍÅ½áÄÏË¹À­·òÈË£¬ÍÌ²¢ÎÒÃÇÁìÍÁÖ®ÍâµÄÈû¶ûÎ¬ÑÇÊ£ÓàÁìÍÁ£¬²¢½«ÆäÖØÐÂ×éÖ¯ÎªÂíÔú¶û¹úµÄ¸½ÊôÁìÍÁ¡£;;;;;;;;;;;;x
 albanian_protectorate_title;°¢¶û°ÍÄáÑÇ±£»¤Áì;;;;;;;;;;;;x
 albanian_protectorate_desc;×Ô´ÓÍÑÀëÂÞÄ·µÛ¹ú¶ÀÁ¢ÒÔÀ´£¬°¢¶û°ÍÄáÑÇÒ»Ö±´¦ÓÚ²»ÎÈ¶¨µÄ×´Ì¬£¬ËÄÃæ°Ë·½¶¼ÊÇ¿ÊÍû·ÖÁÑÕâ¸öÄêÇá¹ú¼ÒµÄµÐÈË¡£ÎÒÃÇÏò°Í¶û¸É°ëµºµÄÀ©ÕÅÊ¹ÎÒÃÇÄÜ¹»ÔÚ°¢¶û°ÍÄáÑÇ¾³ÄÚ»ñµÃÏàµ±´óµÄ¾­¼ÃºÍÕþÖÎÓ°ÏìÁ¦£¬²¢Òýµ¼°¢¶û°ÍÄáÑÇÄÚ¸ó²ÉÈ¡Ç×ÐÙÑÀÀûµÄÕþ²ß£¬Ê¹ÎÒÃÇÔÚ¸ÃµØÇøµÄ¶ÔÊÖÔ¶ÀëÑÇµÃÀïÑÇº£º£°¶¡£Íâ½»²¿ÏÖÔÚÌáÒé¶ÔÎÒÃÇµÄ×¼¸½Ó¹ÁÚ¹úÊ©¼Ó¸ü´óµÄÑ¹Á¦¡ª¡ªÔÚ°¢¶û°ÍÄáÑÇ½¨Á¢Ò»¸öÕýÊ½µÄ±£»¤¹ú£¬ÃûÒåÉÏÊÇÎªÁËÈ·±£Ëý²»ÊÜÆäÂÓ¶áÁÚ¹úµÄÇÖº¦£¬²¢ÒÔÎÒÃÇÔÚºÚÉ½ºÍÈû¶ûÎ¬ÑÇµÄ°¢¶û°ÍÄáÑÇÈË¾Ó×¡µÄÁìÍÁ»»È¡¸Û¿Ú³ÇÊÐ·¢ÂÞÀ­¡£ÓµÓÐ·¢ÂÞÀ­½«Ïû³ýÐÙÑÀÀûº£¾üµÄ°¢¿¦ÁðË¹Ö®õà£¬²¢È·±£ÔÚÓëÎÒÃÇÔÚÒâ´óÀû°ëµºµÄÁÚ¹ú·¢Éú³åÍ»Ê±£¬ÐÙÑÀÀû¾ü½¢²»»á±»À§ÔÚÑÇµÃÀïÑÇº£¡£;;;;;;;;;;;;x
 ultimatum_oltenia_title;¶Ô°Â¶ûÌØÄáÑÇµÄ×îºóÍ¨ëº;;;;;;;;;;;;x

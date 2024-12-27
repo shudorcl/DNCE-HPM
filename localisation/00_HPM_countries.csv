@@ -424,10 +424,10 @@ SHK_anarcho_liberal;希鲁克自由派;;;;;;;;;;;;x
 SHK_socialist;希鲁克社会主义派;;;;;;;;;;;;x
 SHK_communist;希鲁克人民阵线;;;;;;;;;;;;x
 SHK_fascist;希鲁克民族阵线;;;;;;;;;;;;x
-MUG_absolute_monarchy;莫卧儿帝国;;;;;;;;;;;;x
-MUG_prussian_constitutionalism;莫卧儿帝国;;;;;;;;;;;;x
-MUG_fascist_dictatorship;帖木儿共和国;;;;;;;;;;;;x
-MUG_proletarian_dictatorship;莫卧儿人民共和国;;;;;;;;;;;;x
+MUG_absolute_monarchy;印度斯坦帝国;;;;;;;;;;;;x
+MUG_prussian_constitutionalism;印度斯坦帝国;;;;;;;;;;;;x
+MUG_fascist_dictatorship;印度斯坦共和国;;;;;;;;;;;;x
+MUG_proletarian_dictatorship;印度斯坦人民共和国;;;;;;;;;;;;x
 MUG_conservative;米尔·萨曼派;;;;;;;;;;;;x
 MUG_liberal;哈乃斐派;;;;;;;;;;;;x
 MUG_reactionary;米尔·巴克希派;;;;;;;;;;;;x
@@ -474,7 +474,7 @@ CHK_anarcho_liberal;激进派;;;;;;;;;;;;x
 CHK_socialist;社会派;;;;;;;;;;;;x
 CHK_communist;共产派;;;;;;;;;;;;x
 CHK_fascist;法西斯派;;;;;;;;;;;;x
-CRO_conservative;克罗地亚权利党;;;;;;;;;;;;x
+CRO_conservative;克罗埃西亚权利党;;;;;;;;;;;;x
 CRO_liberal;人民党;;;;;;;;;;;;x
 CRO_reactionary;民族党;;;;;;;;;;;;x
 CRO_anarcho_liberal;无政府党;;;;;;;;;;;;x
@@ -3965,8 +3965,8 @@ MOL;摩尔达维亚;;;;;;;;;;;;x
 MOL_ADJ;摩尔达维亚;;;;;;;;;;;;x
 MON;黑山;;;;;;;;;;;;x
 MON_ADJ;黑山的;;;;;;;;;;;;x
-MUG;莫卧儿帝国;;;;;;;;;;;;x
-MUG_ADJ;莫卧儿的;;;;;;;;;;;;x
+MUG;印度斯坦;;;;;;;;;;;;x
+MUG_ADJ;印度斯坦的;;;;;;;;;;;;x
 MUS;莫斯科;;;;;;;;;;;;x
 MUS_ADJ;莫斯科的;;;;;;;;;;;;x
 MYS;迈索尔;;;;;;;;;;;;x
