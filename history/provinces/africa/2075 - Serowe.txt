@@ -1,5 +1,5 @@
-owner = GRQ
-controller = GRQ
+owner = MAT
+controller = MAT
 add_core = GRQ
 add_core = MAT
 terrain = savanna

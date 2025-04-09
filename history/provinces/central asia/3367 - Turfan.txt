@@ -1,5 +1,6 @@
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = XBI
+controller = XBI
+add_core = XBI
+add_core = CHI
 trade_goods = grain
-life_rating = 35
+life_rating = 40

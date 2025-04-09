@@ -1,0 +1,357 @@
+3805 = {
+aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 1875
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 325
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 150
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 150
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 250
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 500
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 550
+	}
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 42050
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1500
+	}
+
+	labourers = {
+		culture = mongol
+		religion = gelugpa
+		size = 40000
+	}}
+3806 = {
+aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 1875
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 325
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 150
+	}
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 150
+	}
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 250
+	}
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 500
+	}
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 550
+	}
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 42050
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1500
+	}
+
+	labourers = {
+		culture = mongol
+		religion = gelugpa
+		size = 40000
+	}}
+3807 = {
+aristocrats = {
+		culture = tatar
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 550
+	}
+
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 2800
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size= 1000
+
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 51325
+	}
+}
+3808 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 2000
+	}
+	
+	farmers = {
+		culture = oirat
+		religion = sunni
+		size= 1500
+	}	
+	}
+3809 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 2000
+	}
+	
+	farmers = {
+		culture = oirat
+		religion = sunni
+		size= 1500
+	}	
+	}
+3810 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 2000
+	}
+	
+	farmers = {
+		culture = oirat
+		religion = sunni
+		size= 1500
+	}	
+	}
+3811 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 2000
+	}
+	
+	farmers = {
+		culture = oirat
+		religion = sunni
+		size= 1500
+	}	
+	}
+3812 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 2000
+	}
+	
+	farmers = {
+		culture = oirat
+		religion = sunni
+		size= 1500
+	}	
+	}
+3813 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 2000
+	}
+	
+	farmers = {
+		culture = oirat
+		religion = sunni
+		size= 1500
+	}	
+	}
+3814 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 2000
+	}
+	
+	farmers = {
+		culture = oirat
+		religion = sunni
+		size= 1500
+	}	
+	}

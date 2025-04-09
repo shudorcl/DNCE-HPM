@@ -1,5 +1,8 @@
 owner = TIB
 controller = TIB
 add_core = TIB
+add_core = XBI
+add_core = QIN
+add_core = DAX
 trade_goods = wool
 life_rating = 25

@@ -1,0 +1,8 @@
+owner = CHG
+controller = CHG   
+add_core = CHG
+add_core = CHI
+trade_goods = coal
+life_rating = 40
+add_core = CDI
+add_core = CPN

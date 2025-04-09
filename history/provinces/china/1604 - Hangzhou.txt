@@ -1,7 +1,7 @@
 owner = CYU
 controller = CYU
-add_core = MIG
 add_core = CHI
 trade_goods = silk
-life_rating = 32
+life_rating = 40
 add_core = CYU
+naval_base = 2

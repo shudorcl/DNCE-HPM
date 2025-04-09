@@ -5,3 +5,4 @@ life_rating = 35
 owner = TNG
 controller = TNG
 add_core = TNG
+naval_base = 1

@@ -3,6 +3,5 @@ controller = TNG
 add_core = TNG
 add_core = CHI
 trade_goods = timber
-life_rating = 32
-terrain = montane_forest
+life_rating = 40
 

@@ -1,0 +1,6 @@
+add_core = CHI
+trade_goods = iron
+life_rating = 40
+owner = CLO
+controller = CLO
+add_core = CLO

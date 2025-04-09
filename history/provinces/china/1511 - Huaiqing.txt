@@ -1,6 +1,6 @@
-owner = CZN
-controller = CZN
+owner = CHW
+controller = CHW
 add_core = CHI
 trade_goods = tea
-life_rating = 32
-add_core = CZN
+life_rating = 40
+add_core = CHW

@@ -1,0 +1,6 @@
+owner = CJA
+controller = CJA
+add_core = CJA
+add_core = CHI
+trade_goods = timber
+life_rating = 40

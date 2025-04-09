@@ -1,7 +1,6 @@
-owner = CEN
-controller = CEN
-add_core = MIG
+owner = CSN
+controller = CSN
+add_core = CSN
 add_core = CHI
 trade_goods = tea
-life_rating = 32
-add_core = CEN
+life_rating = 40

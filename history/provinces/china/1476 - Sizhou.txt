@@ -1,7 +1,7 @@
-owner = CXU
-controller = CXU
+owner = CEN
+controller = CEN
 add_core = MIG
 add_core = CHI
 trade_goods = tea
-life_rating = 32
-add_core = CXU
+life_rating = 40
+add_core = CEN

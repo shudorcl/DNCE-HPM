@@ -1,0 +1,6 @@
+add_core = CHI
+trade_goods = dye
+life_rating = 40
+owner = CSN
+controller = CSN
+add_core = CSN

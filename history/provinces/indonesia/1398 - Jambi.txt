@@ -5,4 +5,4 @@ trade_goods = grain
 life_rating = 31
 owner = TNG
 controller = TNG
-colonial = 1
+naval_base = 2

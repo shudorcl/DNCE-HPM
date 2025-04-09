@@ -1,6 +1,7 @@
-owner = CHQ
-controller = CHQ
+owner = CLU
+controller = CLU
 add_core = CHI
 trade_goods = grain
-life_rating = 32
-add_core = CHQ
+life_rating = 40
+add_core = CLU
+naval_base = 1

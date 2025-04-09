@@ -1,0 +1,6 @@
+owner = CGU
+controller = CGU
+add_core = CHI
+trade_goods = fruit
+life_rating = 40
+add_core = CGU

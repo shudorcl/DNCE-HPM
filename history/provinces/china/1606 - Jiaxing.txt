@@ -1,7 +1,6 @@
-owner = CWU
-controller = CWU
-add_core = MIG
+owner = CYU
+controller = CYU
 add_core = CHI
 trade_goods = silk
-life_rating = 32
-add_core = CWU
+life_rating = 40
+add_core = CYU

@@ -1,5 +1,6 @@
-owner = SUA
-controller = SUA
+owner = TNG
+controller = TNG
+colonial = 2
 add_core = SUA
 add_core = MAT
 add_core = ZUL

@@ -1,0 +1,6 @@
+owner = CHW
+controller = CHW
+add_core = CHI
+trade_goods = silk
+life_rating = 40
+add_core = CHW

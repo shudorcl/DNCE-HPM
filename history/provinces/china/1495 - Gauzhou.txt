@@ -1,6 +1,7 @@
-owner = CGU
-controller = CGU
+owner = TAI
+controller = TAI
 add_core = CHI
 trade_goods = grain
-life_rating = 32
-add_core = CGU
+life_rating = 40
+add_core = TAI
+naval_base = 1

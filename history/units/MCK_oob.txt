@@ -72,71 +72,71 @@ leader = {
 
 army = {
 	name = "1st Green Standard Army"
-	location = 1555
+	location = 1565
 	regiment = {
 		name= "1st Green Standard"
 		type = infantry
-		home = 1555
+		home = 1565
 	}
 
 	regiment = {
 		name= "2nd Green Standard"
 		type = infantry
-		home = 1555
+		home = 1565
 	}
 
 	regiment = {
 		name= "3rd Green Standard"
 		type = infantry
-		home = 1554
+		home = 1567
 	}
 	
 	regiment = {
 		name= "4th Green Standard"
 		type = infantry
-		home = 1554
+		home = 1567
 	}
 
 	regiment = {
 		name= "5th Green Standard"
 		type = infantry
-		home = 1555
+		home = 1613
 	}
 
 	regiment = {
 		name= "6th Green Standard"
 		type = infantry
-		home = 1555
+		home = 1613
 	}
 	
 	regiment = {
 		name= "7th Green Standard"
 		type = infantry
-		home = 1555
+		home = 1613
 	}
 
 	regiment = {
 		name= "8th Green Standard"
 		type = hussar
-		home = 1555
+		home = 1613
 	}
 
 	regiment = {
 		name= "9th Green Standard"
 		type = hussar
-		home = 1555
+		home = 1613
 	}
 	
 	regiment = {
 		name= "10th Green Standard"
 		type = hussar
-		home = 1002
+		home = 1614
 	}
 }
 
 army = {
 	name = "2nd Green Standard Army"
-	location = 1082
+	location = 1472
 
 	regiment = {
 		name= "11th Green Standard"
@@ -147,13 +147,13 @@ army = {
 	regiment = {
 		name= "12th Green Standard"
 		type = infantry
-		home = 1082
+		home = 1472
 	}
 	
 	regiment = {
 		name= "13th Green Standard"
 		type = infantry
-		home = 1082
+		home = 1472
 	}
 
 	regiment = {
@@ -324,19 +324,19 @@ army = {
 	regiment = {
 		name= "2nd Standard"
 		type = infantry
-		home = 1555
+		home = 1565
 	}
 
 	regiment = {
 		name= "3rd Standard"
 		type = infantry
-		home = 1555
+		home = 1565
 	}
 	
 	regiment = {
 		name= "4th Standard"
 		type = infantry
-		home = 1555
+		home = 1565
 	}
 
 	regiment = {
@@ -585,7 +585,7 @@ army = {
 
 navy = {
 	name = "Imperial Fleet"
-	location = 1082
+	location = 1569
 	ship = {
 		name= "Manchu"
 		type = frigate
@@ -640,7 +640,7 @@ navy = {
 
 navy = {
 	name = "Southern Fleet"
-	location = 1082
+	location = 1565
 	ship = {
 		name= "Nanjing"
 		type = frigate
@@ -675,4 +675,17 @@ navy = {
 		name= "Transport Flotilla"
 		type = clipper_transport
 	}
+}
+
+
+TAI = {
+	value = -150		#relation
+}
+
+MIG = { 
+	value = -150 		#relation
+}
+
+TNG = { 
+	value = -150 		#relation
 }

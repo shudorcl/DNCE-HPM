@@ -1,0 +1,6 @@
+owner = CDI
+controller = CDI
+add_core = CHI
+trade_goods = grain
+life_rating = 40
+add_core = CDI

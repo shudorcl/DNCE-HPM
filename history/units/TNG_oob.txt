@@ -210,18 +210,3 @@ PLM = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 }
-
-BEN = { 
-	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-}
-
-DAI = { 
-	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-}
-
-CQN = { 
-	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-}

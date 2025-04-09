@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = TNG
+controller = TNG
 add_core = BTV
 add_core = SAF
 add_core = LWE

@@ -1,5 +1,5 @@
 add_core = BUR
-colonial = 1
+colonial = 2
 trade_goods = fish
 life_rating = 35
 owner = TNG

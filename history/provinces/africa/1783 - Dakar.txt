@@ -5,5 +5,4 @@ trade_goods = grain
 terrain = semidesert
 life_rating = 35
 naval_base = 1
-colonial = 1
 

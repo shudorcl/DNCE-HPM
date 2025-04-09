@@ -1,0 +1,6 @@
+add_core = CHI
+trade_goods = timber
+life_rating = 40
+owner = XBI
+controller = XBI
+add_core = XBI

@@ -1,5 +1,7 @@
-owner = XHO
-controller = XHO
+owner = TNG
+controller = TNG
+colonial = 2
+naval_base = 1
 add_core = XHO
 add_core = BTV
 trade_goods = wool

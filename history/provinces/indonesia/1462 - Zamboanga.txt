@@ -5,3 +5,4 @@ add_core = TON
 trade_goods = iron
 life_rating = 35
 add_core = TNG
+naval_base = 2

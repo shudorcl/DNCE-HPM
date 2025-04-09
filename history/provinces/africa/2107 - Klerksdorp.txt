@@ -1,5 +1,5 @@
-owner = TRN
-controller = TRN
+owner = TNG
+controller = TNG
 add_core = TRN
 add_core = BTV
 trade_goods = coal

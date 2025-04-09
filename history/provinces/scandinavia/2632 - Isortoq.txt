@@ -1,7 +1,7 @@
-owner = CGU
-controller = CGU
+owner = TNG
+controller = TNG
 add_core = CHI
-add_core = CGU
+add_core = TAI
 trade_goods = silk
 life_rating = 32
 terrain = plains

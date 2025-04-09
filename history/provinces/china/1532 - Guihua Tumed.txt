@@ -3,4 +3,5 @@ controller = CHG
 add_core = CHG
 add_core = MGL
 trade_goods = coal
-life_rating = 32
+life_rating = 40
+add_core = CQI

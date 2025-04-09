@@ -1,0 +1,6 @@
+owner = CQO
+controller = CQO
+add_core = CQO
+add_core = CHI
+trade_goods = fish
+life_rating = 40

@@ -1,0 +1,6 @@
+owner = CGN
+controller = CGN
+add_core = CHI
+trade_goods = sulphur
+life_rating = 40
+add_core = CGN

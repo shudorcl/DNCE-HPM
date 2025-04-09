@@ -3,3 +3,4 @@ controller = TNG
 add_core = TON
 trade_goods = grain
 life_rating = 35
+add_core = TNG
