@@ -2,5 +2,5 @@ owner = CZN
 controller = CZN
 add_core = CHI
 trade_goods = cattle
-life_rating = 32
+life_rating = 40
 add_core = CZN

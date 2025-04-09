@@ -1,5 +1,6 @@
-owner = NFL
-controller = NFL
+owner = TNG
+controller = TNG
+colonial = 2
 add_core = NFL
 add_core = MAT
 add_core = BTV

@@ -1,5 +1,5 @@
-owner = TRN
-controller = TRN
+owner = BSH
+controller = BSH
 add_core = TRN
 add_core = BSH
 add_core = BTV

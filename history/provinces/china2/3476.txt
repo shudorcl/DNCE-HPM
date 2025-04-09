@@ -1,0 +1,6 @@
+owner = DAX
+controller = DAX
+add_core = DAX
+add_core = CHI
+trade_goods = wool
+life_rating = 40

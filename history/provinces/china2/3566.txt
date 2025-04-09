@@ -1,0 +1,7 @@
+add_core = CHI
+trade_goods = iron
+life_rating = 40
+naval_base = 1
+owner = CMI
+controller = CMI
+add_core = CMI

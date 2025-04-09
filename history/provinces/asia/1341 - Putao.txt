@@ -1,5 +1,6 @@
 owner = CQN
 controller = CQN
-add_core = KCH
+add_core = CHI
+add_core = CQN
 trade_goods = timber
-life_rating = 31
+life_rating = 40

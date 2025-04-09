@@ -1,3 +1,5 @@
+owner = TNG
+controller = TNG
 add_core = BTV
 add_core = LWE
 

@@ -2,5 +2,5 @@ owner = CGN
 controller = CGN
 add_core = CHI
 trade_goods = coal
-life_rating = 32
+life_rating = 40
 add_core = CGN

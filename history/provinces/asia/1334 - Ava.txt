@@ -1,6 +1,6 @@
-owner = TNG
-controller = TNG
-add_core = BUR
+owner = CQN
+controller = CQN
+add_core = CHI
+add_core = CQN
 trade_goods = tropical_wood
-life_rating = 35
-colonial = 1
+life_rating = 40

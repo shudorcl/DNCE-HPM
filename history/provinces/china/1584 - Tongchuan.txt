@@ -1,7 +1,6 @@
-add_core = DAX
 add_core = CHI
 trade_goods = fruit
-life_rating = 32
-owner = DAX
-controller = DAX
-add_core = DAX
+life_rating = 40
+owner = CYN
+controller = CYN
+add_core = CYN

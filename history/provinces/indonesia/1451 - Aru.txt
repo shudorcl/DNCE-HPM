@@ -4,4 +4,4 @@ add_core = BAL
 add_core = NUS
 trade_goods = fish
 life_rating = 30
-colonial = 1
+naval_base = 2

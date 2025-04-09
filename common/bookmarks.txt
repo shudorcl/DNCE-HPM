@@ -4,6 +4,17 @@ bookmark = {
     date = 1836.1.1
     cameraX = 2950
     cameraY = 1550
+	
+	
+	
+country = MIG
+country = CHQ
+country = CHU
+country = QIN
+country = SHU
+country = CYU
+country = CZN
+country = TNG
 }
 
 #bookmark =

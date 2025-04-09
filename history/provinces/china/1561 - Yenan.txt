@@ -1,6 +1,6 @@
 add_core = CHI
 trade_goods = coal
-life_rating = 32
+life_rating = 40
 owner = CQI
 controller = CQI
 add_core = CQI

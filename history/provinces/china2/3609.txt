@@ -1,0 +1,6 @@
+owner = CHU
+controller = CHU
+add_core = CHI
+trade_goods = coffee
+life_rating = 40
+add_core = CHU

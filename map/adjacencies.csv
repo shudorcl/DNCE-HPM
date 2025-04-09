@@ -41,10 +41,10 @@ From;To;Type;Through;Data;Comment
 #
 254;271;sea;2737;0;Irish Strait
 324;348;sea;2706;0;Aland Strait #Uppsala to Aland #these were in V1
-334;372;sea;2711;0;÷resund
-335;374;sea;2710;0;Bornholmsf‰rjan
+334;372;sea;2711;0;¨Hesund
+335;374;sea;2710;0;Bornholmsf·Tjan
 348;345;sea;2706;0;Aland Strait #Aland to Turku 
-353;349;sea;2709;0;÷selsund
+353;349;sea;2709;0;¨Belsund
 353;358;sea;2709;0;Strait of Riga
 372;373;sea;2711;0;Fyn-Sjaelland
 371;373;sea;2711;0;Fyn-Jylland
@@ -98,12 +98,12 @@ From;To;Type;Through;Data;Comment
 1420;1438;sea;2811;0;Bali Strait
 1438;1442;sea;2811;0;Lombok Strait
 1442;1440;sea;2811;0;Sumbawa Strait
-1495;1499;sea;2823;0;Hainan Strait
+#1495;1499;sea;2823;0;Hainan Strait
 1457;1461;sea;2849;0;Tacloban Strait
-1640;1660;land;2843;0;Fukuoka Strait
+1640;1660;sea;2843;0;Fukuoka Strait
 1642;1672;sea;2841;0;Hakodate Strait
-1664;1666;land;2843;0;Matsuyama Strait
-1667;1659;land;2843;0;Setto Strait
+1664;1666;sea;2843;0;Matsuyama Strait
+1667;1659;sea;2843;0;Setto Strait
 1411;1408;sea;2803;0;Gunungsitoli Strait
 1404;1399;land;2813;0;Palak Panang Strait
 1402;1398;sea;2814;0;Tanjungpinang Strait
@@ -136,6 +136,21 @@ From;To;Type;Through;Data;Comment
 1088;1074;sea;2838;0;Shumshu-Petropavlovsk Strait
 1679;1678;sea;2845;0;Amari-Okinawa Strait
 1637;1635;sea;2829;0;Cheju-Kwangju Strait
+3555;1678;sea;2845;0;Amari-Okinawa Strait
+1637;2589;sea;2829;0;Cheju-Kwangju Strait #New
+3573;1538;sea;2826;0;#New through the Yantze River
+3573;1606;sea;2826;0;#New through the Yantze River
+3573;1608;sea;2826;0;#New through the Yantze River
+3544;1499;land;2823;0;Hainan Strait #New
+3544;3537;sea;2823;0;Hainan Strait #New
+3544;3543;sea;2823;0;Hainan Strait #New
+3544;3526;sea;2823;0;Hainan Strait #New
+3560;3559;sea;2825;0;Penghu - Taiwan Strait #New
+2406;3559;sea;2825;0;Penghu - Taiwan Strait #New
+2562;1456;sea;2825;0;Penghu - Taiwan Strait #New
+1459;1396;sea;2821;0;#New
+1397;1464;sea;2851;0;Sulu Strait #New
+1404;1426;sea;2813;0;Palak Panang Strait #New
 #
 # Oceanian Straits
 #

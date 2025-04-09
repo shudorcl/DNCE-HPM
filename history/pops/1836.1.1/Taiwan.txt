@@ -2,642 +2,337 @@
 #under the rule of China in 1836  
 #Tainan (1452000/363000 POPS) #now part of Taiwan   
 1485 = {
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 10000
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 3000
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 1000
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 8000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 10000
-	}
-
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 380000
+		size = 68000
 	}
-	aristocrats = {
+	
+	slaves = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
+		size = 80000
 	}
-
-	bureaucrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 1000
-	}
-
-	officers = {
-		culture = beifaren
-		religion = mahayana
-		size = 500
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 2000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 75000
-	}
-}
-#Taitung (67k - 268k) #now part of Taiwan  
-2562 = {
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 10000
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 3000
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 1000
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 8000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
+	
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 10000
+		size = 24000
 	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 160000
-	}
+	
 	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 1500
-	}
-
-	bureaucrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 500
-	}
-
-	officers = {
-		culture = beifaren
-		religion = mahayana
-		size = 250
-	}
-
-	clergymen = {
 		culture = beifaren
 		religion = mahayana
 		size = 4000
 	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
+	
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 600
+	}
+	
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 400
 	}
 
 	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
+		culture = micronesian
+		religion = animist
 		size = 3000
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1000
+		size = 13200
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = min
 		religion = mahayana
-		size = 35000
+		size = 51700
 	}
-	artisans = {
-		culture = micronesian
-		religion = animist
-		size = 2000
-	}
+}
+#Taitung (67k - 268k) #now part of Taiwan  
+2562 = {
 	farmers = {
-		culture = micronesian
-		religion = animist
-		size = 20000
+		culture = min
+		religion = mahayana
+		size = 68000
 	}
 	
 	slaves = {
 		culture = micronesian
 		religion = animist
-		size = 20000
+		size = 80000
 	}
 	
-	clergymen = {
-		culture = micronesian
-		religion = animist
-		size = 500
-	}
-
 	soldiers = {
-		culture = micronesian
-		religion = animist
-		size = 2000
+		culture = min
+		religion = mahayana
+		size = 24000
 	}
 	
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 1000
+		size = 4000
 	}
 	
-}
-
-#Penghu (15K - 60 K POPS) #british trade post 1836 - old cocos island
-2406 = {
 	aristocrats = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
-		size = 1100
+		size = 600
 	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 500
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
+	
 	clergymen = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
-		size = 1000
+		size = 400
 	}
 
 	artisans = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
-		size = 2500
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 2500
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 2500
+		size = 3000
 	}
 
 	soldiers = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
-		size = 1500
+		size = 13200
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 22370
+		size = 51700
+	}
+}
+
+#Penghu (15K - 60 K POPS) #british trade post 1836 - old cocos island
+2406 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 600
+	}
+	
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 400
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 5200
+	}
+
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 51700
 	}
 
 }
 
 #Taipei (1452000/363000 POPS) formerly 2681 - Kikkiaki in Russia.txt
 2681 = {
-	aristocrats = {
+	farmers = {
 		culture = min
 		religion = mahayana
-		size = 10000
+		size = 68000
 	}
-
-	bureaucrats = {
-		culture = min
+	
+	slaves = {
+		culture = beifaren
 		religion = mahayana
-		size = 3000
+		size = 80000
 	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 1000
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 8000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
-	}
-
+	
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 10000
+		size = 24000
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 4000
+	}
+	
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 600
+	}
+	
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 13200
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 360000
+		size = 51700
 	}
+}
+
+3553 = {
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
+		size = 3350
 	}
-
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 337
+	}
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 300
+	}
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 6750
+	}
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 3925
+	}
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 5000
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 900
+	}
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 750
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 3475
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 5000
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 5000
+	}
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 5000
+	}
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 1000
+		size = 2175
 	}
-
-	officers = {
+	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 500
+		size = 1687
 	}
-
 	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 175
+	}
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 150
+	}
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 3400
+	}
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 149050
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 16412
+	}
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 13650
+	}
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 294125
+	}
+	officers = {
 		culture = beifaren
 		religion = mahayana
 		size = 2000
 	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6000
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
+		size = 1587
 	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 72500
-	}
-}
-1346 = {
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 900
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 1000
+		size = 175
 	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 21000
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 650
 	}
-}
-1347 = {
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 900
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 1000
-	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 21000
-	}
-}
-1678 = {
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 100
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 50
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 200
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 7250
-	}
-}
-1637 = {
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 100
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 50
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 200
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1200
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1200
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1200
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 8250
+		size = 1750
 	}
 }

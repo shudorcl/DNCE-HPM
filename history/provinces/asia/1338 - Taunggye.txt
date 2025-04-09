@@ -1,5 +1,6 @@
 owner = CQN
 controller = CQN
-add_core = SHA
+add_core = CHI
+add_core = CQN
 trade_goods = opium
-life_rating = 32
+life_rating = 40

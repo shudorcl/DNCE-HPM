@@ -1,0 +1,6 @@
+add_core = CHI
+trade_goods = tea
+life_rating = 40
+owner = CQI
+controller = CQI
+add_core = CQI

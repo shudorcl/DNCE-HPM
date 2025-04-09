@@ -1,5 +1,6 @@
-owner = LWE
-controller = LWE
+owner = TNG
+controller = TNG
+colonial = 2
 add_core = LWE
 add_core = BSH
 add_core = BTV 

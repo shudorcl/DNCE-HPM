@@ -80,59 +80,6 @@
 		religion = mahayana
 		size = 1400
 	}
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 900
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 1000
-	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 21000
-	}
 
 	clergymen = {
 		culture = vietnamese
@@ -202,59 +149,7 @@
 		religion = mahayana
 		size = 1400
 	}
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 900
-	}
 
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 1000
-	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 21000
-	}
 	clergymen = {
 		culture = vietnamese
 		religion = catholic
@@ -511,59 +406,6 @@
 		religion = mahayana
 		size = 75
 	}
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 900
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 1000
-	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 21000
-	}
 
 	artisans = {
 		culture = min
@@ -722,59 +564,6 @@
 		religion = mahayana
 		size = 2925
 	}
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 900
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 1000
-	}
-
-	farmers = {
-		culture = min
-		religion = mahayana
-		size = 21000
-	}
 }
 #Vinh (524000/131000 POPS)
 1376 = {
@@ -915,58 +704,22 @@
 		size = 19975
 	}
 
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 900
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
-		size = 300
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
-	}
-
 	clergymen = {
 		culture = min
 		religion = mahayana
-		size = 600
+		size = 25
 	}
 
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 1000
+		size = 550
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 11000
+		size = 425
 	}
 }
 #Pleiku (148000 37000 POPS)
@@ -1097,49 +850,104 @@
 	aristocrats = {
 		culture = min
 		religion = mahayana
-		size = 10000
+		size = 3600
 	}
 
 	bureaucrats = {
 		culture = min
 		religion = mahayana
-		size = 3000
+		size = 325
 	}
 
 	officers = {
 		culture = min
 		religion = mahayana
-		size = 1000
+		size = 300
 	}
 
 	clergymen = {
 		culture = min
 		religion = mahayana
-		size = 8000
+		size = 1775
 	}
 
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 34000
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 34000
+		size = 7500
 	}
 
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 10000
+		size= 1775
+
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 150000
+		size = 161725
+	}
+
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 8000
+	}
+
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 75
+	}
+
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 2100
+	}
+
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 1825
+	}
+
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 50
+	}
+
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 1600
+	}
+
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 1350
+	}
+
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 18875
 	}
 }
 #Dongquai (244000/61000 POPS)
@@ -1257,58 +1065,29 @@
 		size = 12725
 	}
 
-	aristocrats = {
-		culture = min
-		religion = mahayana
-		size = 900
-	}
-
-	bureaucrats = {
+	clergymen = {
 		culture = min
 		religion = mahayana
 		size = 300
 	}
 
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
-	}
-
-	clergymen = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
+		size = 1450
 	}
 
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 1000
+		size= 250
+
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 21000
+		size = 27000
 	}
 }
 #Vinhlong (120000/30000 POPS)
@@ -1316,55 +1095,32 @@
 	aristocrats = {
 		culture = min
 		religion = mahayana
-		size = 900
-	}
-
-	bureaucrats = {
-		culture = min
-		religion = mahayana
 		size = 300
-	}
-
-	officers = {
-		culture = min
-		religion = mahayana
-		size = 150
 	}
 
 	clergymen = {
 		culture = min
 		religion = mahayana
-		size = 600
+		size = 125
 	}
 
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
+		size = 700
 	}
 
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 1000
+		size= 1100
+
 	}
 
 	farmers = {
 		culture = min
 		religion = mahayana
-		size = 21500
+		size = 11875
 	}
 
 	clergymen = {

@@ -1,6 +1,6 @@
-owner = CGN
-controller = CGN
+owner = CJA
+controller = CJA
+add_core = CJA
 add_core = CHI
 trade_goods = tea
-life_rating = 32
-add_core = CGN
+life_rating = 40

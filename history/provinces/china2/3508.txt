@@ -1,0 +1,6 @@
+owner = CQN
+controller = CQN
+add_core = CHI
+trade_goods = tropical_wood
+life_rating = 40
+add_core = CQN
